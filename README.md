@@ -1,43 +1,51 @@
-# Coherence Drive — Master Repository
+# Coherence Drive — Master Integration Repository
 
-**© 2026 Brian Ware / AtomicDreamlabs — All Rights Reserved. Proprietary Technology.**
+**© 2026 William B. Ware / Atomic Dream Labs — All Rights Reserved.**
 
-**Official integration of all groundbreaking findings**
+**Purpose:** Single entry point that links every component of the Coherence Drive concept and records the current integration status.
 
-This is the central repo that ties together the complete Coherence Drive system. It links every derived component and provides the high-level architecture, blind-build instructions, and next steps for hardware realization.
+**Status (2026-08-14):** Architectural pointer + consistency layer. The system is **not** yet “numerically validated and hardware-ready.” Missing executable artifacts and an unresolved numerical tension in the Ware Constant family prevent that claim.
 
-**License**  
-See LICENSE file in this repository. All rights reserved. No copying, modification, or distribution without explicit written permission from Brian Ware.
+---
 
-## Included Findings (Each Has Its Own Dedicated Repo)
-1. `ware-constant-derivation` — Rigorous derivation of \( W \approx 0.08 \)
-2. `m2-renormalization-law` — Exponential scaling with fractal depth
-3. `topological-pinch` — 92 % aft-face localization (the physical mechanism)
-4. `momentum-closure` — Surface integral + Poynting flux (conservation closed)
-5. `sierpinski-geometry-045` — The 0.45 asymmetric Sierpinski tetrahedron hardware
-6. `stress-tensor-modification` — Modified Maxwell stress tensor with Ware injection
-7. `thrust-target-30` — The fixed 30 μN/kW engineering target
+## Component Map
 
-## Current Baseline (v1.1)
-- Physics-closed: momentum conservation enforced via surface integrals
-- Mesh-invariant: ΔF stable from L/50 to L/400
-- Numerically validated: 1.257× force ratio at n=3, 92 % topological pinch
-- Thrust target anchored: 30 μN/kW derived and consistent
+| # | Repository | Role | Current Maturity |
+|---|------------|------|------------------|
+| 1 | [ware-constant-phenomenology](https://github.com/beyond-repair/ware-constant-phenomenology) | Canonical mathematics, Symbol Registry, kill-gates | Highest (ledger) |
+| 2 | [-ware-constant-derivation](https://github.com/beyond-repair/-ware-constant-derivation) | Attempted first-principles route from thrust target | Provisional sketch |
+| 3 | [m2-renormalization-law](https://github.com/beyond-repair/m2-renormalization-law) | Depth-dependent scaling W(n) | Provisional ansatz |
+| 4 | [topological-pinch](https://github.com/beyond-repair/topological-pinch) | Claimed 92.1 % aft-face localization | Conceptual |
+| 5 | [momentum-closure](https://github.com/beyond-repair/momentum-closure) | Surface integral + Poynting residual | Conceptual |
+| 6 | [sierpinski-geometry-045](https://github.com/beyond-repair/sierpinski-geometry-045) | 0.45 asymmetric tetrahedron | Geometry specification (generator absent) |
+| 7 | [stress-tensor-modification](https://github.com/beyond-repair/stress-tensor-modification) | Modified Maxwell stress + evaluator fragment | Partial code |
+| 8 | [thrust-target-30](https://github.com/beyond-repair/thrust-target-30) | Engineering target 30 μN/kW | Anchor definition |
+| — | [CFTv3.3-IQG-Unified-Framework](https://github.com/beyond-repair/CFTv3.3-IQG-Unified-Framework) | Ontological synthesis (PIF / Quantules) | Synthesis layer |
 
-## Blind-Build / Hand-Off Instructions for Next Engineer
-1. Clone this master repo + all 7 sub-repos
-2. Start with `sierpinski-geometry-045` → run `sierpinski_generator.py` to get the STL
-3. Use `stress-tensor-modification` and `physics_evaluator.py` to simulate performance
-4. Verify momentum closure (`momentum-closure` repo) on the generated geometry
-5. Fabricate prototype (low-loss dielectric, RF feeds per momentum-closure notes)
-6. Test in vacuum chamber (< 10^{-6} Torr) targeting 30 μN/kW
+---
 
-**Status:** The engine is mathematically derived, numerically validated, and ready for first physical prototype.
+## Current Baseline (Honest)
 
-**Next Hardware Step**  
-Generate and print the 0.45 Sierpinski tetrahedron, integrate RF drive, and measure thrust under vacuum conditions.
+- **Physics concept:** Informational stress-energy contribution scaled by a Ware factor and spatially modulated by fractal LDOS geometry.
+- **Target performance:** 30 μN/kW.
+- **Known internal tension:** Phenomenological anchor \(W_\star\approx0.08\) versus tabulated M2 values that exceed the previously stated ghost-free bound.
+- **Missing pieces:** Complete physics evaluator, geometry generator script, mesh-convergence studies, and any public numerical output that would justify “validated” language.
 
-**Cross-References**  
-All individual findings are in their own repos (linked above). This master repo serves as the single source of truth for the complete system.
+---
 
-**End of File**
+## Recommended Integration Path (for future work)
+
+1. Resolve the W-value / stability-bound conflict in the phenomenology and M2 repositories.
+2. Implement and release a single, mesh-invariant evaluator that computes surface force and Poynting residual on the 0.45 geometry.
+3. Only after the above, generate STL, fabricate, and test under vacuum.
+
+---
+
+## Cross-Reference Discipline
+
+All mathematical definitions defer to **ware-constant-phenomenology** (especially Math.md).  
+All consistency and open-problem tracking defers to **CFTv3.3-IQG-Unified-Framework/CONSISTENCY.md**.
+
+---
+
+**End of status document.**
