@@ -1,30 +1,19 @@
-# Coherence Drive — Master Integration Repository
+# Coherence Drive — Master Pointer
 
-**Status (2026-08-14):** Architectural pointer. Not hardware-ready.
+**Status (2026-08-17):** Architectural index only. **No** integrated executable engine in this repository.
 
-## Locked Baseline
+This repo does **not** contain a complete, physics-closed propulsion system. Downstream solvers and math live in sibling repositories.
 
-- \(W_\star = 1/(4\pi)\approx 0.0796\) (tree-level matching)
-- Option A: M2 is geometric/LDOS enhancement only
-- Macro \(r_0(M_b)\) verified; local SPARC median χ²_red ~12
-- Engineering thrust target remains a design goal, not a demonstrated result
+## Component map
 
-## Component Map
+| Repo | Contents |
+|------|----------|
+| [ware-constant-phenomenology](https://github.com/beyond-repair/ware-constant-phenomenology) | Math, SPARC, lensing, Bullet, kill-gates |
+| [sierpinski-geometry-045](https://github.com/beyond-repair/sierpinski-geometry-045) | Geometry generator |
+| [stress-tensor-modification](https://github.com/beyond-repair/stress-tensor-modification) | Evaluator + BEM/EFIE |
+| [momentum-closure](https://github.com/beyond-repair/momentum-closure) | Conceptual notes only |
+| [topological-pinch](https://github.com/beyond-repair/topological-pinch) | Unverified 92% hypothesis |
+| [thrust-target-30](https://github.com/beyond-repair/thrust-target-30) | Design goal only |
+| [CFTv3.3-IQG-Unified-Framework](https://github.com/beyond-repair/CFTv3.3-IQG-Unified-Framework) | Consistency ledger |
 
-| Repo | Role | Maturity |
-|------|------|----------|
-| ware-constant-phenomenology | Math, SPARC, lensing, W_star | Highest |
-| sierpinski-geometry-045 | 0.45 geometry generator | Working |
-| stress-tensor-modification | Evaluator + BEM/EFIE | Working (research grade) |
-| momentum-closure | Conservation structure | Conceptual |
-| topological-pinch | Aft-face localization | Hypothesis |
-| thrust-target-30 | F/P = 3e-8 N/W target | Design goal |
-| m2-renormalization-law | Geometric scaling | Provisional |
-| -ware-constant-derivation | Derivation sketches | Provisional |
-| CFTv3.3-IQG-Unified-Framework | Ledger + synthesis | Active |
-
-## Next Engineering Steps
-
-1. Close local SPARC and Bullet lag physics issues upstream.
-2. Higher-order RWG full-wave BEM if precision is required.
-3. Only then: mesh-converged residual force with physical fields.
+**Baseline:** \(W_\star=1/(4\pi)\), Option A. No thrust demonstration.
