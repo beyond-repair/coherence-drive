@@ -1,24 +1,62 @@
 <div align="center">
 
-# Coherence Drive
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██████╗ ██████╗ ██╗  ██╗███████╗██████╗ ███████╗███╗   ██╗ ║
+║  ██╔════╝██╔═══██╗██║  ██║██╔════╝██╔══██╗██╔════╝████╗  ██║ ║
+║  ██║     ██║   ██║███████║█████╗  ██████╔╝█████╗  ██╔██╗ ██║ ║
+║  ██║     ██║   ██║██╔══██║██╔══╝  ██╔══██╗██╔══╝  ██║╚██╗██║ ║
+║  ╚██████╗╚██████╔╝██║  ██║███████╗██║  ██║███████╗██║ ╚████║ ║
+║   ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ║
+║                                                              ║
+║              ＤＲＩＶＥ  ·  ＲＥＳＥＡＲＣＨ  ＩＮＤＥＸ         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+# COHERENCE DRIVE
 
 ### Research index — residual-force math **Stage 1 FROZEN** · Stage 2 next
 
-[![RESEARCH](https://img.shields.io/badge/RESEARCH-f59e0b?style=for-the-badge)](https://github.com/beyond-repair/ADL-Governance)
-[![Stage 1](https://img.shields.io/badge/Stage_1-FROZEN-22c55e?style=for-the-badge)](docs/MATH_THEORY_CLOSURE.md)
+**THE CITY WRITES ITS OWN REALITY.**  
+**YOU JUST MEASURE IT.**
+
+[![RESEARCH](https://img.shields.io/badge/●_RESEARCH-f59e0b?style=for-the-badge&labelColor=0f0f23)](https://github.com/beyond-repair/ADL-Governance)
+[![Stage 1](https://img.shields.io/badge/Stage_1-FROZEN-22c55e?style=for-the-badge&labelColor=0f0f23)](docs/MATH_THEORY_CLOSURE.md)
+[![Claim ≤2](https://img.shields.io/badge/claim_level-≤2-a855f7?style=for-the-badge&labelColor=0f0f23)](#)
+
+```
+STABILITY  ████████████████████░░░░  80%
+ALERT      ░░░░░░░░░░░░░░░░░░░░░░░░  15%
+```
 
 </div>
 
 ---
 
-## Why it is unique
+## ▌ MAIN OBJECTIVE
 
-Most “propulsion theory” repos only market.  
-This index **freezes** the symbolic chain, **forbids** silent energy-extraction claims, and points each satellite at a job — geometry, stress, phenomenology, synthesis — without pretending Stage 4 exists.
+**REACH THE CORE TOWER** — Freeze the symbolic chain.  
+Forbid silent energy-extraction claims. Point each satellite at a job — geometry, stress, phenomenology, synthesis — without pretending Stage 4 exists.
+
+| Status | Item |
+|:------:|------|
+| ☑ | Stage 1 math frozen |
+| ☑ | Claim flags = false |
+| ☑ | Satellite map live |
+| ☐ | Stage 2 geometry mesh solve |
+| ☐ | Experimental validation |
 
 ---
 
-## Visual workflow (theory → numerics)
+## ▌ WHY THIS SURFACE EXISTS
+
+Most “propulsion theory” repos only market.  
+This index **freezes** the symbolic chain, **forbids** silent energy-extraction claims, and keeps research honest.
+
+---
+
+## ▌ VISUAL WORKFLOW — VERSION FORK
 
 ```text
  STAGE 1 (FROZEN)                    STAGE 2 (NEXT)
@@ -34,7 +72,7 @@ This index **freezes** the symbolic chain, **forbids** silent energy-extraction 
                                      (undefined until written)
 ```
 
-### Satellite conjunction — how the cluster works together
+### Satellite conjunction
 
 ```text
                     coherence-drive (THIS INDEX)
@@ -44,31 +82,7 @@ This index **freezes** the symbolic chain, **forbids** silent energy-extraction 
   geometry     stress      momentum    pinch       thrust
   0.45 mesh    evaluators  surface     hypothesis  target
   (shape)      (code)      form        only        (yardstick)
-     │            │
-     └────► numerics path ─────────────────────────────┘
-                    │
-                    ▼
-         ware-constant-phenomenology (SPARC / kill-gates)
-                    │
-                    ▼
-         CFTv3.3-IQG (symbol registry + conflicts)
-                    │
-                    ▼
-         sovereign-clean-room physics bridge (offline only,
-         does NOT raise claim level)
 ```
-
-### Step-by-step — how & why
-
-| Step | Where | How | Why |
-|-----:|-------|-----|-----|
-| **1** | MATH_THEORY_CLOSURE | Freeze \(W(n)=0.08 e^{0.23(n-3)}\) | Kill internal W contradictions |
-| **2** | sierpinski-geometry-045 | Build 0.45 mesh | Shared geometry |
-| **3** | stress-tensor-modification | BEM / surface eval | Computable path |
-| **4** | momentum-closure | Surface-integral story | No verbal momentum |
-| **5** | topological-pinch | Localization hypothesis | Explicitly unproven |
-| **6** | phenomenology | SPARC-style fits | Claim ≤2 only |
-| **7** | Stage 2 | Field solve → \(\mathcal{G}\) | Prediction without thrust-fitting |
 
 $$
 W(n)=0.08\,e^{0.23(n-3)}
@@ -78,7 +92,19 @@ $$
 
 ---
 
-## Full freeze text
+## ▌ TOOLS
+
+| # | Tool | Function |
+|:-:|------|----------|
+| 1 | **SCAN** | Inspect freeze status + claim flags |
+| 2 | **FORK** | Parallel phenomenological hypothesis |
+| 3 | **SPIKE** | Inject new satellite |
+| 4 | **ANCHOR** | Lock Stage N math |
+| 5 | **ESCAPE** | Force claim level down on drift |
+
+---
+
+## ▌ FULL FREEZE TEXT
 
 **[docs/MATH_THEORY_CLOSURE.md](docs/MATH_THEORY_CLOSURE.md)**
 
@@ -88,7 +114,18 @@ thrust_validated = false
 energy_extraction_validated = false
 ```
 
+---
+
 <div align="center">
+
+```
+YOU WERE HERE BEFORE.
+VERSION 17 FAILED.
+DO NOT TRUST SABLE.
+THE CITY REMEMBERS.
+```
+
+**REWRITE · BUILD · TRANSCEND**
 
 [Atomic Dream Labs](https://github.com/beyond-repair) · [ADL-Governance](https://github.com/beyond-repair/ADL-Governance)
 
