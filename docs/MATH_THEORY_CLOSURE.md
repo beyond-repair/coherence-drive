@@ -1,7 +1,7 @@
 # Math Theory Closure
 
 **Document status:** STAGE 1 — **FROZEN** · **Claim level:** ≤ 2 (framework / phenomenology)  
-**Date:** 2026-08-23 · **Governance:** [ADL-Governance Claim Validation](https://github.com/beyond-repair/ADL-Governance/blob/main/docs/CLAIM_VALIDATION.md)
+**Date:** 2026-08-23 · **Addendum:** 2026-09-12 (Sweep-137) · **Governance:** [ADL-Governance Claim Validation](https://github.com/beyond-repair/ADL-Governance/blob/main/docs/CLAIM_VALIDATION.md)
 
 This document freezes the **symbolic** residual-force theory. It does **not** establish physical validity, numerical closure, or experimental force.
 
@@ -13,8 +13,8 @@ This document freezes the **symbolic** residual-force theory. It does **not** es
 
 | Layer | What is established | What is **not** established |
 |-------|---------------------|------------------------------|
-| **Phenomenological structure** | \(W(n)\), \(T_{\rm eff}\), \(\Delta F\) chain | Physical validity in nature |
-| **Mathematical closure** | Symbolic \(\Delta F = W\,\chi_{\rm vac}\,\mathcal{G}\) | Numerical values of \(\chi_{\rm vac}\), \(\mathcal{G}\) |
+| **Phenomenological structure** | $W(n)$, $T_{\rm eff}$, $\Delta F$ chain | Physical validity in nature |
+| **Mathematical closure** | Symbolic $\Delta F = W\,\chi_{\rm vac}\,\mathcal{G}$ | Numerical values of $\chi_{\rm vac}$, $\mathcal{G}$ |
 | **Numerical realization** | FEM / field pathway *can* be defined | Actual converged field solution on mesh |
 | **Force prediction** | A *computable target form* is defined | Nonzero measurable thrust |
 | **Energy extraction** | Explicitly **absent** | Any power-generation mechanism |
@@ -43,7 +43,7 @@ $$
 W(n) = 0.08\, e^{0.23(n-3)}
 $$
 
-| n | \(W(n)\) (consequence of the formula) | vs model bound \(W < 0.125\) |
+| n | $W(n)$ (consequence of the formula) | vs model bound $W < 0.125$ |
 |---|----------------------------------------|------------------------------|
 | 1 | ≈ 0.0505 | inside |
 | 2 | ≈ 0.0636 | inside |
@@ -51,13 +51,13 @@ $$
 | 4 | ≈ 0.1007 | inside |
 | 5 | ≈ 0.1267 | outside |
 
-**Model-internal admissible domain:** \(n \le 4\).
+**Model-internal admissible domain:** $n \le 4$.
 
 #### Corrections (mandatory wording)
 
-1. **“Ghost-free domain \(n\le 4\)”** is a **model-internal bound** from the stated inequality \(W(n)<0.125\). It is **not** a demonstrated physical ghost-free theorem unless/until the repository derives the relevant propagator / kinetic-sector positivity conditions. Do not advertise it as proven unitarity or absence of ghosts in nature.
+1. **“Ghost-free domain $n\le 4$”** is a **model-internal bound** from the stated inequality $W(n)<0.125$. It is **not** a demonstrated physical ghost-free theorem unless/until the repository derives the relevant propagator / kinetic-sector positivity conditions. Do not advertise it as proven unitarity or absence of ghosts in nature.
 
-2. **\(W(3)=0.08\)** and **\(W(4)\approx 0.1007\)** are **consequences of the chosen recursion**, not independent evidence that the recursion is correct. Choosing the engineering anchor and re-indexing the exponential resolves an **internal consistency** conflict with the deprecated form \(W(n)=0.08\,e^{0.23(n-1)}\); it does **not** validate the physics.
+2. **$W(3)=0.08$** and **$W(4)\approx 0.1007$** are **consequences of the chosen recursion**, not independent evidence that the recursion is correct. Choosing the engineering anchor and re-indexing the exponential resolves an **internal consistency** conflict with the deprecated form $W(n)=0.08\,e^{0.23(n-1)}$; it does **not** validate the physics.
 
 ### 2.2 Phenomenology anchor (galactic stack)
 
@@ -65,7 +65,7 @@ $$
 W_\star = \frac{1}{4\pi} \approx 0.079577
 $$
 
-Do not silently interchange \(W_\star\) and \(W(n)\) without an explicit bridge equation.
+Do not silently interchange $W_\star$ and $W(n)$ without an explicit bridge equation.
 
 ### 2.3 Geometric scale (not a coupling)
 
@@ -73,7 +73,7 @@ $$
 r_{\rm scale} = 0.45
 $$
 
-Linear scale ratio of the asymmetric recursive geometry. **Not** \(\chi_{\rm vac}\) or \(\kappa\).
+Linear scale ratio of the asymmetric recursive geometry. **Not** $\chi_{\rm vac}$ or $\kappa$.
 
 ### 2.4 Engineering target (design goal only)
 
@@ -81,7 +81,7 @@ $$
 \frac{\Delta F}{P}\Big|_{n=3}^{\rm target} = 3\times 10^{-8}\,\mathrm{N/W}
 $$
 
-**Claim level 0–1.** Must **never** be used as a fit target that defines \(\kappa\) in Stage 2 (see §6).
+**Claim level 0–1.** Must **never** be used as a fit target that defines $\kappa$ in Stage 2 (see §6).
 
 ---
 
@@ -104,11 +104,13 @@ $$
 \boxed{\delta u_{\rm vac} \rightarrow T_{\rm eff} \rightarrow \Delta F}
 $$
 
-Uniform scaling (fixed geometry, fixed \(\chi_{\rm vac}\)):
+Uniform scaling (fixed geometry, fixed $\chi_{\rm vac}$):
 
 $$
 \frac{\Delta F(n_2)}{\Delta F(n_1)} = e^{0.23(n_2-n_1)}
 $$
+
+That is **Model A** ($W$-only). It predicts $F(2):F(3):F(4)\approx 0.795:1:1.259$, **not** $0.795:1:1.993$.
 
 ---
 
@@ -116,8 +118,8 @@ $$
 
 | ID | Law | Status |
 |----|-----|--------|
-| **C5** | \(\chi_{\rm vac} = \kappa\,|\nabla\Psi_{\rm info}|\) | Proposed — not a derivation from first principles |
-| **C6** | \(\Psi_{\rm info} = A_0\) | Proposed Proca bridge — not a repository identity |
+| **C5** | $\chi_{\rm vac} = \kappa\,|\nabla\Psi_{\rm info}|$ | Proposed — not a derivation from first principles |
+| **C6** | $\Psi_{\rm info} = A_0$ | Proposed Proca bridge — not a repository identity |
 
 Conditional combined form:
 
@@ -129,9 +131,10 @@ $$
 
 ## 5. Explicit absences
 
-- **No** \(P_{\rm out}=f(\delta u_{\rm vac})\) or volume integral for extracted energy.  
-- **No** proof that \(\Delta F\neq 0\) — only algebraic permission if \(\chi_{\rm vac}\mathcal{G}\neq 0\).  
+- **No** $P_{\rm out}=f(\delta u_{\rm vac})$ or volume integral for extracted energy.  
+- **No** proof that $\Delta F\neq 0$ — only algebraic permission if $\chi_{\rm vac}\mathcal{G}\neq 0$.  
 - Galactic / SPARC-style fits **do not** establish laboratory thrust.
+- ADCE photon emission, if used, is a **radiative** momentum channel ($F\approx P_{\rm asym}/c$), not a reactionless vacuum drive.
 
 $$
 \boxed{\text{Vacuum power extraction is undefined in the current mathematics.}}
@@ -170,16 +173,22 @@ $$
 }
 $$
 
+Preferred Green / LDOS form of the same gate:
+
+$$
+\boxed{G_n \rightarrow \mathrm{LDOS}_n \rightarrow F_n}
+$$
+
 Under **C5**, the numerical problem reduces to:
 
-1. Define the PDE for \(\Psi_{\rm info}\) (or Proca system if C6 is accepted).  
+1. Define the PDE for $\Psi_{\rm info}$ (or Proca system if C6 is accepted).  
 2. Lock boundary conditions.  
 3. Solve on the existing / reconstructed 0.45 mesh.  
 4. Demonstrate **mesh convergence**.  
-5. Evaluate \(|\nabla\Psi_{\rm info}|\).  
-6. Evaluate the surface tensor integral \(\mathcal{G}\).  
-7. Determine whether \(\kappa\) can be **independently** constrained.  
-8. Propagate uncertainty into \(\Delta F\).
+5. Evaluate $|\nabla\Psi_{\rm info}|$.  
+6. Evaluate the surface tensor integral $\mathcal{G}$.  
+7. Determine whether $\kappa$ can be **independently** constrained.  
+8. Propagate uncertainty into $\Delta F$.
 
 ### 7.2 Critical invariant — parameter provenance
 
@@ -189,7 +198,7 @@ $$
 }
 $$
 
-The design target \(3\times 10^{-8}\,\mathrm{N/W}\) may be compared **after** an independent prediction; it must not define the coupling.
+The design target $3\times 10^{-8}\,\mathrm{N/W}$ may be compared **after** an independent prediction; it must not define the coupling.
 
 ### 7.3 Stage 2 exit criteria (minimum)
 
@@ -197,9 +206,10 @@ The design target \(3\times 10^{-8}\,\mathrm{N/W}\) may be compared **after** an
 |-----------|----------------|
 | PDE + BCs documented | Reproducible |
 | Converged field | Mesh study recorded |
-| \(\mathcal{G}\) evaluated | Value + uncertainty (or demonstrated ≈ 0) |
-| Coupling provenance | \(\kappa\) independent of target thrust **or** left symbolic |
-| Output | Predicted \(\Delta F\) or honest INCONCLUSIVE — not back-solved thrust |
+| $\mathcal{G}$ evaluated | Value + uncertainty (or demonstrated ≈ 0) |
+| Coupling provenance | $\kappa$ independent of target thrust **or** left symbolic |
+| Output | Predicted $\Delta F$ or honest INCONCLUSIVE — not back-solved thrust |
+| Ratio provenance | Any $F(n)$ table must match Model A, Model B, or a Green-derived spectrum — not the rejected hybrid |
 
 ---
 
@@ -211,6 +221,7 @@ experimental_validation     = false
 energy_extraction_validated = false
 thrust_validated            = false
 ghost_free_status           = model_internal_bound_only
+hybrid_m2_ratios_0.795_1.993 = rejected
 ```
 
 A ledger signature over a computation means **that computation ran** — not that nature obeys the model.
@@ -222,6 +233,7 @@ A ledger signature over a computation means **that computation ran** — not tha
 | Role | Repository |
 |------|------------|
 | **This freeze** | coherence-drive / `docs/MATH_THEORY_CLOSURE.md` |
+| M2 ratio lock | [m2-renormalization-law](https://github.com/beyond-repair/m2-renormalization-law) |
 | Phenomenology pipelines | [ware-constant-phenomenology](https://github.com/beyond-repair/ware-constant-phenomenology) |
 | Synthesis ledger | [CFTv3.3-IQG-Unified-Framework](https://github.com/beyond-repair/CFTv3.3-IQG-Unified-Framework) |
 | Offline numerical bridge | [sovereign-clean-room](https://github.com/beyond-repair/sovereign-clean-room) |
@@ -246,3 +258,27 @@ $$
 \end{aligned}
 }
 $$
+
+---
+
+## 11. Sweep-137 addendum (2026-09-12) — ratio lock
+
+Does not unfreeze Stage 1. Records an executed numeric fact.
+
+### Model A ($W$-only, §3 uniform scaling)
+
+$$F(2):F(3):F(4)\approx 0.795:1.000:1.259$$
+
+### Model B (static geometric count $F\propto W(n)(3\alpha)^n$, $\alpha=0.45$)
+
+$$F(2):F(3):F(4)\approx 0.589:1.000:1.699$$
+
+### Rejected hybrid
+
+$$0.795:1.000:1.993$$
+
+mixes Model A at $n=2$ with an undocumented $n=4$ amplifier.  
+$\chi$, $\eta$, $D_{\rm eff}(n)$ introduced after the mismatch are compensators and are **out of scope** for Stage 2.
+
+Reproduction: [m2-renormalization-law/scripts/parameter_free_sweep.py](https://github.com/beyond-repair/m2-renormalization-law/blob/main/scripts/parameter_free_sweep.py)  
+Narrative lock: [docs/AUDIT_2026-09-12.md](AUDIT_2026-09-12.md)
