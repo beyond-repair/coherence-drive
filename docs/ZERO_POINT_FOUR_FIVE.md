@@ -24,19 +24,20 @@ A printed structure can have \(\theta=0.45^\circ\). That is an angle.
 The gasket itself has planar edge directions \(0^\circ,60^\circ,120^\circ\).
 There is no intrinsic \(45^\circ\) slope in the graph.
 
-Small-tilt shear on the level-2 gasket with a symmetric interior load is
-approximately linear:
+Small-tilt shear on the level-2 gasket with a symmetric interior load:
 
-\[
-\|F_{\rm odd}\| \approx 0.935\,\theta_{\rm rad}
-\]
+- Sweep-138 geometric weights \(G=1/\ell^2\): \(\|F\|\approx 0.935\,\theta_{\rm rad}\)
+- Sweep-159 constant-section conductance \(G=1/\ell\): \(\|F\|\approx 0.468\,\theta_{\rm rad}\)
 
-This is a **geometric-asymmetry diagnostic / print-skew control**.
-It is not evidence of reactionless thrust.
+Both are **geometric-asymmetry diagnostics / print-skew controls**.
+They are not evidence of reactionless thrust.
 
-\(+/-\theta\) decomposition (level 2, weighted Laplacian, Sweep-139):
+\(+/-\theta\) decomposition (level 2, weighted Laplacian, Sweep-139 / Sweep-159):
 
 - \(F_{\rm odd,x}\propto\theta\)
 - \(F_{\rm even,x}\to 0\) to machine precision
 - \(F_{\rm even,y}=O(\theta^2)\) is contamination from the one-sided shear map,
   classified as a numerical/geometry artifact, not new physics
+- rigid rotation and isotropic scale have vanishing Jacobian (Sweep-159)
+
+Satellite lock: [sierpinski-geometry-045 FINDINGS_2026-09-21](https://github.com/beyond-repair/sierpinski-geometry-045/blob/main/FINDINGS_2026-09-21_CONDUCTANCE_SHEAR.md)

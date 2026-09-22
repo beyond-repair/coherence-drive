@@ -7,6 +7,7 @@
 - Effective-action machinery \(\Gamma=-\tfrac12\mathrm{Tr}\ln K\) with a finite-difference check
 - DSI / log-periodic research *direction* (not a demonstrated measurement in these seven repos)
 - Geometric tilt sensitivity as a measurable control
+- Sweep-159 conductance-weighted tilt diagnostic (\(G=1/\ell\); rotation-blind; hierarchical buses are a shunt) — satellite lock only
 - Maxwell stress infrastructure (classical evaluator + sphere nulls)
 
 ## Rejected
@@ -19,6 +20,9 @@
 - Spontaneous thrust from static symmetric excitation
 - Historical \(W(n)=0.08 e^{0.23(n-1)}\) indexing for residual-force work
 - GitHub description language that treats thrust as implemented fact
+- Global trace-width \(w(L)\) as a change to graph-\(F\) at fixed vertex load
+- Self-similar \(w\propto\ell\) as an enhanced fractal sensor (sensor dies)
+- Hierarchical buses as a thrust amplifier
 
 ## Unresolved
 
