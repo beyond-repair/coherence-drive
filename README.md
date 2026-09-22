@@ -21,6 +21,7 @@ Symbolic chain frozen. No silent energy-extraction claims.
 - [Survived / rejected / unresolved](docs/SURVIVED_REJECTED_UNRESOLVED.md)
 - [Master audit 2026-09-16](docs/MASTER_AUDIT_2026-09-16.md)
 - [Sweep-159 conductance / shear pointer](docs/AUDIT_2026-09-21.md)
+- [Portfolio math 2026-09-21](docs/PORTFOLIO_MATH_2026-09-21.md)
 
 Satellites: m2-renormalization-law · sierpinski-geometry-045 · topological-pinch · stress-tensor-modification · momentum-closure · thrust-target-30
 
