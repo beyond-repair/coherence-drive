@@ -1,21 +1,24 @@
 # Pointer — derivation inventory
 
-Canonical list of closed vs open derivations:
+Canonical list:
 
 [ware-constant-phenomenology/DERIVATION_INVENTORY.md](https://github.com/beyond-repair/ware-constant-phenomenology/blob/main/DERIVATION_INVENTORY.md)
 
-Constant-W action freeze (2026-09-23):
+Action-principle proof home:
 
-- [ware-constant-phenomenology/CONSTANT_W_ACTION_PRINCIPLE.md](https://github.com/beyond-repair/ware-constant-phenomenology/blob/main/CONSTANT_W_ACTION_PRINCIPLE.md)
-- [docs/CONSTANT_W_ACTION_LOCK_2026-09-23.md](CONSTANT_W_ACTION_LOCK_2026-09-23.md)
-- Mirror: [-ware-constant-derivation](https://github.com/beyond-repair/-ware-constant-derivation)
+[-ware-constant-derivation](https://github.com/beyond-repair/-ware-constant-derivation)
+
+- [PROOF_AND_DERIVATION_LEDGER.md](https://github.com/beyond-repair/-ware-constant-derivation/blob/main/PROOF_AND_DERIVATION_LEDGER.md)
+- [PROOF_5R_KSYM.md](https://github.com/beyond-repair/-ware-constant-derivation/blob/main/PROOF_5R_KSYM.md)
+- [docs/PROOF_5R_LOCK_2026-09-23.md](PROOF_5R_LOCK_2026-09-23.md)
 
 Short form:
 
-- Proved conditional: E1–E4 ⇒ 1/(4π); matching c★=1 ⇒ same number.
-- Proved algebraic: Model A/B ratios; hybrid rejected.
-- Proved discrete (wrong sector for W★): Kigami 3/5, 5/3; gasket spectrum; F∝γ.
-- Proved constant-W action: spectral source δS_W/δW = 1/2 Tr[K^{-1}L]; V''_1-loop<0; finite-graph W<1/6 at λ_max=6, ω=1.
-- Not proved: bulk c★, ξ=0.23, ghost-free theorem, δ_sat, thrust-from-LDOS, SPARC as validation, local W(x), Z_ren, numerical 0.08 from the action.
+- Constant-W action, source, concavity, finite-graph W<1/6: DERIVED.
+- K_sym recovers K(W0); finite-graph Hermitian; form Q_W: DERIVED.
+- Exact Hessian for linear insertion: DERIVED.
+- I2>0 and unrenormalized Z_loop<0 for stated kernel: DERIVED (model-specific).
+- Kato-Rellich for full insertion; W≥1 positivity slogans: REJECTED / REMOVED.
+- Not proved: Z_ren, Lorentzian pole, S_W, W(n), 0.08, 0.23, bulk c★, thrust.
 
 Stage 1 freeze untouched.
