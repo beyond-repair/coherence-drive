@@ -6,7 +6,8 @@
 - Combinatorial spectrum addendum (Sweep-159d): λ_max=6 (n≥2), Tr L=6·3^n, mult(6)=3/2(3^{n-1}-1), Dirichlet λ_min → 1/5
 - Kigami PCF identities on this gasket: energy 3/5, two-corner resistance 5/3
 - Controlled spectral fractional operator (as a *defined* operator, not a propulsion angle)
-- Effective-action machinery Γ=-1/2 Tr ln K with a finite-difference check
+- Effective-action machinery Γ_E = S_W + 1/2 Tr ln K (Euclidean Gaussian convention; 2026-09-23 freeze). Earlier corpus line Γ=-1/2 Tr ln K is a different convention, not a competing identity.
+- Constant-W spectral source δS_W/δW = 1/2 Tr[K^{-1} L]; V''_{1-loop}<0; finite-graph bound W<1/6 at λ_max=6, ω=1
 - DSI / log-periodic research *direction* (not a demonstrated measurement in these seven repos)
 - Geometric tilt sensitivity as a measurable control
 - Sweep-159 conductance-weighted tilt diagnostic (G=1/ℓ; rotation-blind; hierarchical buses are a shunt) — satellite lock only
@@ -28,10 +29,14 @@
 - Kigami 5/3 as tilt-F growth
 - K_n=θ/‖F‖_n as a resolution-invariant print angle
 - λ=6 multiplicity as pinch η=0.92
+- Determinant convex barrier / positive one-loop wall for constant W
+- Automatic healthy local W(x) from Z_eff ≠ 0
+- Action-derived numerical values 0.08 and 0.23 from the constant-W Gaussian
 
 ## Unresolved
 
 - Full renormalization (a1,a2,Z_W,γ_φ,β_W quantum)
+- Hermitian ordering K[W(x)], regularized Γ^{(2)}(p), renormalized Z_ren
 - Unique physical zeta force (ζ_L(-1/2)≈0.35037322 not reproduced by raw finite-generation sums)
 - Topological-pinch magnitude (92% remains hypothesis; graph proxy ≠ 0.92)
 - Complete classical momentum closure on the *engine* geometry
@@ -42,3 +47,4 @@
 - Log-periodic amplitude / frequency / phase on a heat kernel (not measured here)
 - Continuum limit of measure-normalized tilt F_n[μ,θ]/θ
 - Stage-2 G_n → LDOS_n → F_n on frozen hardware
+- Coarse-graining map W(x) → W(n)
