@@ -22,8 +22,11 @@ Symbolic chain frozen. No silent energy-extraction claims.
 - [Master audit 2026-09-16](docs/MASTER_AUDIT_2026-09-16.md)
 - [Sweep-159 conductance / shear pointer](docs/AUDIT_2026-09-21.md)
 - [Portfolio math 2026-09-21](docs/PORTFOLIO_MATH_2026-09-21.md)
+- [Pinch falsification 2026-10-01](docs/FALSIFICATION_2026-10-01_PINCH.md)
 
 Satellites: m2-renormalization-law · sierpinski-geometry-045 · topological-pinch · stress-tensor-modification · momentum-closure · thrust-target-30
+
+2026-10-01: pinch-family heat trace does not derive 0.08. Stage 1 freeze is not reopened.
 
 ```text
 experimental_validation = false
