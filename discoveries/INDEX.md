@@ -11,9 +11,14 @@ The row-by-row table is DISCOVERY_LEDGER.md. Confirmed rows in that table are on
 Each edge is labeled mathematical, computational, or historical.
 
 - DISC-0005 → DISC-0003. Label: mathematical. The link is spectral, through lambda_max = 6.
+- DISC-0005 → DISC-0007. Label: mathematical. The link is spectral, through lambda_max = 6 and free mult(6) for n = 2..5.
+- DISC-0003 → DISC-0007. Label: historical. Same repository; later HEAD adds the eigenspace split.
+- DISC-0007 → DISC-0008. Label: mathematical. The V'' bound is what the rejected two-point reading would saturate.
 - DISC-0003 → DISC-0002. Label: mathematical. The bound W < 1/6 does not select 0.08 and does not select thrust.
+- DISC-0007 → DISC-0002. Label: mathematical. The split and V'' bound do not select 0.08 and do not select thrust.
 - DISC-0001 → DISC-0002. Label: mathematical. Signed flux 0 kills the absolute-flux thrust reading.
-- DISC-0004 stands beside DISC-0001, DISC-0002, DISC-0003, and DISC-0005. Label: mathematical. It belongs to the same W family. It is not a thrust input.
+- DISC-0004 stands beside DISC-0001, DISC-0002, DISC-0003, DISC-0005, and DISC-0007. Label: mathematical. It belongs to the same W family. It is not a thrust input.
 - DISC-0006 hangs off DISC-0005. Label: computational. It is a failed detection on these graphs.
+- DISC-0008 hangs off DISC-0007. Label: mathematical. It is a rejected gasket-theorem reading of an abstract extremal.
 
-There is no historical edge in this pass. Description text that still disagrees with the files is recorded on DISC-0002 as provenance. Those descriptions were not edited.
+There is no historical edge from description text in this pass beyond the DISC-0003 → DISC-0007 HEAD advance. Description text that still disagrees with the files on older Coherence Drive repos is recorded on DISC-0002 as provenance. Those descriptions were not edited. The finite-gasket-spectral-derivatives description matches its claim fence.

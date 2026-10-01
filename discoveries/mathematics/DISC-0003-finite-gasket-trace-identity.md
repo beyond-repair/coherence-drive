@@ -94,3 +94,7 @@ Check out beyond-repair/finite-gasket-spectral-derivatives at 33dfec7db730c2dd7b
 ## Change History
 
 - 2026-10-01. Initial archive entry. No existing file was changed.
+
+## Change History (continued)
+
+- 2026-10-01 (later pass). The source repository advanced to HEAD 7f66ef46ea65e5a368b852a0fb839ff1e9993ff0. The truncation and hypergeometric identities indexed above remain. New content at that HEAD is the lambda = 6 eigenspace split and the rejection of two-point {0, 6} abstract extremals as gasket theorems; those are indexed as DISC-0007 and DISC-0008. Status of DISC-0003 stays DERIVATIVE. The GitHub description still matches the claim fence.
