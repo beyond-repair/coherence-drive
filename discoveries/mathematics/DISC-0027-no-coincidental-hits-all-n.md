@@ -60,6 +60,8 @@ None.
 
 Open. Exact evidence n = 3..14.
 
+Update 2026-10-08 (later): still open, status unchanged (CONJECTURE). At 7856c09ad9d566ab1cd6f10598aab660d352f635 the repository reduces the statement to a characteristic-2 residue condition (DISC-0028), proves it for every power-of-two chain length (DISC-0029), and checks it exhaustively for k ≤ 31, so the exact h_n formula now holds for 3 ≤ n ≤ 34 (theorem plus finite exact computation). The remaining sufficient condition is DISC-0030 (not known to be necessary).
+
 ## Patent Relevance
 
 None established.
@@ -68,6 +70,8 @@ None established.
 
 - DISC-0026. Mathematical. Supplies the reduction and the finite certificate.
 - DISC-0025. Mathematical. The bound this would make exact.
+- DISC-0028. Mathematical. Reduces this statement to the residue condition.
+- DISC-0030. Mathematical. Residue conjecture; sufficient for this statement.
 
 ## Open Questions
 
@@ -84,7 +88,9 @@ See DISC-0026.
 ## Evidence Log
 
 - 2026-10-08. Recorded from README "Still open" at 7b1495f; archive exact-Z certificate n = 3..14.
+- 2026-10-08 (later). finite-gasket-spectral-derivatives 246a351291f9fea13ba87f29753ac3b2e0b7b1c0 (two-adic reduction, exact n ≤ 18) and 7856c09ad9d566ab1cd6f10598aab660d352f635 (power-of-two lemma, exhaustive k ≤ 31, exact n ≤ 34). Indexed as DISC-0028, DISC-0029, DISC-0030. Repository scripts rerun at 7856c09: OK.
 
 ## Change History
 
 - 2026-10-08. Initial archive entry.
+- 2026-10-08 (later). Mathematical Status and Evidence Log appended; status unchanged.
