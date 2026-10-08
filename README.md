@@ -43,7 +43,7 @@ pytest -q
 
 | Command | What passes | What it does not say |
 |---------|-------------|----------------------|
-| `coherence-drive` | Research-index summary; DISC-0001..0017 ledger status; locked claim flags all false; key docs present | Thrust, energy extraction, or a physics-closed engine |
+| `coherence-drive` | Research-index summary; DISC-0001..0024 ledger status; locked claim flags all false; key docs present | Thrust, energy extraction, or a physics-closed engine |
 | `pytest -q` | Docs presence, ledger parse consistency, claim flags remain false, no secret files | Product physics CI |
 
 ## Index (read these first)
