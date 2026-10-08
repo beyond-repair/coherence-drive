@@ -1,4 +1,4 @@
-"""Discovery ledger DISC-0001..0030 parseable and consistent with INDEX.md."""
+"""Discovery ledger DISC-0001..0035 parseable and consistent with INDEX.md."""
 
 from pathlib import Path
 
@@ -8,7 +8,7 @@ from coherence_drive.ledger import load_ledger, status_counts
 ROOT = Path(__file__).resolve().parents[1]
 
 
-def test_ledger_has_disc_0001_through_0030():
+def test_ledger_has_disc_0001_through_0035():
     rows = load_ledger(ROOT)
     ids = [r.disc_id for r in rows]
     assert ids == list(EXPECTED_DISC_IDS), f"ledger IDs mismatch: {ids}"
@@ -28,17 +28,17 @@ def test_confirmed_and_rejected_set_matches_preamble():
     rows = load_ledger(ROOT)
     by_status = status_counts(rows)
     # Confirmed (KNOWN) rows: DISC-0001, 0005, 0012 — three.
-    # DERIVATIVE: 0003, 0004, 0007, 0019, 0021, 0022, 0023, 0025, 0026, 0028 — ten.
+    # DERIVATIVE: 0003, 0004, 0007, 0019, 0021, 0022, 0023, 0025, 0026, 0028, 0031 — eleven.
     # NOVELTY CANDIDATE: 0020 — one.
-    # CONJECTURE: 0027, 0030 — two.
-    # THEOREM: 0029 — one (mathematical status only, not a novelty claim).
-    # REJECTED: the rest (13).
+    # CONJECTURE: 0027, 0030, 0034, 0035 — four (0035 archive-derived).
+    # THEOREM: 0029, 0032 — two (mathematical status only, not novelty claims).
+    # REJECTED: the rest (14).
     assert by_status.get("KNOWN") == 3
-    assert by_status.get("DERIVATIVE") == 10
+    assert by_status.get("DERIVATIVE") == 11
     assert by_status.get("NOVELTY CANDIDATE") == 1
-    assert by_status.get("CONJECTURE") == 2
-    assert by_status.get("THEOREM") == 1
-    assert by_status.get("REJECTED") == 13
+    assert by_status.get("CONJECTURE") == 4
+    assert by_status.get("THEOREM") == 2
+    assert by_status.get("REJECTED") == 14
 
 
 def test_index_mentions_every_disc_id():
