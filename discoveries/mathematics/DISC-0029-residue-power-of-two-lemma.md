@@ -71,6 +71,8 @@ None.
 
 - DISC-0028. Mathematical. The reduction that makes this lemma relevant to h_n.
 - DISC-0030. Mathematical. The remaining non-power-of-two cases.
+- DISC-0036. Mathematical. Same method extended to k = 2^j + 1 via the pairing identity.
+- DISC-0037. Mathematical. The method fails for k = 6, 11, 13, 14, 15.
 
 ## Open Questions
 
@@ -87,7 +89,9 @@ Proof is self-contained (Derivation above). Numerical cross-checks as in DISC-00
 ## Evidence Log
 
 - 2026-10-08. Recorded from README at 7856c09ad9d566ab1cd6f10598aab660d352f635; proof verified by reading.
+- 2026-10-08 (later). Open question answered for r = 1 at bd212e6da68d4c71940c977400c66c507b40862a (DISC-0036); shown not to extend in general (DISC-0037). Status unchanged.
 
 ## Change History
 
 - 2026-10-08. Initial archive entry.
+- 2026-10-08 (later). Related links and Evidence Log appended; status unchanged.

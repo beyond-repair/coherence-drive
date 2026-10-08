@@ -13,4 +13,4 @@ CLAIM_FLAGS = {
     "energy_extraction_validated": False,
 }
 
-EXPECTED_DISC_IDS = tuple(f"DISC-{i:04d}" for i in range(1, 36))
+EXPECTED_DISC_IDS = tuple(f"DISC-{i:04d}" for i in range(1, 38))

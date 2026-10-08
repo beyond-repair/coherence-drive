@@ -22,7 +22,7 @@ CLAIM_STATUS at 7856c09ad9d566ab1cd6f10598aab660d352f635: "the residue conjectur
 
 ## Discovery
 
-Conjecture: for every k ≥ 1 and every chain z_0 = 1, z_{i−1} = z_i² + z_i over F̄_2, S_k = Σ_{i=1}^k 1/z_i ≠ 0. Known: k ≤ 31 (exhaustive), k = 32 and every power of two (DISC-0029). Open: k ≥ 33 not a power of two. By DISC-0028 it implies DISC-0027 (no coincidental hits, exact h_n for all n ≥ 3); the converse is not known.
+Conjecture: for every k ≥ 1 and every chain z_0 = 1, z_{i−1} = z_i² + z_i over F̄_2, S_k = Σ_{i=1}^k 1/z_i ≠ 0. Known: k ≤ 31 (exhaustive), k = 32 and every power of two (DISC-0029), and every k = 2^j + 1 (DISC-0036, from bd212e6), so all k ≤ 33. Open: k ≥ 34 with k not of the form 2^j or 2^j + 1. By DISC-0028 it implies DISC-0027 (no coincidental hits, exact h_n for all n ≥ 3); the converse is not known.
 
 ## Why It Matters
 
@@ -61,7 +61,7 @@ None (pure mathematics).
 
 ## Mathematical Status
 
-Open. Exhaustive k ≤ 31; all powers of two proved; sparse random evidence to k = 63.
+Open. Exhaustive k ≤ 31; all powers of two (DISC-0029) and all 2^j + 1 (DISC-0036) proved; smallest open k is 34; sparse random evidence to k = 63. Updated 2026-10-08 from bd212e6da68d4c71940c977400c66c507b40862a: CLAIM_STATUS now says the conjecture for k ≥ 34 not of the form 2^j or 2^j + 1 would suffice.
 
 ## Patent Relevance
 
@@ -75,11 +75,11 @@ None.
 
 ## Open Questions
 
-Extend the subfield argument of DISC-0029 to k = 2^j + r; or find an invariant of S_k that is constant across chains.
+The subfield argument covers r = 0 and r = 1 (DISC-0029, DISC-0036) and provably does not cover k = 6, 11, 13, 14, 15 (DISC-0037). Find a different invariant, e.g. the repository's norm reformulation G_k(1, 0) = 1 (checked k ≤ 7).
 
 ## Next Experiments
 
-Exhaustive k = 33 needs GF(2^64) and 2^33 chains (about twice the k ≤ 31 total); feasible in C with carry-less multiply.
+Exhaustive k = 34 needs GF(2^64) and 2^34 chains (k = 33 is now proved by DISC-0036); feasible in C with carry-less multiply.
 
 ## Reproduction Instructions
 
@@ -119,6 +119,9 @@ print(run(64,(1<<64)|0x1d,(rng.getrandbits(64) or 1 for _ in range(4000))))  # (
 
 - 2026-10-08. Recorded from CLAIM_STATUS / README at 7856c09ad9d566ab1cd6f10598aab660d352f635; repository k ≤ 31 rerun OK; archive independent checks as above.
 
+- 2026-10-08 (later). finite-gasket-spectral-derivatives bd212e6da68d4c71940c977400c66c507b40862a proves k = 2^j + 1 (DISC-0036) and records that the subfield test fails for k = 6, 11, 13, 14, 15 (DISC-0037). Open set narrowed to k ≥ 34, k ∉ {2^j, 2^j + 1}. Status unchanged.
+
 ## Change History
 
 - 2026-10-08. Initial archive entry.
+- 2026-10-08 (later). Known/open ranges narrowed after bd212e6; status unchanged.
