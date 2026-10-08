@@ -101,7 +101,9 @@ Clone beyond-repair/finite-gasket-spectral-derivatives at e1b8f2737ecf1aa8fc21b9
 ## Evidence Log
 
 - 2026-10-08. Read README, COMPLETION_LOG, CLAIM_STATUS diff at e1b8f27; re-ran repository script; sympy identity checks; n = 7 extension. GitHub description still matches the claim fence ("W-derivatives of (1/2) Tr ln K on the finite gasket. No continuum, no selected W, no thrust.").
+- 2026-10-08 (later). finite-gasket-spectral-derivatives at 7b1495fe1dd322d17f7b7d840b22c7d9f29faf10 proves c_n = 5·2^{n−1}+1 and dim DN_n(2) = 0 by corner channels without Qiu §2, and certifies exactly that the lower bound above is an equality for 3 ≤ n ≤ 11 (archive: 3 ≤ n ≤ 14 over Z). The Open Questions above are partly superseded; indexed as DISC-0026 and DISC-0027. Status of this row unchanged (DERIVATIVE).
 
 ## Change History
 
 - 2026-10-08. Initial archive entry.
+- 2026-10-08. Evidence-log append pointing to DISC-0026/0027. Earlier text left as recorded.
