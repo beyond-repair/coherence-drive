@@ -111,6 +111,7 @@ Check out beyond-repair/finite-gasket-spectral-derivatives at 19a1264e4511a2ff2e
 - 2026-10-02. Diff 7f66ef46ea65e5a368b852a0fb839ff1e9993ff0...19a1264e4511a2ff2e60e55040590e250372d3f0: +7 commits; CLAIM_STATUS.md added; README / COMPLETION_LOG record the three free-multiplicity theorems.
 - 2026-10-02. Local eigvalsh on gasket_graph.py @ 0742f00ed275969547925da430c1041bc58b9754 matches claimed mult(3,5,6) for n = 2..5.
 - 2026-10-02. GitHub description still matches claim fence: “W-derivatives of (1/2) Tr ln K on the finite gasket. No continuum, no selected W, no thrust.” No new description mismatch.
+- 2026-10-08. Archive eigh at n = 7 on the repository constructor (scripts/check_decimation_hits.py at e1b8f2737ecf1aa8fc21b999560b648dff087b57): exceptional mass 1819 = (5·3^6 − 7)/2, consistent with the three free mult formulas. Status unchanged (NOVELTY CANDIDATE). DISC-0025 depends on this row.
 
 ## Change History
 

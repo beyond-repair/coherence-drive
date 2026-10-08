@@ -95,7 +95,9 @@ Read README “Exceptional spectral mass” and COMPLETION_LOG at 6b512290310ae1
 ## Evidence Log
 
 - 2026-10-02. Read exceptional-mass section at 6b512290310ae15eb2f854f1fa6b608035613061; algebra verified locally.
+- 2026-10-08. finite-gasket-spectral-derivatives at e1b8f2737ecf1aa8fc21b999560b648dff087b57 defines a free hit predicate and claims 1 − μ_exc − 5·2^n/(3^{n+1}+3) ≤ h_n ≤ 1 − μ_exc, hence h_n → 4/9. The refusal quoted above was accurate at 6b51229 and is superseded for that predicate; indexed as DISC-0025. Status of this row unchanged (DERIVATIVE).
 
 ## Change History
 
 - 2026-10-02. Initial archive entry.
+- 2026-10-08. Evidence-log append pointing to DISC-0025. Earlier text left as recorded.

@@ -70,7 +70,7 @@ def build_report(root: Path | None = None) -> str:
     if missing:
         lines.append(f"  MISSING IDs: {missing}")
     else:
-        lines.append("  DISC-0001..DISC-0024 present.")
+        lines.append("  DISC-0001..DISC-0025 present.")
     lines.append(f"  index: {index_path(base).relative_to(base)}")
     lines.extend(["", "Key index files:"])
     for doc in present_docs:
