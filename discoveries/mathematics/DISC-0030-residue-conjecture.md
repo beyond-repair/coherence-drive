@@ -74,6 +74,7 @@ None.
 - DISC-0027. Mathematical. The h_n statement it would settle.
 - DISC-0038. Computational. Orbit reduction; S_k ≠ 0 for all k ≤ 45.
 - DISC-0041. Mathematical. Equivalent form gcd(N^k + 1, Π_k′) = 1.
+- DISC-0046. Failed hypothesis. Uniform monomial trace certificate ruled out (k ≤ 8).
 
 ## Open Questions
 
@@ -124,6 +125,7 @@ print(run(64,(1<<64)|0x1d,(rng.getrandbits(64) or 1 for _ in range(4000))))  # (
 - 2026-10-08 (later). finite-gasket-spectral-derivatives bd212e6da68d4c71940c977400c66c507b40862a proves k = 2^j + 1 (DISC-0036) and records that the subfield test fails for k = 6, 11, 13, 14, 15 (DISC-0037). Open set narrowed to k ≥ 34, k ∉ {2^j, 2^j + 1}. Status unchanged.
 - 2026-10-08 (later still). finite-gasket-spectral-derivatives 172f1223983c2f0ba116510a28af9efeae45fb40: Frobenius orbit reduction (proved; DISC-0038) and reduced exact walk S_k ≠ 0 for k ≤ 45. Archive independent walk in a different GF(2^64) model with different representatives: S_k ≠ 0 for all k ≤ 45 (2^39 reduced nodes at k = 45). Open set narrowed to k ≥ 46, k ∉ {2^j, 2^j + 1}. Status unchanged.
 - 2026-10-08 (fourth append). finite-gasket-spectral-derivatives 8d2cddf338b1c08b436273c505ec3b2273972828: exact reformulation, the conjecture at length k ⇔ gcd(N^k + 1, Π_k′) = 1 in F_2[t] (DISC-0041, proof verified); chain-free certificate k ≤ 21, archive FLINT gcd reproduces it. Range unchanged. Status unchanged.
+- 2026-10-08 (fifth append). finite-gasket-spectral-derivatives 649cab9dd38be1818588424b3b02bdb3b75b04b6: S_k ≠ 0 for k ≤ 46 (DISC-0038 range note, archive independent walk reproduces k = 46); no uniform monomial trace certificate (DISC-0046, reproduced). Open set narrowed to k ≥ 47, k ∉ {2^j, 2^j + 1}. Status unchanged.
 
 ## Change History
 
@@ -131,3 +133,4 @@ print(run(64,(1<<64)|0x1d,(rng.getrandbits(64) or 1 for _ in range(4000))))  # (
 - 2026-10-08 (later). Known/open ranges narrowed after bd212e6; status unchanged.
 - 2026-10-08 (later still). Known/open ranges narrowed after 172f122 (DISC-0038); status unchanged.
 - 2026-10-08 (fourth append). Equivalent gcd form recorded (DISC-0041); status unchanged.
+- 2026-10-08 (fifth append). Open range narrowed to k ≥ 47 after 649cab9; DISC-0046 linked; status unchanged.

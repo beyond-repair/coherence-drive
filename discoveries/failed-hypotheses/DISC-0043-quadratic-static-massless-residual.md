@@ -69,6 +69,7 @@ None.
 - DISC-0042. Mathematical. The reduction that forces the zero.
 - DISC-0040. Failed hypothesis. The Hessian-reading counterpart (Kept Failure M.1).
 - DISC-0002. Failed hypothesis. Earlier thrust reading of the same flux identity.
+- DISC-0045. Failed hypothesis. Kept Failure O.1 (a1de4d9) closes the same route for every two-derivative reading.
 
 ## Open Questions
 

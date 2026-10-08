@@ -74,6 +74,7 @@ None.
 - DISC-0001. Mathematical. Theorem A, used for the discrete version.
 - DISC-0040. Failed hypothesis. The static massless route it rules out.
 - DISC-0031. Mathematical. GASKET.md Stage 2 OPEN bullet now cites Theorem M.
+- DISC-0044. Mathematical. Theorem O (a1de4d9) puts this reading inside the four-parameter two-derivative family.
 
 ## Open Questions
 

@@ -69,6 +69,7 @@ None.
 - DISC-0039. Mathematical. The Hessian-reading counterpart (Theorem M).
 - DISC-0012. Mathematical. Classical Maxwell stress evaluator; Theorem N says the quadratic reading of the informational tensor is that same stress over ε₀ when Ψ = A_0.
 - DISC-0043. Failed hypothesis. The route this closes.
+- DISC-0044. Mathematical. Theorem O (a1de4d9) puts this reading inside the four-parameter two-derivative family.
 
 ## Open Questions
 

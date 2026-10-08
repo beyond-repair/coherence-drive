@@ -289,7 +289,9 @@ for a in range(31,4,-1):
 ## Evidence Log
 
 - 2026-10-08. Recorded from README / CLAIM_STATUS / COMPLETION_LOG at 172f1223983c2f0ba116510a28af9efeae45fb40; proof verified by reading; repository script rerun to k = 36; archive checks as above: independent reduced walk S_k ≠ 0 for every 1 ≤ k ≤ 45, node counts 2^{k−B} at every k.
+- 2026-10-08 (later). finite-gasket-spectral-derivatives 649cab9dd38be1818588424b3b02bdb3b75b04b6: unchanged reduced walk run with KMAX = 46 (2^40 representatives, all 2^46 chains), S_k ≠ 0 for 1 ≤ k ≤ 46; exact h_n now 3 ≤ n ≤ 48, smallest open k = 47. Archive independent walk (/workspace/scratch-res/indep_orbits.c, GF(2^64) mod x^64+x^31+x^30+x^19+1, parity-hash representatives) rerun to k = 46: zeros = 0 at every depth, node count 2^40 = 1099511627776 at k = 46 as expected, 31 min wall on 8 cores. Status unchanged (THEOREM, mathematical sense only; range note only).
 
 ## Change History
 
 - 2026-10-08. Initial archive entry.
+- 2026-10-08 (later). Range note k ≤ 46 from 649cab9 appended; status unchanged.

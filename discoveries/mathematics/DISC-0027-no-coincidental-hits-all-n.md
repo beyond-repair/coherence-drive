@@ -91,6 +91,7 @@ See DISC-0026.
 - 2026-10-08 (later). finite-gasket-spectral-derivatives 246a351291f9fea13ba87f29753ac3b2e0b7b1c0 (two-adic reduction, exact n ≤ 18) and 7856c09ad9d566ab1cd6f10598aab660d352f635 (power-of-two lemma, exhaustive k ≤ 31, exact n ≤ 34). Indexed as DISC-0028, DISC-0029, DISC-0030. Repository scripts rerun at 7856c09: OK.
 - 2026-10-08 (later still). finite-gasket-spectral-derivatives bd212e6da68d4c71940c977400c66c507b40862a (lengths 2^j + 1 lemma) extends exact h_n to 3 ≤ n ≤ 35; first possible coincidental hit is n ≥ 36. Indexed as DISC-0036, DISC-0037. Status unchanged.
 - 2026-10-08 (fourth append). finite-gasket-spectral-derivatives 172f1223983c2f0ba116510a28af9efeae45fb40 (Frobenius orbit reduction, S_k ≠ 0 for k ≤ 45) extends exact h_n to 3 ≤ n ≤ 47; first possible coincidental hit is n ≥ 48. Indexed as DISC-0038. Status unchanged.
+- 2026-10-08 (fifth append). finite-gasket-spectral-derivatives 649cab9dd38be1818588424b3b02bdb3b75b04b6 extends exact h_n to 3 ≤ n ≤ 48 (S_k ≠ 0 for k ≤ 46, archive reproduced); first possible coincidental hit is n ≥ 49. Status unchanged.
 
 ## Change History
 
@@ -98,3 +99,4 @@ See DISC-0026.
 - 2026-10-08 (later). Mathematical Status and Evidence Log appended; status unchanged.
 - 2026-10-08 (later still). Evidence Log appended for bd212e6; status unchanged.
 - 2026-10-08 (fourth append). Evidence Log appended for 172f122; status unchanged.
+- 2026-10-08 (fifth append). Exact h_n range extended to n ≤ 48 after 649cab9; status unchanged.
