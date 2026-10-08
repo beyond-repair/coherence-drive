@@ -22,7 +22,7 @@ CLAIM_STATUS at 7856c09ad9d566ab1cd6f10598aab660d352f635: "the residue conjectur
 
 ## Discovery
 
-Conjecture: for every k ≥ 1 and every chain z_0 = 1, z_{i−1} = z_i² + z_i over F̄_2, S_k = Σ_{i=1}^k 1/z_i ≠ 0. Known: k ≤ 31 (exhaustive), k = 32 and every power of two (DISC-0029), and every k = 2^j + 1 (DISC-0036, from bd212e6), so all k ≤ 33. Open: k ≥ 34 with k not of the form 2^j or 2^j + 1. By DISC-0028 it implies DISC-0027 (no coincidental hits, exact h_n for all n ≥ 3); the converse is not known.
+Conjecture: for every k ≥ 1 and every chain z_0 = 1, z_{i−1} = z_i² + z_i over F̄_2, S_k = Σ_{i=1}^k 1/z_i ≠ 0. Known: k ≤ 31 (exhaustive), k = 32 and every power of two (DISC-0029), and every k = 2^j + 1 (DISC-0036, from bd212e6), so all k ≤ 33; extended to all k ≤ 45 by the Frobenius-orbit-reduced exact computation at 172f122 (DISC-0038). Open: k ≥ 46 with k not of the form 2^j or 2^j + 1. By DISC-0028 it implies DISC-0027 (no coincidental hits, exact h_n for all n ≥ 3); the converse is not known.
 
 ## Why It Matters
 
@@ -61,7 +61,7 @@ None (pure mathematics).
 
 ## Mathematical Status
 
-Open. Exhaustive k ≤ 31; all powers of two (DISC-0029) and all 2^j + 1 (DISC-0036) proved; smallest open k is 34; sparse random evidence to k = 63. Updated 2026-10-08 from bd212e6da68d4c71940c977400c66c507b40862a: CLAIM_STATUS now says the conjecture for k ≥ 34 not of the form 2^j or 2^j + 1 would suffice.
+Open. Exhaustive k ≤ 31; all powers of two (DISC-0029) and all 2^j + 1 (DISC-0036) proved; smallest open k is 34; sparse random evidence to k = 63. Updated again 2026-10-08 from 172f1223983c2f0ba116510a28af9efeae45fb40: all k ≤ 45 by the orbit-reduced walk (DISC-0038, independently reproduced); smallest open k is 46. Updated 2026-10-08 from bd212e6da68d4c71940c977400c66c507b40862a: CLAIM_STATUS now says the conjecture for k ≥ 34 not of the form 2^j or 2^j + 1 would suffice.
 
 ## Patent Relevance
 
@@ -72,6 +72,7 @@ None.
 - DISC-0028. Mathematical. The reduction.
 - DISC-0029. Mathematical. The proved power-of-two case.
 - DISC-0027. Mathematical. The h_n statement it would settle.
+- DISC-0038. Computational. Orbit reduction; S_k ≠ 0 for all k ≤ 45.
 
 ## Open Questions
 
@@ -79,7 +80,7 @@ The subfield argument covers r = 0 and r = 1 (DISC-0029, DISC-0036) and provably
 
 ## Next Experiments
 
-Exhaustive k = 34 needs GF(2^64) and 2^34 chains (k = 33 is now proved by DISC-0036); feasible in C with carry-less multiply.
+Done through k = 45 (DISC-0038). Next: k ≥ 46 in the reduced tree (about 2^40 representatives at k = 46).
 
 ## Reproduction Instructions
 
@@ -120,8 +121,10 @@ print(run(64,(1<<64)|0x1d,(rng.getrandbits(64) or 1 for _ in range(4000))))  # (
 - 2026-10-08. Recorded from CLAIM_STATUS / README at 7856c09ad9d566ab1cd6f10598aab660d352f635; repository k ≤ 31 rerun OK; archive independent checks as above.
 
 - 2026-10-08 (later). finite-gasket-spectral-derivatives bd212e6da68d4c71940c977400c66c507b40862a proves k = 2^j + 1 (DISC-0036) and records that the subfield test fails for k = 6, 11, 13, 14, 15 (DISC-0037). Open set narrowed to k ≥ 34, k ∉ {2^j, 2^j + 1}. Status unchanged.
+- 2026-10-08 (later still). finite-gasket-spectral-derivatives 172f1223983c2f0ba116510a28af9efeae45fb40: Frobenius orbit reduction (proved; DISC-0038) and reduced exact walk S_k ≠ 0 for k ≤ 45. Archive independent walk in a different GF(2^64) model with different representatives: S_k ≠ 0 for all k ≤ 45 (2^39 reduced nodes at k = 45). Open set narrowed to k ≥ 46, k ∉ {2^j, 2^j + 1}. Status unchanged.
 
 ## Change History
 
 - 2026-10-08. Initial archive entry.
 - 2026-10-08 (later). Known/open ranges narrowed after bd212e6; status unchanged.
+- 2026-10-08 (later still). Known/open ranges narrowed after 172f122 (DISC-0038); status unchanged.
