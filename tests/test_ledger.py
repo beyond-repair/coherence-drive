@@ -1,4 +1,4 @@
-"""Discovery ledger DISC-0001..0017 parseable and consistent with INDEX.md."""
+"""Discovery ledger DISC-0001..0049 parseable and consistent with INDEX.md."""
 
 from pathlib import Path
 
@@ -8,14 +8,17 @@ from coherence_drive.ledger import load_ledger, status_counts
 ROOT = Path(__file__).resolve().parents[1]
 
 
-def test_ledger_has_disc_0001_through_0017():
+def test_ledger_has_disc_0001_through_0049():
     rows = load_ledger(ROOT)
     ids = [r.disc_id for r in rows]
     assert ids == list(EXPECTED_DISC_IDS), f"ledger IDs mismatch: {ids}"
 
 
 def test_ledger_statuses_are_known_vocabulary():
-    allowed = {"KNOWN", "REJECTED", "DERIVATIVE"}
+    allowed = {
+        "KNOWN", "DERIVATIVE", "NOVELTY CANDIDATE", "STRONG NOVELTY CANDIDATE",
+        "PATENT CANDIDATE", "UNRESOLVED", "REJECTED", "CONJECTURE", "THEOREM",
+    }
     rows = load_ledger(ROOT)
     bad = [r for r in rows if r.status not in allowed]
     assert bad == [], f"unexpected statuses: {[(r.disc_id, r.status) for r in bad]}"
@@ -24,12 +27,18 @@ def test_ledger_statuses_are_known_vocabulary():
 def test_confirmed_and_rejected_set_matches_preamble():
     rows = load_ledger(ROOT)
     by_status = status_counts(rows)
-    # Confirmed (KNOWN) rows: DISC-0001, 0005, 0012 — three.
-    # DERIVATIVE: 0003, 0004, 0007 — three.
-    # REJECTED: the rest (11).
-    assert by_status.get("KNOWN") == 3
-    assert by_status.get("DERIVATIVE") == 3
-    assert by_status.get("REJECTED") == 11
+    # Confirmed (KNOWN) rows: DISC-0001, 0005, 0012, plus 0039, 0042, 0044, 0048 (classical identities) — seven.
+    # DERIVATIVE: 0003, 0004, 0007, 0019, 0021, 0022, 0023, 0025, 0026, 0028, 0031, 0041 — twelve.
+    # NOVELTY CANDIDATE: 0020 — one.
+    # CONJECTURE: 0027, 0030, 0034, 0035 — four (0035 archive-derived).
+    # THEOREM: 0029, 0032, 0036, 0038, 0047 — five (mathematical status only, not novelty claims).
+    # REJECTED: the rest (20).
+    assert by_status.get("KNOWN") == 7
+    assert by_status.get("DERIVATIVE") == 12
+    assert by_status.get("NOVELTY CANDIDATE") == 1
+    assert by_status.get("CONJECTURE") == 4
+    assert by_status.get("THEOREM") == 5
+    assert by_status.get("REJECTED") == 20
 
 
 def test_index_mentions_every_disc_id():
