@@ -25,6 +25,7 @@ This page is the graph for the 2026-10-01 read-only audit. It does not change th
  A further 2026-10-22 append adds DISC-0109 (THEOREM in the mathematical sense only, conditional on DISC-0106's certificate; novelty UNRESOLVED) and DISC-0110 (REJECTED) from informational-flux-identity at 3ec0a064caa5c70d6c4bfb23e7c37af89091abb2 (Theorem AR, exact refinement rates; Kept Failure AR.1). DISC-0035 and DISC-0108 keep their status (edges only).
  A further 2026-10-22 append adds DISC-0111 (THEOREM in the mathematical sense only, computer-assisted, conditional on DISC-0106; novelty UNRESOLVED) and DISC-0112 (REJECTED) from informational-flux-identity at a6e6c74b680d6ef126b5e4b7cc1de3a939c2dcc7 (Theorem AS; Kept Failure AS.1). DISC-0111 certifies 𝓛(0.45)=0.8211386271335… and 𝓛(0.10)>1.410638933063, proving Conjecture J.2: DISC-0108 changes status CONJECTURE → THEOREM (history kept). DISC-0035 keeps its status (edge only).
  A further 2026-10-22 append adds DISC-0113 (THEOREM in the mathematical sense only, computer-assisted, conditional on DISC-0106, DISC-0109, DISC-0111; novelty UNRESOLVED), DISC-0114 (REJECTED) and DISC-0115 (CONJECTURE, repository's own) from informational-flux-identity at 68af4dd0c3989732a1b8b8ea0275948b7c33051a (Theorem AT; Kept Failure AT.1; Conjecture AT.2). DISC-0109 keeps its status (constants now certified; edge only).
+ A further 2026-10-22 append adds DISC-0116 (THEOREM in the mathematical sense only; parts 1–2 proved, part 3 computer-assisted; novelty UNRESOLVED) and DISC-0117 (REJECTED) from informational-flux-identity at b036dcfb89e66ffa51ebf8407c08996d7fa3d17e (Theorem AU; Kept Failure AU.1). DISC-0116 proves Conjecture AT.2: DISC-0115 changes status CONJECTURE → THEOREM (history kept).
 
 
 
@@ -248,6 +249,12 @@ Each edge is labeled mathematical, computational, or historical.
 - DISC-0114 → DISC-0115. Label: mathematical. Conjecture AT.2 averages the periodic profile Θ.
 - DISC-0113 → DISC-0035. Label: computational. Certified approach coefficient c_F; law stays CONJECTURE.
 - DISC-0114 sits beside DISC-0112. Label: failed hypothesis. Simplest closed forms fail where certificates succeed.
+- DISC-0113 → DISC-0116. Label: mathematical. AU's slope formula lands inside AT's independent c_R(γ) enclosure and sharpens it by 16 digits.
+- DISC-0114 → DISC-0116. Label: mathematical. AU uses AT.1's orbit lemma and the periodic profile Θ.
+- DISC-0109 → DISC-0116. Label: mathematical. The defect term uses AR (2) at γ−ε.
+- DISC-0116 → DISC-0115. Label: mathematical. Theorem AU (1) proves Conjecture AT.2 (status CONJECTURE → THEOREM).
+- DISC-0116 → DISC-0117. Label: mathematical. Kept Failure AU.1: certified second harmonic, so not a single cosine.
+- DISC-0117 sits beside DISC-0114. Label: failed hypothesis. Nine-digit fits do not identify the profile.
 
 
 - DISC-0001 → DISC-0031. Label: historical. Same repository; GASKET.md continues the rectangle identity on the combinatorial gasket.

@@ -6,7 +6,9 @@ DISC-0115
 
 ## Status
 
-CONJECTURE (repository's own; not proved). Novelty UNRESOLVED. Not thrust.
+THEOREM (from 2026-10-22, via DISC-0116; mathematical sense only). Novelty UNRESOLVED. Not thrust.
+
+Status history (not rewritten): CONJECTURE (repository's own) from 2026-10-22 ~6:01am EDT until the same day, when IFI Theorem AU (1) at b036dcfb89e66ffa51ebf8407c08996d7fa3d17e proved it: ∫s^(−γ)r_m = m ln5⟨Θ⟩+O(1), so c_R(γ)=(2 sin πγ/π)ln5⟨Θ⟩, with ⟨Θ⟩ certified in [0.6009542511687736078237051500999942, …9943]. The sections below are the original record and are kept as written.
 
 ## Date Discovered
 
@@ -82,8 +84,11 @@ Interval enclosure of ⟨Θ⟩ to 1e−15 (would test the falsifier).
 
 ## Evidence Log
 
+- 2026-10-22 (later slice). IFI b036dcfb89e66ffa51ebf8407c08996d7fa3d17e GASKET.md Conjecture AT.2 header "Status: PROVED by Theorem AU"; statement text kept. Repo witness scripts/gasket_fractional_log_mean.py EXIT 0; archive /workspace/scratch-ifi/indep_theorem_AU.py EXIT 0 (11 PASS): 128-point log-mean at depth 5^(−141) gives c_R(γ)=0.5171658346305052439259804856731272 inside both enclosures.
+
 - 2026-10-22. Repo observation PASS; archive check (D) PASS.
 
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+- 2026-10-22. Status change CONJECTURE → THEOREM (DISC-0116, IFI Theorem AU at b036dcfb89e66ffa51ebf8407c08996d7fa3d17e). Earlier text retained.
