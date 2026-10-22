@@ -28,6 +28,7 @@ This page is the graph for the 2026-10-01 read-only audit. It does not change th
  A further 2026-10-22 append adds DISC-0116 (THEOREM in the mathematical sense only; parts 1–2 proved, part 3 computer-assisted; novelty UNRESOLVED) and DISC-0117 (REJECTED) from informational-flux-identity at b036dcfb89e66ffa51ebf8407c08996d7fa3d17e (Theorem AU; Kept Failure AU.1). DISC-0116 proves Conjecture AT.2: DISC-0115 changes status CONJECTURE → THEOREM (history kept).
  A further 2026-10-22 append adds DISC-0118 (KNOWN) and DISC-0119 (REJECTED) from informational-flux-identity at 9fc8c7a3e2d680395a095c36f0daf90df776d043 (Theorem AV, nonlocal convolution and fractional Maxwell-form readings; Kept Failure AV.1). The repository description still matches its claim fence (no new mismatch).
  A further 2026-10-22 append adds DISC-0120 (KNOWN), DISC-0121 (REJECTED) and DISC-0122 (CONJECTURE, repository's own) from informational-flux-identity at 7a12ab736327e6d314c2035b7c8cfb95a2025dc6 (Theorem AW, slow-tail smoothing readings (−Δ)^{−τ}Ψ; Kept Failure AW.1; Conjecture AW.4). No existing status changes. The repository description still matches its claim fence (no new mismatch).
+ A further 2026-10-22 append adds DISC-0123 (THEOREM in the mathematical sense only; novelty UNRESOLVED) and DISC-0124 (REJECTED) from informational-flux-identity at e81b8148608b360254f88c0534e71ace97c54783 (Theorem AX; Kept Failure AX.1). DISC-0123 proves Conjecture AW.4: DISC-0122 changes status CONJECTURE → THEOREM (history kept).
 
 
 
@@ -263,6 +264,10 @@ Each edge is labeled mathematical, computational, or historical.
 - DISC-0119 → DISC-0121. Label: mathematical. Same rejected route extended to kernels without o(R^−2) decay; the radius-free marginal value is centre-dependent.
 - DISC-0120 → DISC-0121. Label: mathematical. Surface-independent G is 0 for every τ; marginal τ=3/4 (16/9)Q²(c−x_Q) and dipole τ=5/4 values are linear in the audit centre; Kept Failure AW.1.
 - DISC-0120 → DISC-0122. Label: mathematical. Conjecture AW.4 extends the proved ℓ=0,1 marginal exponents to τ_ℓ=(3+2ℓ)/4.
+- DISC-0120 → DISC-0123. Label: mathematical. Theorem AX reuses AW's finite-part kernel and extends the ℓ=0,1 marginal values to every ℓ.
+- DISC-0123 → DISC-0122. Label: mathematical. Theorem AX proves Conjecture AW.4 (status CONJECTURE → THEOREM).
+- DISC-0123 → DISC-0124. Label: mathematical. Kept Failure AX.1: with M=0 the sphere value g0 disagrees with cubes.
+- DISC-0124 sits beside DISC-0121. Label: failed hypothesis. Marginal values depend on the audit surface (centre in AW.1, shape in AX.1).
 - DISC-0117 sits beside DISC-0114. Label: failed hypothesis. Nine-digit fits do not identify the profile.
 
 

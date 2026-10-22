@@ -6,7 +6,9 @@ DISC-0122
 
 ## Status
 
-CONJECTURE (repository's own; not a claim). Not thrust.
+THEOREM (mathematical sense only; proved by IFI Theorem AX at e81b8148608b, see DISC-0123). Not thrust.
+
+Status history: CONJECTURE 2026-10-22 ~8:55am EDT (repository's own Conjecture AW.4 at 7a12ab736327) → THEOREM 2026-10-22 ~11:01am EDT via DISC-0123. The original CONJECTURE text below is kept unchanged.
 
 ## Date Discovered
 
@@ -58,7 +60,7 @@ None.
 
 ## Mathematical Status
 
-Open conjecture; numerically supported at ℓ=2 for one quadrupole only. Do not cite as a theorem.
+Now THEOREM via DISC-0123 (all ℓ; M given in closed form). Note: the stated falsifier "M_(τ_ℓ,ℓ)=0" does occur at ℓ=4 (P*), but the scaling statement G=R^(4τ−3−2ℓ)M c still holds with M=0, so the conjecture as stated is proved, not falsified. Original text: Open conjecture; numerically supported at ℓ=2 for one quadrupole only. Do not cite as a theorem.
 
 ## Patent Relevance
 
@@ -68,6 +70,7 @@ None.
 
 - DISC-0120. Theorem AW (proved ℓ=0,1 cases).
 - DISC-0121. Kept Failure AW.1.
+- DISC-0123. Theorem AX (proof).
 
 ## Open Questions
 
@@ -83,8 +86,10 @@ Symbolic cap integral for a pure quadrupole at τ=7/4; random symmetric traceles
 
 ## Evidence Log
 
+- 2026-10-22 ~11:01am EDT. Proved by Theorem AX at e81b8148608b.
 - 2026-10-22 ~8:55am EDT. Recorded from IFI 7a12ab736327e6d314c2035b7c8cfb95a2025dc6; archive probe 4/4 consistent.
 
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+- 2026-10-22 ~11:01am EDT. Status CONJECTURE → THEOREM after IFI e81b8148608b360254f88c0534e71ace97c54783 (Theorem AX); archive check /workspace/scratch-ifi/indep_theorem_AX.py 11/11 PASS (random non-axisymmetric quadrupole closed form, ℓ=3 radius-free). Earlier text preserved.
