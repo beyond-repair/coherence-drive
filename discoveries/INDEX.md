@@ -28,7 +28,7 @@ This page is the graph for the 2026-10-01 read-only audit. It does not change th
  A further 2026-10-22 append adds DISC-0116 (THEOREM in the mathematical sense only; parts 1–2 proved, part 3 computer-assisted; novelty UNRESOLVED) and DISC-0117 (REJECTED) from informational-flux-identity at b036dcfb89e66ffa51ebf8407c08996d7fa3d17e (Theorem AU; Kept Failure AU.1). DISC-0116 proves Conjecture AT.2: DISC-0115 changes status CONJECTURE → THEOREM (history kept).
  A further 2026-10-22 append adds DISC-0118 (KNOWN) and DISC-0119 (REJECTED) from informational-flux-identity at 9fc8c7a3e2d680395a095c36f0daf90df776d043 (Theorem AV, nonlocal convolution and fractional Maxwell-form readings; Kept Failure AV.1). The repository description still matches its claim fence (no new mismatch).
  A further 2026-10-22 append adds DISC-0120 (KNOWN), DISC-0121 (REJECTED) and DISC-0122 (CONJECTURE, repository's own) from informational-flux-identity at 7a12ab736327e6d314c2035b7c8cfb95a2025dc6 (Theorem AW, slow-tail smoothing readings (−Δ)^{−τ}Ψ; Kept Failure AW.1; Conjecture AW.4). No existing status changes. The repository description still matches its claim fence (no new mismatch).
- A further 2026-10-22 append adds DISC-0123 (THEOREM in the mathematical sense only; novelty UNRESOLVED) and DISC-0124 (REJECTED) from informational-flux-identity at e81b8148608b360254f88c0534e71ace97c54783 (Theorem AX; Kept Failure AX.1). DISC-0123 proves Conjecture AW.4: DISC-0122 changes status CONJECTURE → THEOREM (history kept).
+ A further 2026-10-22 append adds DISC-0123 (THEOREM in the mathematical sense only; novelty UNRESOLVED) and DISC-0124 (REJECTED) from informational-flux-identity at e81b8148608b360254f88c0534e71ace97c54783 (Theorem AX; Kept Failure AX.1). DISC-0123 proves Conjecture AW.4: DISC-0122 changes status CONJECTURE → THEOREM (history kept). A further 2026-10-22 append adds DISC-0125 (THEOREM in the mathematical sense only; method KNOWN, constants novelty UNRESOLVED) and DISC-0126 (REJECTED) from informational-flux-identity at 8517f2bac0f79c5c76b1ef9d03517582bc8d06e2 (Theorem AY; Kept Failure AY.1). DISC-0125 resolves DISC-0116's open certified-C_γ item and corrects AU's float C_γ by 1.7e−14 (no status change to DISC-0116; history kept).
 
 
 
@@ -269,6 +269,10 @@ Each edge is labeled mathematical, computational, or historical.
 - DISC-0123 → DISC-0124. Label: mathematical. Kept Failure AX.1: with M=0 the sphere value g0 disagrees with cubes.
 - DISC-0124 sits beside DISC-0121. Label: failed hypothesis. Marginal values depend on the audit surface (centre in AW.1, shape in AX.1).
 - DISC-0117 sits beside DISC-0114. Label: failed hypothesis. Nine-digit fits do not identify the profile.
+- DISC-0113 → DISC-0125. Label: mathematical. At ρ=1 Theorem AT's bracket weights are level-independent, which makes the per-level defects summable.
+- DISC-0116 → DISC-0125. Label: mathematical. Theorem AY uses AU's slope c=ln5⟨Θ⟩ and certifies the intercept AU left open (AU float low by 1.7e−14).
+- DISC-0125 → DISC-0126. Label: mathematical. Kept Failure AY.1: the unshifted n‖F‖ has a Θ(1/n) error.
+- DISC-0126 sits beside DISC-0114 and DISC-0117. Label: failed hypothesis. Simplest-form guesses at γ that fail.
 
 
 - DISC-0001 → DISC-0031. Label: historical. Same repository; GASKET.md continues the rectangle identity on the combinatorial gasket.

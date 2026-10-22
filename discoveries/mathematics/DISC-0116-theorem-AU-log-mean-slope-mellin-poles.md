@@ -92,3 +92,4 @@ Interval certificate for C_γ; certified θ̂_5 (float ≈1.7e−27) to test the
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+- 2026-10-22 (~11:53am EDT slice). Open question "certified C_γ≈0.70307046242184" resolved by DISC-0125 (IFI Theorem AY, 8517f2bac0f79c5c76b1ef9d03517582bc8d06e2): C_γ ∈ [0.70307046242185742992904816, …817]; the AU float quoted above was low by 1.7e−14. The text above is kept as first recorded.
