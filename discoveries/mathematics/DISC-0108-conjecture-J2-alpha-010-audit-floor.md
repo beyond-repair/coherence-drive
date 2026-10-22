@@ -6,7 +6,9 @@ DISC-0108
 
 ## Status
 
-CONJECTURE
+THEOREM (from 2026-10-22, via DISC-0111; computer-assisted, mathematical sense only)
+
+Status history (not rewritten): CONJECTURE from 2026-10-22 (split from DISC-0034) until the same day, when IFI Theorem AS (5) at a6e6c74b680d6ef126b5e4b7cc1de3a939c2dcc7 proved it: ‖F(n,0.10)‖ strictly decreases (Theorem AQ (3)) to 𝓛(0.10)∈[1.410638933063,1.410638933065] (outward-rounded mpmath.iv interpolation-sandwich certificate), so ‖F(n,0.10)‖>1.410 at every level, margin 6.4e−4. The sections below are the original record and are kept as written.
 
 ## Date Discovered
 
@@ -84,8 +86,11 @@ A finer interval certificate at α=0.10 (much finer grid, larger upper cutoff, c
 
 ## Evidence Log
 
+- 2026-10-22 (later slice). IFI a6e6c74b680d6ef126b5e4b7cc1de3a939c2dcc7 GASKET.md "Status of J.2 below: PROVED by Theorem AS (5)"; J.2 statement text byte-identical to parent 3ec0a064caa5. Repo witness scripts/gasket_fractional_limit_digits.py EXIT 0 (25 PASS); archive /workspace/scratch-ifi/indep_theorem_AS.py EXIT 0 (9 PASS): own 30-digit recursion quadrature ‖F(80,0.10)‖=1.410638933063971, inside the AS enclosure, margin over 1.410 = 6.389e−4.
+
 - 2026-10-22. Split from DISC-0034 at its J.1 status change; repository J.2 text unchanged at 4b4509f6f086f3f52b034f55508862f130381f2b.
 
 ## Change History
 
 - 2026-10-22. Initial archive entry (carried forward from DISC-0034, where J.2 was recorded on 2026-10-08).
+- 2026-10-22. Status change CONJECTURE → THEOREM (DISC-0111, IFI Theorem AS at a6e6c74b680d6ef126b5e4b7cc1de3a939c2dcc7). Earlier text retained.
