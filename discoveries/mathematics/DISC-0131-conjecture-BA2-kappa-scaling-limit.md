@@ -6,7 +6,7 @@ DISC-0131
 
 ## Status
 
-CONJECTURE (repository's own). Not thrust.
+THEOREM for every α<log3/log5 (proved by IFI Theorem BB at 3b98cd7, DISC-0132; limit K(0.45)∈[−0.854646905120924,−0.854646905120848], not ≈−0.86). Originally CONJECTURE (repository's own); history below. Not thrust.
 
 ## Date Discovered
 
@@ -66,7 +66,7 @@ None.
 
 ## Related Discoveries
 
-DISC-0129 → DISC-0131 (mathematical); DISC-0130 (uses witness iii).
+DISC-0129 → DISC-0131 (mathematical); DISC-0130 (uses witness iii); DISC-0132 → DISC-0131 (mathematical, proof).
 
 ## Open Questions
 
@@ -82,8 +82,10 @@ As DISC-0129.
 
 ## Evidence Log
 
+- 2026-10-22 ~3:55pm EDT. Proved by Theorem BB at IFI 3b98cd7aa7c102a5b9c44cedeef3ed123c53f23d: lim 2^−nκ_n=−4σ_∞/R_∞², certified at 0.45; limit 0 for α≥γ. The original falsifier (certified sequence →0 or −∞) is not met for α<γ; it IS met for α≥γ (limit 0), which the original 0.45-only statement did not cover. The Aitken ≈−0.86 was 0.005 low.
 - 2026-10-22. Archive floats n=5,6 match.
 
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+- 2026-10-22 ~3:55pm EDT. Status CONJECTURE → THEOREM after IFI 3b98cd7aa7c1 (Theorem BB, DISC-0132); repo witness EXIT 0, archive /workspace/scratch-ifi/indep_theorem_BB.py 64/64 PASS. Earlier text preserved.
