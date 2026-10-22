@@ -6,7 +6,7 @@ DISC-0137
 
 ## Status
 
-CONJECTURE (repository's own Conjecture BC.2; floats only, not certified). Do not cite as a theorem. Not thrust.
+THEOREM for every α∈(0,1) (proved by IFI Theorem BD at 30bee3a, DISC-0138: 2/(3^n+1)<2−E_n/Y_n≤2/(3^n+1)+B_α3^−n). Originally CONJECTURE (repository's own Conjecture BC.2; floats only); history below. The float (2−E/Y)3^n→3.7255634 at 0.45 lies inside the certified c(0.45)∈[3.72198897,3.72914181]. Not thrust.
 
 ## Date Discovered
 
@@ -89,3 +89,4 @@ Repository: `cd informational-flux-identity && git checkout c7a0cf6 && python3 s
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+- 2026-10-22 ~6:05pm EDT. Status CONJECTURE → THEOREM after IFI 30bee3aab038 (Theorem BD, DISC-0138); the open bound e_n/y_n≤2·3^n/(3^n+1) for all s is also proved there (BD.2). Archive /workspace/scratch-ifi/indep_theorem_BD.py 45/45 PASS. Earlier text preserved (Mathematical Status section below reflects the original entry).

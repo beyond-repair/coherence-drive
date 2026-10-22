@@ -85,6 +85,9 @@ Repository: `cd informational-flux-identity && git checkout 3b98cd7 && python3 s
 
 - 2026-10-22 ~3:55pm EDT. Recorded from IFI 3b98cd7aa7c102a5b9c44cedeef3ed123c53f23d. Repository witness scripts/mesh_maxwell_limit.py EXIT 0 (231.5 s). Archive independent float check (own gasket build, own dense spectral calculus, not the repository code): BB.1 κ_n and κ^self_n formulas equal the direct pair-force sums to 1e−8 relative at α=0.45 levels 1–6 and α=0.25, 0.6 levels 1–4; 0<Y_n≤5^−nR_n/2 and 0<E_n≤ the BB.3 bound at every one of those 14 (α,n); cross constants at 0.45 match the certified κ^cross_1..4 to 1e−9; BB.2 tangential decimation y_n(s)=r_n(s)∏(5+p^j(s))^−1 and BB.3 e_n=s g_n, g_n≤(3/20)^n/s² hold on direct resolvent solves at n=1,2,3, s∈{0.5,3,1.4}. 64/64 PASS. Floats 2^−nκ_n=−2.0214,−1.6535,−1.3423,−1.1579,−1.0488,−0.9818 (n=1..6) increase toward K from below, consistent with the repo's recursion values −0.880867 (n=10), −0.855254 (n=20), −0.854647 (n=40). The archive did NOT independently certify K or reproduce the n=10–40 recursion; those rest on the repository witness (EXIT 0).
 
+- 2026-10-22 ~6:05pm EDT. IFI 30bee3aab038 Theorem BD (DISC-0138) proves κ^cross_n=2^n(4/R_n²)Y_n(1+d_n)>0 at every level and every α, so the rejection now holds at all levels, not only the certified levels 1–4. Status unchanged (REJECTED).
+
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+- 2026-10-22 ~6:05pm EDT. Evidence note added for Theorem BD (all-level positivity); status unchanged.
