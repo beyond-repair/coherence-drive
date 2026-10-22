@@ -26,6 +26,7 @@ This page is the graph for the 2026-10-01 read-only audit. It does not change th
  A further 2026-10-22 append adds DISC-0111 (THEOREM in the mathematical sense only, computer-assisted, conditional on DISC-0106; novelty UNRESOLVED) and DISC-0112 (REJECTED) from informational-flux-identity at a6e6c74b680d6ef126b5e4b7cc1de3a939c2dcc7 (Theorem AS; Kept Failure AS.1). DISC-0111 certifies 𝓛(0.45)=0.8211386271335… and 𝓛(0.10)>1.410638933063, proving Conjecture J.2: DISC-0108 changes status CONJECTURE → THEOREM (history kept). DISC-0035 keeps its status (edge only).
  A further 2026-10-22 append adds DISC-0113 (THEOREM in the mathematical sense only, computer-assisted, conditional on DISC-0106, DISC-0109, DISC-0111; novelty UNRESOLVED), DISC-0114 (REJECTED) and DISC-0115 (CONJECTURE, repository's own) from informational-flux-identity at 68af4dd0c3989732a1b8b8ea0275948b7c33051a (Theorem AT; Kept Failure AT.1; Conjecture AT.2). DISC-0109 keeps its status (constants now certified; edge only).
  A further 2026-10-22 append adds DISC-0116 (THEOREM in the mathematical sense only; parts 1–2 proved, part 3 computer-assisted; novelty UNRESOLVED) and DISC-0117 (REJECTED) from informational-flux-identity at b036dcfb89e66ffa51ebf8407c08996d7fa3d17e (Theorem AU; Kept Failure AU.1). DISC-0116 proves Conjecture AT.2: DISC-0115 changes status CONJECTURE → THEOREM (history kept).
+ A further 2026-10-22 append adds DISC-0118 (KNOWN) and DISC-0119 (REJECTED) from informational-flux-identity at 9fc8c7a3e2d680395a095c36f0daf90df776d043 (Theorem AV, nonlocal convolution and fractional Maxwell-form readings; Kept Failure AV.1). The repository description still matches its claim fence (no new mismatch).
 
 
 
@@ -254,6 +255,9 @@ Each edge is labeled mathematical, computational, or historical.
 - DISC-0109 → DISC-0116. Label: mathematical. The defect term uses AR (2) at γ−ε.
 - DISC-0116 → DISC-0115. Label: mathematical. Theorem AU (1) proves Conjecture AT.2 (status CONJECTURE → THEOREM).
 - DISC-0116 → DISC-0117. Label: mathematical. Kept Failure AU.1: certified second harmonic, so not a single cosine.
+- DISC-0070 → DISC-0118. Label: mathematical. Theorem Z NOT THIS listed nonlocal kernels as OPEN; Theorem AV closes the Maxwell-form convolution and fractional slice.
+- DISC-0057 → DISC-0118. Label: mathematical. Yukawa smearing reuses the screened-kernel decay of Theorem T for the surface-dependent remainder.
+- DISC-0118 → DISC-0119. Label: mathematical. Conserved on vacuum only for K=cδ; all other kernels surface-dependent and →0 under dilation; Kept Failure AV.1.
 - DISC-0117 sits beside DISC-0114. Label: failed hypothesis. Nine-digit fits do not identify the profile.
 
 
