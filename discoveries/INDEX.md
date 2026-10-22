@@ -24,6 +24,7 @@ This page is the graph for the 2026-10-01 read-only audit. It does not change th
  A further 2026-10-22 append adds DISC-0104 (THEOREM in the mathematical sense only), DISC-0105 (REJECTED), DISC-0106 (THEOREM in the mathematical sense only), DISC-0107 (REJECTED), and DISC-0108 (CONJECTURE) from informational-flux-identity at a1486faddc997650ce5b786104490aa6d13d2104 (Theorem AP; Kept Failure AP.1) and 4b4509f6f086f3f52b034f55508862f130381f2b (Theorem AQ; Kept Failure AQ.1) on the same terms. DISC-0104 gives the exact share identity σ_n=(L^(1−α))_aa+ω_n and the corner-moment Gauss–Radau floor σ_n≥1.310267 at α=0.45 (audit floor 0.274743 AM / 0.415238 AO as stated); DISC-0105 shows no share floor lifts the AM–AO fractional floors to 0.70 and names the open resistance ceiling ≤2.859237. DISC-0106 proves exact spectral decimation of the corner resolvent, strict decrease and convergence of ‖F(n,α)‖ for every α∈(0,1), and by interval certificate 𝓛(0.45)∈[0.819255,0.822959] (archive independent re-certification with exact α=9/20: [0.819784,0.822494]); this proves Conjecture J.1, so DISC-0034 changes status CONJECTURE → THEOREM for J.1 (status history kept; row and note appended, not rewritten), and its J.2 part is carried forward as DISC-0108 (CONJECTURE). DISC-0107 rejects a positive limit for α≥log3/log5. DISC-0035 stays CONJECTURE (prediction ≈0.8211 inside the bracket). The IFI repository description still matches its claim fence (no new mismatch).
  A further 2026-10-22 append adds DISC-0109 (THEOREM in the mathematical sense only, conditional on DISC-0106's certificate; novelty UNRESOLVED) and DISC-0110 (REJECTED) from informational-flux-identity at 3ec0a064caa5c70d6c4bfb23e7c37af89091abb2 (Theorem AR, exact refinement rates; Kept Failure AR.1). DISC-0035 and DISC-0108 keep their status (edges only).
  A further 2026-10-22 append adds DISC-0111 (THEOREM in the mathematical sense only, computer-assisted, conditional on DISC-0106; novelty UNRESOLVED) and DISC-0112 (REJECTED) from informational-flux-identity at a6e6c74b680d6ef126b5e4b7cc1de3a939c2dcc7 (Theorem AS; Kept Failure AS.1). DISC-0111 certifies 𝓛(0.45)=0.8211386271335… and 𝓛(0.10)>1.410638933063, proving Conjecture J.2: DISC-0108 changes status CONJECTURE → THEOREM (history kept). DISC-0035 keeps its status (edge only).
+ A further 2026-10-22 append adds DISC-0113 (THEOREM in the mathematical sense only, computer-assisted, conditional on DISC-0106, DISC-0109, DISC-0111; novelty UNRESOLVED), DISC-0114 (REJECTED) and DISC-0115 (CONJECTURE, repository's own) from informational-flux-identity at 68af4dd0c3989732a1b8b8ea0275948b7c33051a (Theorem AT; Kept Failure AT.1; Conjecture AT.2). DISC-0109 keeps its status (constants now certified; edge only).
 
 
 
@@ -240,6 +241,13 @@ Each edge is labeled mathematical, computational, or historical.
 - DISC-0111 → DISC-0035. Label: computational. Certified digits agree with the archive law's predictions to its stated digits; law stays CONJECTURE.
 - DISC-0111 → DISC-0112. Label: mathematical. Kept Failure AS.1: level-10 ρ/Aitken extrapolation misses by >1e−4.
 - DISC-0112 sits beside DISC-0110. Label: failed hypothesis. Shortcuts around the certificates fail.
+- DISC-0106 → DISC-0113. Label: mathematical. AT uses AQ's recursion, Stieltjes formulas and power ceiling (re-certified).
+- DISC-0109 → DISC-0113. Label: mathematical. AT's transfer iterates AR's product formula; DISC-0113 certifies AR's c_R, c_S (c_S(0.45) float low by 1.6e−6).
+- DISC-0111 → DISC-0113. Label: mathematical. AS's interpolation sandwich and enclosures of R_∞, σ_∞ give the cells and c_F.
+- DISC-0113 → DISC-0114. Label: mathematical. Kept Failure AT.1: s^(1−γ)r_∞ is log-periodic, no pure-power constant.
+- DISC-0114 → DISC-0115. Label: mathematical. Conjecture AT.2 averages the periodic profile Θ.
+- DISC-0113 → DISC-0035. Label: computational. Certified approach coefficient c_F; law stays CONJECTURE.
+- DISC-0114 sits beside DISC-0112. Label: failed hypothesis. Simplest closed forms fail where certificates succeed.
 
 
 - DISC-0001 → DISC-0031. Label: historical. Same repository; GASKET.md continues the rectangle identity on the combinatorial gasket.
