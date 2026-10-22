@@ -6,7 +6,7 @@ DISC-0140
 
 ## Status
 
-CONJECTURE (repository's own Conjecture BD.2). Do not cite as a theorem. Not thrust.
+Decided in part by IFI Theorem BE at 3b3ec0f (DISC-0141): the monotone part (c(α) strictly decreasing on (0,1)) and c(1^−)=2 are THEOREM (with (c−2)/(1−α)→3S, 3S∈[2.70632481,2.70903118] certified); the c(0^+)=∞ part is REJECTED (c(0^+) finite, certified in [5.48553067,5.50249013]; Kept Failure BE.1, DISC-0142). Ledger status column THEOREM refers to the surviving parts only. Originally CONJECTURE (repository's own Conjecture BD.2); history below. Not thrust.
 
 ## Date Discovered
 
@@ -83,7 +83,9 @@ As DISC-0138.
 ## Evidence Log
 
 - 2026-10-22 ~6:05pm EDT. Recorded from IFI 30bee3aab038a818c28144ef7d9787eaccdedf5a.
+- 2026-10-22 ~7:15pm EDT. IFI 3b3ec0fef920 Theorem BE (DISC-0141) proves the decrease (tilt identity, BE.1–BE.2) and c(1^−)=2 (BE.3), and refutes c(0^+)=∞ (BE.4, Kept Failure BE.1, DISC-0142). The Derivation note above (the c(0^+)=∞ heuristic only used divergence of the bound B_α) is what BE.1 confirms. Archive /workspace/scratch-ifi/indep_theorem_BE.py 30/30 PASS: 3^n d_n(α) at n=24 strictly decreasing on 12 α in [0,0.99], c(0)≈5.494003 finite and inside the certified bracket, c(0.99)−2≈0.0272.
 
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+- 2026-10-22 ~7:15pm EDT. Status CONJECTURE → THEOREM for the monotone part and c(1^−)=2; the c(0^+)=∞ part REJECTED (DISC-0142), after IFI 3b3ec0fef920 (Theorem BE, DISC-0141). Earlier text preserved (Mathematical Status section below reflects the original entry).
