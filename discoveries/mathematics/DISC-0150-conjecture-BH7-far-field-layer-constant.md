@@ -83,7 +83,9 @@ As DISC-0149.
 ## Evidence Log
 
 - 2026-10-22. Archive float trend recorded above.
+- 2026-10-23 ~3:57pm EDT. DISC-0168 (Theorem BS at 316ee92917b1) derives, from AT.1 as stated (derived level only), c_∞(α)=θ_∞^BH(α); so θ_∞(0.45) would lie in BR.5's certified c_∞ bracket [0.520386,0.520825] (outward), consistent with ≈0.52061. Archive independent float c_∞(0.45)=0.5206072.
 
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+- 2026-10-23 ~3:57pm EDT. Derived-only bracket for the value part noted from DISC-0168; the identification rests on AT.1 and the O(3^−k) rate is not addressed. Status stays CONJECTURE (the repository still lists BH.7 as open).

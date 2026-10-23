@@ -97,7 +97,9 @@ git -C informational-flux-identity checkout bed41594e18cbcb7af443349e9e3c6ea1142
 ## Evidence Log
 
 - 2026-10-23 ~1:59pm EDT. Indexed; repo witness EXIT 0 (105.4 s); independent checks 35/35 PASS; rounding erratum recorded.
+- 2026-10-23 ~3:57pm EDT. Consistency with DISC-0168 (Theorem BS at 316ee92917b1): c_∞=ρ^N(C_N+χ_N) enclosures for N=1–6 meet BR.5's outward c_∞ bracket at all four α; ρ^N C_N(0.45) certified increasing N=1–6 (0.049447…0.453735), as BR.4 states (archive indep_theorem_BS.py PASS).
 
 ## Change History
 
 - 2026-10-23. Initial archive entry.
+- 2026-10-23 ~3:57pm EDT. Open questions "rate of ρ^N C_N→c_∞" and "certified C_N for individual N≥2" answered by DISC-0168 (Theorem BS at 316ee92917b1): c_∞−ρ^N C_N=ρ^N χ_N with χ_N→χ_∞∈(0,∞) (χ_∞(0.45)∈[0.633344,0.633869]), so the rate is exactly ρ^N; C_N certified for N=1–6 at α=0.01, 0.1, 0.3, 0.45. BS.1 makes the c_∞ formula AT.1-free; "matching c_∞ with BH's layer" settled at the derived (AT.1) level only. No status change; closed forms and uniformity in α remain open.
