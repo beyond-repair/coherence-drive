@@ -6,7 +6,7 @@ DISC-0154
 
 ## Status
 
-CONJECTURE (repository's own; floats only). Not thrust.
+THEOREM in the mathematical sense only, as an upper bound O(ρ^−n), uniformly on V_n, proved by IFI GASKET Theorem BK at 00d0d28b71db264b070be23c73f8e3f67de704db (constants computer-assisted, see DISC-0155). Whether the order is attained is open as DISC-0156. Previously CONJECTURE (repository's own; floats only). Not thrust.
 
 ## Date Discovered
 
@@ -58,7 +58,7 @@ Floats only (repository).
 
 ## Mathematical Status
 
-Conjecture.
+Theorem (upper bound, via DISC-0155); originally Conjecture.
 
 ## Patent Relevance
 
@@ -87,3 +87,4 @@ git -C informational-flux-identity checkout 815003f22507fa34258d8b917a0e3a776340
 ## Change History
 
 - 2026-10-23. Initial archive entry.
+- 2026-10-23 ~2:54am EDT. Status CONJECTURE → THEOREM (upper bound). IFI commit 00d0d28b71db264b070be23c73f8e3f67de704db (GASKET.md Theorem BK, CLAIM_STATUS.md new row, scripts/gasket_fractional_uniform_rate.py) proves sup_(V_n)|u_n−ū|≤C_α‖x‖ρ^−n for every n (C_0.8≤6.2192, certified), which covers the corner neighbours. Attainment is DISC-0156. Original conjecture text above kept unchanged. See DISC-0155, DISC-0156.
