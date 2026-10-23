@@ -89,3 +89,4 @@ As DISC-0149.
 
 - 2026-10-22. Initial archive entry.
 - 2026-10-23 ~3:57pm EDT. Derived-only bracket for the value part noted from DISC-0168; the identification rests on AT.1 and the O(3^−k) rate is not addressed. Status stays CONJECTURE (the repository still lists BH.7 as open).
+- 2026-10-23 ~5:01pm EDT. DISC-0170 (Theorem BT at 48a561c16bce) makes c_∞=θ_∞^BH unconditional, so θ_∞(0.45)∈[0.520386,0.520825] (BR.5) at theorem level, consistent with ≈0.52061; the O(3^−k) rate clause is not addressed. Status stays CONJECTURE.

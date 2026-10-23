@@ -101,3 +101,4 @@ git -C informational-flux-identity checkout 316ee92917b18b6c95346b02c2e1fd7f7bb0
 ## Change History
 
 - 2026-10-23. Initial archive entry.
+- 2026-10-23 ~5:01pm EDT. The derived paragraph's hypothesis u^(1−γ)Q_∞=Θ_AT∘ψ is proved by DISC-0170 (Theorem BT at 48a561c16bce), so c_∞=θ_∞^BH holds with BH.6 as stated; F's extremes and mean certified; closed form still open. No status change.

@@ -87,3 +87,4 @@ Certified Fourier expansion of Θ.
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+- 2026-10-23 ~5:01pm EDT. Re-confirmed by IFI Kept Failure BT.5 at 48a561c16bce15b0a0992015fa063d5311ebd5d5: F=u^(1−γ)Q_∞ is not constant (certified max F−min F≥1.465480e−5), the same hypothesis in Theorem BS's Q_∞ form; indexed under DISC-0170, no new ID; status stays REJECTED.
