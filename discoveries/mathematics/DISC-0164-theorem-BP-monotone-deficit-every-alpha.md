@@ -95,3 +95,4 @@ git -C informational-flux-identity checkout 4ee50b22193b5b24b0677a30e83403957f05
 ## Change History
 
 - 2026-10-23. Initial archive entry.
+- 2026-10-23 ~12:58pm EDT. Open question "rates of 1−δ_N^(n) below γ" answered by DISC-0165 (Theorem BQ at 01c39d01aa86): exact order ρ^n, ratios → ρ as the floats suggested. No status change.
