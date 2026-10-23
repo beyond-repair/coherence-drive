@@ -89,7 +89,9 @@ git -C informational-flux-identity checkout 01c39d01aa86aa64eb165f85f28503f2e320
 ## Evidence Log
 
 - 2026-10-23 ~12:58pm EDT. Indexed; repo witness EXIT 0; independent checks 12/12 PASS.
+- 2026-10-23 ~1:59pm EDT. Consistency with DISC-0167 (Theorem BR at bed41594e18c): BQ.3's ρC_1 lies below the certified c_∞ at α=0.01, 0.1, 0.3, 0.45 (archive indep_theorem_BR.py PASS).
 
 ## Change History
 
 - 2026-10-23. Initial archive entry.
+- 2026-10-23 ~1:59pm EDT. Open question "N-dependence of C_N" answered by DISC-0167 (Theorem BR at bed41594e18c): ρ^N C_N strictly increases in N to a finite c_∞(α), so C_N has exact order ρ^−N (c_∞(0.45)≈0.5204 vs ρC_1(0.45)≈0.0494). BR.1 also proves the ceiling η_N≤2/(2+z) that BQ quoted from BH.2/BJ.4. No status change; other open questions (closed forms, eventual monotonicity of V^(n), N≥2 certificates) remain.
