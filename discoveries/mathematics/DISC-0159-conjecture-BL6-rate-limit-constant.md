@@ -88,3 +88,4 @@ git checkout dfc145a9833f96b8960667c572aca38d48adfc17; python3 scripts/gasket_fr
 
 - 2026-10-23. Initial archive entry.
 - 2026-10-23 ~6:53am EDT. Repository floats in Theorem BM (c9ca93479dbee307e77705a052d995029938a630) give ρ^n(δ_6^(60)−δ_6^(n))≈0.364 at α=0.9 against ≈0.6025 at α=0.8, so C_δ, if it exists, depends on α. Still CONJECTURE (floats only).
+- 2026-10-23 ~8:00am EDT. Status split: monotonicity clause (δ_N^(n) increasing in n for every N≥1) proved for α≥1/17 by Theorem BN (DISC-0161, informational-flux-identity 335860e44ebf) → THEOREM; limit clause (existence and N-independence of C_δ) stays CONJECTURE. Earlier text kept above.
