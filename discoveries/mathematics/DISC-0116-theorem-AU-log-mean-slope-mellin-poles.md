@@ -76,6 +76,7 @@ None.
 ## Open Questions
 
 Closed forms for ⟨Θ⟩, θ̂_k, c_R, c_S, C_γ, 𝓛; certified C_γ≈0.70307046242184; whether every θ̂_k≠0 and the exact decay rate; the c_S-side analogue.
+- 2026-10-23 note (no status change): DISC-0171 (Theorem BU, ad459e306e19) proves θ equals BS's profile u^(1−γ)Q_∞, so AU's Mellin residues are BS's Fourier coefficients and AU's certified table now applies to c_∞, C_N, χ_∞ and G*.
 
 ## Next Experiments
 
@@ -93,3 +94,4 @@ Interval certificate for C_γ; certified θ̂_5 (float ≈1.7e−27) to test the
 
 - 2026-10-22. Initial archive entry.
 - 2026-10-22 (~11:53am EDT slice). Open question "certified C_γ≈0.70307046242184" resolved by DISC-0125 (IFI Theorem AY, 8517f2bac0f79c5c76b1ef9d03517582bc8d06e2): C_γ ∈ [0.70307046242185742992904816, …817]; the AU float quoted above was low by 1.7e−14. The text above is kept as first recorded.
+- 2026-10-23 ~5:58pm EDT. Note added under Open Questions (DISC-0171 identification); original text unchanged.

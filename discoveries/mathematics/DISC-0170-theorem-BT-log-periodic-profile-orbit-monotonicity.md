@@ -81,6 +81,7 @@ DISC-0168 (Theorem BS, answered part of its closed-form question; identification
 ## Open Questions
 
 Closed form of F (hence of c_∞, C_N, P_N, χ_∞, G*); F̂_k=θ̂_k for k≥1 and θ̂_k≠0 for every k; narrower max/min brackets; Conjecture BS.4 (DISC-0169).
+- 2026-10-23 note (no status change): DISC-0171 (Theorem BU, ad459e306e19) answers F̂_k=θ̂_k for every k (F=θ identically) and narrows the max/min brackets to [0.6009615785971,0.6009615785983] and [0.6009469237907,0.6009469237943]; the extremes being exactly half a period apart is REJECTED as a symmetry (DISC-0172).
 
 ## Next Experiments
 
@@ -101,3 +102,4 @@ cd informational-flux-identity && python3 scripts/gasket_fractional_log_periodic
 ## Change History
 
 - 2026-10-23. Initial archive entry.
+- 2026-10-23 ~5:58pm EDT. Note added under Open Questions (answered by DISC-0171); original text unchanged.
