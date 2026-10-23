@@ -87,3 +87,4 @@ As DISC-0146.
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+- 2026-10-22 ~10:00pm EDT. Status unchanged (REJECTED). informational-flux-identity 156d8ce80c73147e3dc8aa34cbcea2ce6e42d989 (Theorem BH, DISC-0149) resolves the layer: u_n(2^−n ξ)→d̄+x_a Θ(ξ) for α<γ, and the gap x_a θ_0 now holds at each neighbour separately (exact asymmetry (x_b−x_c)I_n/D_n ≤ 5^−n). Open question "width scaling" answered: decay ρ per doubling (BH.6). Earlier text kept.
