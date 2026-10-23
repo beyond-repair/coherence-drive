@@ -71,6 +71,7 @@ DISC-0171 (Theorem BU), DISC-0170 (BT.4 nodes that suggested it), DISC-0116 (AU,
 ## Open Questions
 
 The exact half-period offset of argmax and argmin.
+- 2026-10-23 note (no status change): the weaker extremal-placement hypothesis is refuted separately as DISC-0174 (Theorem BV, cec4aff731ce); (max F+min F)/2−⟨F⟩=2.6909742749436036e−11 certified inside BU.4's bracket.
 
 ## Next Experiments
 
@@ -87,3 +88,4 @@ As for DISC-0171.
 ## Change History
 
 - 2026-10-23. Initial archive entry.
+- 2026-10-23 ~6:56pm EDT. Note added under Open Questions (DISC-0173/DISC-0174); original text unchanged.

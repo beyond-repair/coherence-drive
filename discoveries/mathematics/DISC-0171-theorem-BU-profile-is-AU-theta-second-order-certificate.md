@@ -86,6 +86,7 @@ DISC-0170 (Theorem BT; answers its open F̂_k=θ̂_k and narrower-bracket questi
 ## Open Questions
 
 Closed form of F=θ (hence c_∞, C_N, P_N, χ_∞, G*); θ̂_k≠0 for k≥5 and the decay rate of |θ̂_k|; exact location of the extremes; Conjecture BS.4 (DISC-0169).
+- 2026-10-23 note (no status change): DISC-0173 (Theorem BV, cec4aff731ce) answers the upper half of the decay rate (|θ̂_k|≤B_k~e^(−2π²k/ln5)), θ̂_k≠0 for k≤11, and the extremal locations; the half-period-offset next experiment is closed by DISC-0174 (offset −1.624e−7, not zero).
 
 ## Next Experiments
 
@@ -106,3 +107,4 @@ cd informational-flux-identity && python3 scripts/gasket_fractional_profile_four
 ## Change History
 
 - 2026-10-23. Initial archive entry.
+- 2026-10-23 ~6:56pm EDT. Note added under Open Questions (DISC-0173/DISC-0174); original text unchanged.
