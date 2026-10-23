@@ -6,7 +6,7 @@ DISC-0152
 
 ## Status
 
-CONJECTURE (repository's own; floats only). Not thrust.
+THEOREM in the mathematical sense only for items 1–2 (sharpness of ρ^−N, optimal Hölder exponent), proved by IFI GASKET Theorem BJ at 815003f22507fa34258d8b917a0e3a776340b16a (constants computer-assisted, see DISC-0153). Item 3 (a rate) stays open as DISC-0154. Previously CONJECTURE (repository's own; floats only). Not thrust.
 
 ## Date Discovered
 
@@ -58,7 +58,7 @@ Floats only (repository).
 
 ## Mathematical Status
 
-Conjecture.
+Theorem (items 1–2, via DISC-0153); originally Conjecture.
 
 ## Patent Relevance
 
@@ -87,3 +87,4 @@ git -C informational-flux-identity checkout 2e4d0d4ffe30a99ea0154e1aaa8b95069927
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+- 2026-10-23 ~1:02am EDT. Status CONJECTURE → THEOREM (items 1–2). IFI commit 815003f22507fa34258d8b917a0e3a776340b16a (GASKET.md Theorem BJ, CLAIM_STATUS.md new row, scripts/gasket_fractional_corner_sharpness.py) proves ρ^Nδ_N≥c_−(α)>0 for every N and α∈(γ,1) (c_−(0.8)≥0.6208, certified), matching BI's upper bound, and certifies liminf, limsup ρ^Nδ_N(0.8)∈[1.135890346,1.135938783], consistent with the 1.1359 float recorded above. Original conjecture text above kept unchanged. See DISC-0153, DISC-0154.
