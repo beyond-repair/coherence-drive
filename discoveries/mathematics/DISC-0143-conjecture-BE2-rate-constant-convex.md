@@ -6,7 +6,9 @@ DISC-0143
 
 ## Status
 
-CONJECTURE (repository's own Conjecture BE.2; float secants only). Do not cite as a theorem. Not thrust.
+THEOREM in the mathematical sense only (proved by IFI Theorem BF at b090826f15adc93d8ed6cbf352346dabb31ea136; interval certificate, see DISC-0144). Not thrust.
+
+Status history: CONJECTURE 2026-10-22 ~7:15pm EDT (repository's own Conjecture BE.2, float secants only) → THEOREM 2026-10-22 ~8:15pm EDT via DISC-0144. The original CONJECTURE text below is kept as recorded.
 
 ## Date Discovered
 
@@ -85,5 +87,7 @@ As DISC-0141.
 - 2026-10-22 ~7:15pm EDT. Recorded from IFI 3b3ec0fef920f85fa1098074e22ee3bdafe73a26; archive floats as above.
 
 ## Change History
+
+- 2026-10-22 ~8:15pm EDT. Status CONJECTURE → THEOREM. IFI commit b090826f15adc93d8ed6cbf352346dabb31ea136 (scripts/mesh_noncentrality_convex.py, README Theorem BF, CLAIM_STATUS.md Conjecture BE.2 row) certifies c''(α) ≥ 0.52046 on all of [0,1] with mpmath.iv on 40 closed ε-intervals, so c is strictly convex on (0,1). Repo witness EXIT 0 (11 ok, 0 FAIL). Archive /workspace/scratch-ifi/indep_theorem_BF.py (own Schur recursion, no IFI code) 7/7 PASS: all 38 second differences of 3^24 d_24 on α = k/40 lie in [1.5416, 1.5934], above the certified floor. The proof is a computer-assisted certificate, not a structural argument (the repository says so). See DISC-0144.
 
 - 2026-10-22. Initial archive entry.
