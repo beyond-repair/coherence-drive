@@ -91,3 +91,4 @@ git -C informational-flux-identity checkout 00d0d28b71db264b070be23c73f8e3f67de7
 
 - 2026-10-23. Initial archive entry.
 - 2026-10-23 ~4:54am EDT. Status split: sharpness half THEOREM (α=0.8, N≥9, DISC-0157); N=0 REJECTED (DISC-0158); limit CONJECTURE (DISC-0159). Original text above kept.
+- 2026-10-23 ~6:53am EDT. Sharpness half extended from α=0.8 (N≥9) to every α∈(γ,1) for N≥N₀(α) by DISC-0160 (Theorem BM at c9ca93479dbee307e77705a052d995029938a630; certified N₀=61,16,9,7,6,5 at α=0.7,0.75,0.8,0.85,0.9,0.95). Status split unchanged in kind (THEOREM part / N=0 REJECTED / limit CONJECTURE); the THEOREM part's scope widened. N<N₀(α) still open.

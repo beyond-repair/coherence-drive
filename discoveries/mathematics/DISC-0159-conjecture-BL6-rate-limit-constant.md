@@ -87,3 +87,4 @@ git checkout dfc145a9833f96b8960667c572aca38d48adfc17; python3 scripts/gasket_fr
 ## Change History
 
 - 2026-10-23. Initial archive entry.
+- 2026-10-23 ~6:53am EDT. Repository floats in Theorem BM (c9ca93479dbee307e77705a052d995029938a630) give ρ^n(δ_6^(60)−δ_6^(n))≈0.364 at α=0.9 against ≈0.6025 at α=0.8, so C_δ, if it exists, depends on α. Still CONJECTURE (floats only).

@@ -87,3 +87,4 @@ git -C informational-flux-identity checkout dfc145a9833f96b8960667c572aca38d48ad
 ## Change History
 
 - 2026-10-23. Initial archive entry.
+- 2026-10-23 ~6:53am EDT. Open item α≠0.8 closed for large N by DISC-0160 (Theorem BM). The 0.584124 erratum recurs in BM's printed g.
