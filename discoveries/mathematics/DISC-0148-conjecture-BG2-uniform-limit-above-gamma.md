@@ -6,7 +6,7 @@ DISC-0148
 
 ## Status
 
-CONJECTURE (repository's own; not proved). Not thrust.
+THEOREM in the mathematical sense only (proved by IFI GASKET Theorem BI at 2e4d0d4ffe30a99ea0154e1aaa8b95069927b162; constants computer-assisted, see DISC-0151). Previously CONJECTURE (repository's own). Not thrust.
 
 ## Date Discovered
 
@@ -87,3 +87,4 @@ As DISC-0146.
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+- 2026-10-22 ~11:56pm EDT. Status CONJECTURE → THEOREM. IFI commit 2e4d0d4ffe30a99ea0154e1aaa8b95069927b162 (GASKET.md Theorem BI, CLAIM_STATUS.md new row, scripts/gasket_fractional_uniform_limit.py) proves uniform convergence u_n→ū and continuity of ū with ū=d on C for α>γ, via a cell-oscillation bound ≤‖x‖K_αρ^−N uniform in n (K_0.8≤47.109, certified). Repo witness EXIT 0 (25 ok, 382 s). Archive /workspace/scratch-ifi/indep_theorem_BI.py 24/24 PASS (own graph: ω-recursion, max principle, R_n≥1/(3+τ), orbit lemma, float sup g≈0.60096). Original conjecture text above kept unchanged. See DISC-0151.
