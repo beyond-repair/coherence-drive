@@ -6,7 +6,9 @@ DISC-0156
 
 ## Status
 
-CONJECTURE (repository's own; floats only). Not thrust.
+SPLIT 2026-10-23 ~4:54am EDT. Sharpness half (order ρ^−n attained): THEOREM at α=0.8 for every N≥9 via DISC-0157 (GASKET Theorem BL, dfc145a9833f96b8960667c572aca38d48adfc17). As worded for every N: REJECTED at N=0 (DISC-0158, Kept Failure BL.0). Limit C_δ: still CONJECTURE, carried as DISC-0159 (Conjecture BL.6). N=1..8 at 0.8 and α≠0.8: open. Not thrust.
+
+Previous status (kept): CONJECTURE (repository's own; floats only).
 
 ## Date Discovered
 
@@ -82,8 +84,10 @@ git -C informational-flux-identity checkout 00d0d28b71db264b070be23c73f8e3f67de7
 
 ## Evidence Log
 
+- 2026-10-23 ~4:54am EDT. Theorem BL at dfc145a9833f96b8960667c572aca38d48adfc17 proves the lower bound c_Nρ^−n≤δ_N−δ_N^(n) for N≥9 at α=0.8 without monotone ω_k (only the deficit integrand needs to be monotone); BK.6 fails as worded at N=0.
 - 2026-10-23 ~2:54am EDT. Indexed from the repository's float evidence.
 
 ## Change History
 
 - 2026-10-23. Initial archive entry.
+- 2026-10-23 ~4:54am EDT. Status split: sharpness half THEOREM (α=0.8, N≥9, DISC-0157); N=0 REJECTED (DISC-0158); limit CONJECTURE (DISC-0159). Original text above kept.
