@@ -407,3 +407,7 @@ There is no historical edge from description text in this pass beyond the DISC-0
 - DISC-0173 → DISC-0174. Label: mathematical. Kept Failure BV.5: extremes not half a period apart (offset −1.624e−7).
 - DISC-0172 → DISC-0174. Label: historical. Same grid coincidence (nodes 2^17 apart) behind both rejected half-period hypotheses.
 - DISC-0173 → DISC-0175. Label: mathematical. Conjecture BV.6: the strip-width rate is sharp.
+- DISC-0173 → DISC-0176. Label: computational. Same certified routine re-run deeper with sandwich order 32/33: θ̂_k≠0 extended from k≤11 to k≤20, G* from ~60 to ~109 digits.
+- DISC-0116 → DISC-0176. Label: computational. AU (3)'s routine imported unchanged with new parameters.
+- DISC-0176 → DISC-0175. Label: experimental. Nine more certified normalised moduli (k=12..20) inside [0.60,0.93]; evidence only.
+- DISC-0176 → DISC-0174. Label: computational. Kept Failure BV.5's offset −1.624e−7 reproduced to 22 digits.
