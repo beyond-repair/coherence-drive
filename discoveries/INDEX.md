@@ -432,3 +432,8 @@ There is no historical edge from description text in this pass beyond the DISC-0
 - DISC-0182 → DISC-0184. Label: mathematical. Converse of CA.2 and pure point: Conjecture CA.6.
 - DISC-0184 → DISC-0175. Label: mathematical. If CA.6 holds, limsup ρ_k=1 exactly.
 - DISC-0182 ↔ prior art (Fukushima–Shima 1992 6-series with forbidden value 2; Teplyaev 1998). Label: historical. Same structure under x=−z; identification not verified.
+- DISC-0182 → DISC-0185. Label: mathematical. The identity c·p/2−e=z/2 makes H=1/r−z/2 multiplicative: closed product for 1/r_∞ and 1/Q_∞.
+- DISC-0185 → DISC-0184. Label: mathematical. CB.4 proves CA.6 off −Z (status SPLIT); −Z and pure point open.
+- DISC-0185 → DISC-0183. Label: mathematical. Whole −2 branch carries no atom.
+- DISC-0180 → DISC-0185. Label: mathematical. BZ.3's S equals Πψ/2.
+- DISC-0185 ↔ prior art (spectral-decimation products, Fukushima–Shima 1992; Teplyaev 1998). Label: historical. Identification not verified.

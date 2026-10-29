@@ -102,6 +102,8 @@ python3 /workspace/scratch-ifi/indep_theorem_CA.py   # archive check, mpmath onl
 
 - 2026-10-29 ~7:59am EDT. Indexed; repo witness EXIT 0 (123 s). Independent algebra and finite-level numerical checks PASS (above). No erratum.
 
+- 2026-10-29 ~10:00am EDT. Converse proved off −Z by Theorem CB (DISC-0185, 0d9944c015fb1ab192f9abe98096dfa8e1060b2c); the Next Experiment 'derive the mass 1/f\'(u) from BZ.3's product' is carried out there as CB.5. No status change.
+
 ## Change History
 
 - 2026-10-29. Initial archive entry.

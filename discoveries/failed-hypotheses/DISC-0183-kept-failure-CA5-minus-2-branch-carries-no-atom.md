@@ -72,6 +72,8 @@ As DISC-0182.
 
 - 2026-10-29 ~7:59am EDT. Indexed; independent reproduction of the witness PASS.
 
+- 2026-10-29 ~10:00am EDT. Theorem CB.4 (DISC-0185, 0d9944c015fb1ab192f9abe98096dfa8e1060b2c) extends the rejection from the single witness to the whole −2 branch: no λ with ψ(−5^kλ)∈⋃p^−j(−2) is an atom. Witness value re-obtained from the product alone. Stays REJECTED.
+
 ## Change History
 
 - 2026-10-29. Initial archive entry.

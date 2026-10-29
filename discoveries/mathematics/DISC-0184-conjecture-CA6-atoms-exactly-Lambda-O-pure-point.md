@@ -6,7 +6,7 @@ DISC-0184
 
 ## Status
 
-CONJECTURE (the repository's own, explicitly "not claimed"). Prior-art lead may decide part of it (Teplyaev 1998), identification not verified.
+SPLIT (2026-10-29 ~10:00am EDT). Part (i) restricted to (0,∞)∖(−Z), "every atom off −Z lies in Λ_O", is THEOREM via Theorem CB.4 (DISC-0185, commit 0d9944c015fb1ab192f9abe98096dfa8e1060b2c). Part (i) on −Z and part (ii) ν(−Z)=0 remain CONJECTURE. Was CONJECTURE 2026-10-29 7:59am to 10:00am EDT (original text preserved below). Prior-art lead may decide (ii) (Teplyaev 1998), identification not verified.
 
 ## Date Discovered
 
@@ -67,7 +67,9 @@ As DISC-0182.
 ## Evidence Log
 
 - 2026-10-29 ~7:59am EDT. Indexed as the repository's own conjecture.
+- 2026-10-29 ~10:00am EDT. informational-flux-identity 0d9944c015fb1ab192f9abe98096dfa8e1060b2c (Theorem CB) proves (i) off −Z: f is an explicit product whose only zeros off Z are on Λ_O. Repo witness EXIT 0; independent archive check PASS (see DISC-0185).
 
 ## Change History
 
 - 2026-10-29. Initial archive entry.
+- 2026-10-29 ~10:00am EDT. STATUS CHANGE CONJECTURE → SPLIT (off −Z part THEOREM via DISC-0185; −Z part and pure point stay CONJECTURE). Earlier text of Status was: "CONJECTURE (the repository's own, explicitly \"not claimed\"). Prior-art lead may decide part of it (Teplyaev 1998), identification not verified."
