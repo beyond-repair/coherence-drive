@@ -108,8 +108,11 @@ cd informational-flux-identity && python3 scripts/gasket_fractional_profile_anal
 
 - 2026-10-29 ~1:57am EDT. Note: Theorem BX (IFI 06eddfa75600, DISC-0177) replaces BV.3's B_k by the exact-factorisation bound ⟨F⟩ sin πγ/|sin π(γ+iωk)|, 12.7–252.7 times smaller for k≤20, with sharp limsup constant πc_R(γ)/ln5=1.00949802…; no status change.
 
+- 2026-10-29 ~6:01am EDT. Note: Theorem BZ.6 (IFI f9942d98a5fa, DISC-0180) shows the strip |Im t|<π/ln5 of BV.2 is maximal (F continues to no wider strip) and BV.3's rate is exact along a subsequence. No status change.
+
 ## Change History
 
 - 2026-10-23. Initial archive entry.
 - 2026-10-29. Note added for DISC-0176 (history above kept unchanged).
 - 2026-10-29. Note added for DISC-0177/0178 (history above kept unchanged).
+- 2026-10-29. Note added for DISC-0180 (history above kept unchanged).

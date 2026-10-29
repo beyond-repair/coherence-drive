@@ -102,6 +102,9 @@ cd informational-flux-identity && python3 scripts/gasket_fractional_profile_toep
 
 - 2026-10-29 ~4:54am EDT. Indexed; independent float checks pass at two precisions (one over-strict threshold of mine noted); repo witness EXIT 0 (717 s; 13 ok lines, "all Theorem BY checks passed"; |θ̂_21|≥9.935299e−113, ε_20≤2.96e−32, T_21 not certified with ‖E‖_F≤6.3e−27).
 
+- 2026-10-29 ~6:01am EDT. Note: Theorem BZ's Remark (IFI f9942d98a5fa, DISC-0180) gives T_n≻0 for every n≤311 from the 311 certified support points, which settles this entry's open T_21 (consistent with my float λ_min(T_21)≈2.1e−27>0 above). BZ also explains the stall (m is singular). No status change.
+
 ## Change History
 
 - 2026-10-29. Initial archive entry.
+- 2026-10-29. Note added for DISC-0180 (history above kept unchanged).

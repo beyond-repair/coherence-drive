@@ -86,7 +86,10 @@ As DISC-0177.
 
 - 2026-10-29 ~4:54am EDT. Note: Kept Failure BY.3 (IFI 4e57bb8631cd, GASKET.md line 3165; DISC-0179) rejects the same hypothesis for every r≤19 (T_20≻0, smallest pivot of T_20−2ε_20I 1.2e−16, ε_20≤3.0e−32), so m has ≥20 support points per period. Status unchanged (REJECTED); no new ID. Independent floats reproduce the T_18–T_20 pivots. The "Next Experiments" item above (certify T_18, T_19) is answered by BY.
 
+- 2026-10-29 ~6:01am EDT. Note: Kept Failure BZ.5(b) (IFI f9942d98a5fa, DISC-0180) widens this hypothesis's rejection from r≤19 to r≤310 (311 certified distinct atoms in one period). Same hypothesis, no new ID. Stays REJECTED.
+
 ## Change History
 
 - 2026-10-29. Initial archive entry.
 - 2026-10-29. Note added for DISC-0179 (history above kept unchanged).
+- 2026-10-29. Note added for DISC-0180 (history above kept unchanged).

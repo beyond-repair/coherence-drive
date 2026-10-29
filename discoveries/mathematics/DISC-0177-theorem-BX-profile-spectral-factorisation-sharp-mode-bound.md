@@ -105,7 +105,10 @@ cd informational-flux-identity && python3 scripts/gasket_fractional_profile_spec
 
 - 2026-10-29 ~4:54am EDT. Note: Theorem BY (IFI 4e57bb8631cd, DISC-0179) extends BX.4 to k=21 (ρ_21=0.70637…) and the Toeplitz certificate from T_17 to T_20; no status change.
 
+- 2026-10-29 ~6:01am EDT. Note: Theorem BZ (IFI f9942d98a5fa, DISC-0180) answers half of the open "is ν purely atomic": ν has no absolutely continuous part (Kept Failure BZ.5(a), DISC-0181) and at least 311 atoms per period carry all but 4.03e−5 of m; pure point (ν(−Z)=0) stays open. The BV.6 reformulation proved here is what BZ.6 uses to decide DISC-0175. No status change.
+
 ## Change History
 
 - 2026-10-29. Initial archive entry.
 - 2026-10-29. Note added for DISC-0179 (history above kept unchanged).
+- 2026-10-29. Note added for DISC-0180/0181 (history above kept unchanged).

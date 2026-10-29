@@ -6,7 +6,9 @@ DISC-0175
 
 ## Status
 
-CONJECTURE (repository's own). Not thrust.
+SPLIT since 2026-10-29 (Theorem BZ, DISC-0180): the asymptotic part (ρ_k converges, |θ̂_k|≍const·e^(−2π²k/ln5)) is REJECTED by the repository's Kept Failure BZ.6 (certified witness); the sharp-rate part (limsup|θ̂_k|e^(2π²k/ln5)>0) and the maximal-strip part are THEOREM via DISC-0180. Not thrust.
+
+Previous status (2026-10-23 to 2026-10-29, kept for history): CONJECTURE (repository's own). Not thrust.
 
 ## Date Discovered
 
@@ -90,9 +92,12 @@ As DISC-0173.
 
 - 2026-10-29 ~4:54am EDT. Note: Theorem BY (IFI 4e57bb8631cd, DISC-0179) certifies ρ_21=0.70637… inside [0.60,0.92]; one more data point, no visible limit. Stays CONJECTURE.
 
+- 2026-10-29 ~6:01am EDT. STATUS CHANGE. Theorem BZ (IFI f9942d98a5fa, DISC-0180) decides this conjecture through the repository's Kept Failure BZ.6 (certified witness): 311 certified atoms of the spectral measure leave δ≤4.03e−5 of m(T), so limsup ρ_k≥0.99968 and liminf ρ_k≤0.59497; ρ_k has no limit. By BX.3 (DISC-0177) the asymptotic part "|θ̂_k|≍const·e^(−2π²k/ln5)" (equivalently ρ_k→ρ_∞>0) is therefore false. The other two parts are proved: lim sup|θ̂_k|e^(2π²k/ln5)∈[1.00918,1.0094980205], so the rate is exact along a subsequence (the lim|θ̂_k|^(1/k) reading holds as a limsup), and F continues to no wider strip. Repo witness EXIT 0 (123 s); my independent finite-level route reproduces the three leading atoms to all printed digits, and a coarse independent scan of 10 atoms already gives liminf≤0.6025<0.9675≤limsup. Status moves from CONJECTURE to: asymptotic part REJECTED, sharp-rate and maximal-strip parts THEOREM (via DISC-0180). The earlier entries above are kept unchanged; the float table k=1..11 and the certified band to k=21 were correct, just not a long-run range.
+
 ## Change History
 
 - 2026-10-23. Initial archive entry.
 - 2026-10-29. Note added for DISC-0176 (history above kept unchanged).
 - 2026-10-29. Note added for DISC-0177/0178 (history above kept unchanged).
 - 2026-10-29. Note added for DISC-0179 (history above kept unchanged).
+- 2026-10-29. STATUS CHANGE: CONJECTURE → split (asymptotic part REJECTED by Kept Failure BZ.6; sharp-rate and maximal-strip parts THEOREM via DISC-0180). Original Status text preserved below the new one.
