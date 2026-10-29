@@ -75,7 +75,9 @@ None. Pure mathematics about a graph Laplacian's spectral measure. The repositor
 Clone beyond-repair/informational-flux-identity at a056d01a82828425e6ddb624b13c31cbb737156a; pip install python-flint mpmath sympy; run `python3 scripts/gasket_fractional_profile_level_ratio.py` (about 25 s). Then run `python3 discoveries/mathematics/scripts/indep_theorem_CE.py` from this archive (about 25 s).
 
 ## Evidence Log
+- 2026-10-29 ~4:55pm EDT. Note: Assumption CE (Birkhoff contraction) is DISCHARGED by Theorem CF at informational-flux-identity dab0578773f99a6c5fa928773b72118fc5d7b2a5 (DISC-0190), with explicit rate θ^(1/5)<0.8855. The conditional qualifier in Status above is superseded; the original Status text is preserved as written. Label stays THEOREM, now unconditional.
 - 2026-10-29 ~2:58pm EDT. Indexed from commit a056d01a82828425e6ddb624b13c31cbb737156a. Repo witness EXIT 0 (24.3 s); independent check PASS (r to 1.8e−36).
 
 ## Change History
 - 2026-10-29. Initial archive entry.
+- 2026-10-29 ~4:55pm EDT. Note appended: Assumption CE discharged by DISC-0190 (Theorem CF). Status text left unchanged for history.

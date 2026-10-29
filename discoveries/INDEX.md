@@ -454,3 +454,8 @@ A further 2026-10-29 append adds DISC-0188 (THEOREM; Theorem CE, level-sum ratio
 - DISC-0185 → DISC-0188. Label: mathematical. CB.5's product masses factor as σ_y=w(y)σ_p(y).
 - DISC-0188 → DISC-0189. Label: mathematical. Untwisted weight vanishes at −5, parasitic eigenvalue 1/3; twist by q=−t removes it.
 - DISC-0188 ↔ prior art (Ruelle–Perron–Frobenius operators; Birkhoff 1957 cone contraction). Label: historical. Constant r not found; no targeted search.
+
+A further 2026-10-29 append adds DISC-0190 (THEOREM; Theorem CF, explicit Birkhoff contraction for L̃) from informational-flux-identity dab0578773f9.
+- DISC-0188 → DISC-0190. Label: mathematical. CF proves CE's cited Assumption CE with explicit θ<0.5442 per 5 steps; DISC-0188 becomes unconditional.
+- DISC-0189 → DISC-0190. Label: mathematical. The twist that removes CE.6's vanishing weight is what makes the log-Lipschitz cone invariant.
+- DISC-0190 ↔ prior art (Birkhoff 1957; Bushell 1973; Liverani 1995). Label: historical. Constants not searched.
