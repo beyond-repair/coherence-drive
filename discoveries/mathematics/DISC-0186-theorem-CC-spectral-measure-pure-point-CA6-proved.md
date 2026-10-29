@@ -102,3 +102,4 @@ Clone beyond-repair/informational-flux-identity at cb00b500b900e17ebe80a43e6e412
 
 - 2026-10-29. Initial archive entry.
 - 2026-10-29 ~12:56pm EDT. Note: the CC.4 level counts (1,0,1,3, then 5·2^(k−4)), recorded here as observed for k≤14, are proved for every k by Theorem CD at 09936074caa80ac880fdd1cd28b5730b9b1b6bee (DISC-0187). Earlier text above is kept unchanged. Status of this entry unchanged.
+- 2026-10-29 ~2:58pm EDT. Note: the observed level-sum ratio 0.42373129 is proved by Theorem CE at a056d01a82828425e6ddb624b13c31cbb737156a (DISC-0188): r = spectral radius of a twisted transfer operator, 0.42373128696260793985…, closed form open. Earlier text above is kept unchanged. Status of this entry unchanged.

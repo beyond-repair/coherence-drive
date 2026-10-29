@@ -447,3 +447,10 @@ A further 2026-10-29 append adds DISC-0187 (THEOREM; Theorem CD, exact atom leve
 - DISC-0186 → DISC-0187. Label: mathematical. CC's observed counts 1,0,1,3,5·2^(k−4) proved at every level by tracking the period endpoint's orbit under p.
 - DISC-0182 → DISC-0187. Label: mathematical. O_k=p^−k(−3) has exactly 2^k points in (−5,0)∖{−5/2}; 5/16 of them lie in one period for k≥4.
 - DISC-0187 ↔ prior art (endpoint-orbit counting in 1-D dynamics; Fukushima–Shima 1992). Label: historical. Exact sequence not found; search not exhaustive.
+
+A further 2026-10-29 append adds DISC-0188 (THEOREM; Theorem CE, level-sum ratio) and DISC-0189 (REJECTED; Kept Failure CE.6) from informational-flux-identity a056d01a8282.
+- DISC-0186 → DISC-0188. Label: mathematical. CC's observed ratio 0.42373 proved as the spectral radius of the twisted transfer operator L̃.
+- DISC-0187 → DISC-0188. Label: mathematical. CD counts atoms per level, CE gives mass per level; mean mass per atom has ratio r/2.
+- DISC-0185 → DISC-0188. Label: mathematical. CB.5's product masses factor as σ_y=w(y)σ_p(y).
+- DISC-0188 → DISC-0189. Label: mathematical. Untwisted weight vanishes at −5, parasitic eigenvalue 1/3; twist by q=−t removes it.
+- DISC-0188 ↔ prior art (Ruelle–Perron–Frobenius operators; Birkhoff 1957 cone contraction). Label: historical. Constant r not found; no targeted search.

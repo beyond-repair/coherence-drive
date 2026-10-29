@@ -76,3 +76,4 @@ Clone beyond-repair/informational-flux-identity at 09936074caa80ac880fdd1cd28b57
 
 ## Change History
 - 2026-10-29. Initial archive entry.
+- 2026-10-29 ~2:58pm EDT. Note: the level-sum ratio listed under Open Questions is proved by Theorem CE at a056d01a82828425e6ddb624b13c31cbb737156a (DISC-0188): r = spectral radius of a twisted transfer operator, 0.42373128696260793985…, closed form open. Earlier text above is kept unchanged. Status of this entry unchanged.
