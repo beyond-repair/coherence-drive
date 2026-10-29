@@ -411,3 +411,8 @@ There is no historical edge from description text in this pass beyond the DISC-0
 - DISC-0116 → DISC-0176. Label: computational. AU (3)'s routine imported unchanged with new parameters.
 - DISC-0176 → DISC-0175. Label: experimental. Nine more certified normalised moduli (k=12..20) inside [0.60,0.93]; evidence only.
 - DISC-0176 → DISC-0174. Label: computational. Kept Failure BV.5's offset −1.624e−7 reproduced to 22 digits.
+- DISC-0173 → DISC-0177. Label: mathematical. BV.2's strip continuation plus the Stieltjes characterisation gives the spectral factorisation; BX.3 replaces BV.3's bound with the sharp constant πc_R(γ)/ln5.
+- DISC-0176 → DISC-0177. Label: computational. BW's enclosures, re-run unchanged, give ρ_1..ρ_20 and the T_17 certificate.
+- DISC-0116 → DISC-0177. Label: mathematical. AU (1)'s c_R(γ) equals twice the spectral mass per period.
+- DISC-0177 → DISC-0175. Label: mathematical. Conjecture BV.6 is equivalent to ρ_k→ρ_∞>0.
+- DISC-0177 → DISC-0178. Label: mathematical. Positive-definite T_17 rules out ≤16 pole series.

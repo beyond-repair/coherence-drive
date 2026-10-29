@@ -106,7 +106,10 @@ cd informational-flux-identity && python3 scripts/gasket_fractional_profile_anal
 
 - 2026-10-29 ~1:00am EDT. Note: Theorem BW (IFI 14686342bd14, DISC-0176) extends BV.4 to k≤20 and BV.5's extremes to ~109 digits, all agreeing with BV's printed digits; no status change. Erratum found while checking BW: BV's printed |θ̂_k|≥ column rounds to nearest, so k=6 (8.621962e−33 vs float 8.6219618346e−33) and k=7 (4.321505e−38 vs 4.32150483175e−38) print values slightly above the true modulus; my BV check had only tested k=5, 8, 11. θ̂_k≠0 is unaffected. The 'No erratum' line in New Results above stands for k=11 only.
 
+- 2026-10-29 ~1:57am EDT. Note: Theorem BX (IFI 06eddfa75600, DISC-0177) replaces BV.3's B_k by the exact-factorisation bound ⟨F⟩ sin πγ/|sin π(γ+iωk)|, 12.7–252.7 times smaller for k≤20, with sharp limsup constant πc_R(γ)/ln5=1.00949802…; no status change.
+
 ## Change History
 
 - 2026-10-23. Initial archive entry.
 - 2026-10-29. Note added for DISC-0176 (history above kept unchanged).
+- 2026-10-29. Note added for DISC-0177/0178 (history above kept unchanged).

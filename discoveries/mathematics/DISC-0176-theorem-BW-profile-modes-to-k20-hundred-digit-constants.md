@@ -101,6 +101,9 @@ cd informational-flux-identity && python3 scripts/gasket_fractional_profile_mode
 
 - 2026-10-29 ~1:00am EDT. Indexed; repo witness EXIT 0 (431.5 s, 12 ok lines, "all Theorem BW checks passed"; it prints the same rounded-to-nearest lower bounds); independent checks 10/10 PASS; erratum on printed lower bounds (BW k=12,15,16,18; BV k=6,7).
 
+- 2026-10-29 ~1:57am EDT. Note: BW's enclosures are reused unchanged by Theorem BX (DISC-0177) for ρ_1..ρ_20 and the T_17 certificate; no status change.
+
 ## Change History
 
 - 2026-10-29. Initial archive entry.
+- 2026-10-29. Note added for DISC-0177/0178 (history above kept unchanged).

@@ -86,7 +86,10 @@ As DISC-0173.
 
 - 2026-10-29 ~1:00am EDT. Note: Theorem BW (IFI 14686342bd14, DISC-0176) certifies |θ̂_k|e^(2π²k/ln5)∈[0.60,0.93] for every k≤20 (archive floats 0.6066–0.9268, no trend; uncertified float at k=21 ≈0.713). Evidence only; stays CONJECTURE.
 
+- 2026-10-29 ~1:57am EDT. Note: Theorem BX (IFI 06eddfa75600, DISC-0177) proves BV.6 is equivalent to ρ_k=|m̂_k|/m̂_0 converging to a nonzero limit (m the positive spectral measure per scale period), certifies ρ_k∈[0.60,0.92] for k≤20 with no visible limit, and shows m has ≥17 atoms per period if atomic (DISC-0178). The repository itself remarks that for several atoms in general position ρ_k oscillates, so BV.6 as worded may be too strong. Stays CONJECTURE.
+
 ## Change History
 
 - 2026-10-23. Initial archive entry.
 - 2026-10-29. Note added for DISC-0176 (history above kept unchanged).
+- 2026-10-29. Note added for DISC-0177/0178 (history above kept unchanged).
