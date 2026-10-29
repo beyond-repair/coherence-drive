@@ -6,7 +6,7 @@ DISC-0184
 
 ## Status
 
-SPLIT (2026-10-29 ~10:00am EDT). Part (i) restricted to (0,∞)∖(−Z), "every atom off −Z lies in Λ_O", is THEOREM via Theorem CB.4 (DISC-0185, commit 0d9944c015fb1ab192f9abe98096dfa8e1060b2c). Part (i) on −Z and part (ii) ν(−Z)=0 remain CONJECTURE. Was CONJECTURE 2026-10-29 7:59am to 10:00am EDT (original text preserved below). Prior-art lead may decide (ii) (Teplyaev 1998), identification not verified.
+THEOREM (2026-10-29 ~10:56am EDT) via Theorem CC (DISC-0186, commit cb00b500b900e17ebe80a43e6e4121512b56acfd): atoms are exactly Λ_O and ν(−Z)=0, conditional on the classical Herglotz–Nevanlinna representation (Assumption CC). History: CONJECTURE 2026-10-29 7:59am–10:00am EDT; SPLIT 10:00am–10:56am EDT. Previous Status text preserved in Change History.
 
 ## Date Discovered
 
@@ -66,6 +66,8 @@ As DISC-0182.
 
 ## Evidence Log
 
+- 2026-10-29 ~10:56am EDT. informational-flux-identity cb00b500b900 (Theorem CC) proves ν(−Z)=0 via a transfer identity on K_p with weight (2−t)/(6−t)≤7/11 for the Herglotz measure of −1/H; GASKET.md marks CA.6 PROVED. Repo witness EXIT 0 (38.6 s); independent check PASS (see DISC-0186).
+
 - 2026-10-29 ~7:59am EDT. Indexed as the repository's own conjecture.
 - 2026-10-29 ~10:00am EDT. informational-flux-identity 0d9944c015fb1ab192f9abe98096dfa8e1060b2c (Theorem CB) proves (i) off −Z: f is an explicit product whose only zeros off Z are on Λ_O. Repo witness EXIT 0; independent archive check PASS (see DISC-0185).
 
@@ -73,3 +75,4 @@ As DISC-0182.
 
 - 2026-10-29. Initial archive entry.
 - 2026-10-29 ~10:00am EDT. STATUS CHANGE CONJECTURE → SPLIT (off −Z part THEOREM via DISC-0185; −Z part and pure point stay CONJECTURE). Earlier text of Status was: "CONJECTURE (the repository's own, explicitly \"not claimed\"). Prior-art lead may decide part of it (Teplyaev 1998), identification not verified."
+- 2026-10-29 ~10:56am EDT. STATUS CHANGE SPLIT → THEOREM (DISC-0186). Earlier text of Status was: "SPLIT (2026-10-29 ~10:00am EDT). Part (i) restricted to (0,∞)∖(−Z), "every atom off −Z lies in Λ_O", is THEOREM via Theorem CB.4 (DISC-0185, commit 0d9944c015fb1ab192f9abe98096dfa8e1060b2c). Part (i) on −Z and part (ii) ν(−Z)=0 remain CONJECTURE. Was CONJECTURE 2026-10-29 7:59am to 10:00am EDT (original text preserved below). Prior-art lead may decide (ii) (Teplyaev 1998), identification not verified."

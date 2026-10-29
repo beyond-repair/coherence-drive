@@ -437,3 +437,8 @@ There is no historical edge from description text in this pass beyond the DISC-0
 - DISC-0185 → DISC-0183. Label: mathematical. Whole −2 branch carries no atom.
 - DISC-0180 → DISC-0185. Label: mathematical. BZ.3's S equals Πψ/2.
 - DISC-0185 ↔ prior art (spectral-decimation products, Fukushima–Shima 1992; Teplyaev 1998). Label: historical. Identification not verified.
+- DISC-0185 → DISC-0186. Label: mathematical. H=c·H∘p inverted: F=−1/H Nevanlinna with F=k·F∘p; transfer weight (2−t)/(6−t)≤7/11 kills σ on K_p.
+- DISC-0186 → DISC-0184. Label: mathematical. ν(−Z)=0: CA.6 proved in full (SPLIT → THEOREM).
+- DISC-0186 → DISC-0175. Label: mathematical. limsup ρ_k=1 exactly; BX.3 sharp bound attained.
+- DISC-0186 → DISC-0180. Label: mathematical. BZ.6 limsup ≥0.99968 becomes =1; liminf ≤0.59486582; uncaptured mass 4.03e−5 → δ_14=7.84e−7.
+- DISC-0186 ↔ prior art (Teplyaev 1998; Malozemov–Teplyaev 2003). Label: historical. Identification not verified.
