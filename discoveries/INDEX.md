@@ -442,3 +442,8 @@ There is no historical edge from description text in this pass beyond the DISC-0
 - DISC-0186 → DISC-0175. Label: mathematical. limsup ρ_k=1 exactly; BX.3 sharp bound attained.
 - DISC-0186 → DISC-0180. Label: mathematical. BZ.6 limsup ≥0.99968 becomes =1; liminf ≤0.59486582; uncaptured mass 4.03e−5 → δ_14=7.84e−7.
 - DISC-0186 ↔ prior art (Teplyaev 1998; Malozemov–Teplyaev 2003). Label: historical. Identification not verified.
+
+A further 2026-10-29 append adds DISC-0187 (THEOREM; Theorem CD, exact atom level counts) from informational-flux-identity 09936074caa8.
+- DISC-0186 → DISC-0187. Label: mathematical. CC's observed counts 1,0,1,3,5·2^(k−4) proved at every level by tracking the period endpoint's orbit under p.
+- DISC-0182 → DISC-0187. Label: mathematical. O_k=p^−k(−3) has exactly 2^k points in (−5,0)∖{−5/2}; 5/16 of them lie in one period for k≥4.
+- DISC-0187 ↔ prior art (endpoint-orbit counting in 1-D dynamics; Fukushima–Shima 1992). Label: historical. Exact sequence not found; search not exhaustive.

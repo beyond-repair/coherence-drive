@@ -94,8 +94,11 @@ Clone beyond-repair/informational-flux-identity at cb00b500b900e17ebe80a43e6e412
 
 ## Evidence Log
 
+- 2026-10-29 ~12:56pm EDT. Level counts proved by Theorem CD (DISC-0187).
+
 - 2026-10-29 ~10:56am EDT. Indexed from commit cb00b500b900e17ebe80a43e6e4121512b56acfd. Repo witness EXIT 0 (38.6 s); independent check PASS.
 
 ## Change History
 
 - 2026-10-29. Initial archive entry.
+- 2026-10-29 ~12:56pm EDT. Note: the CC.4 level counts (1,0,1,3, then 5·2^(k−4)), recorded here as observed for k≤14, are proved for every k by Theorem CD at 09936074caa80ac880fdd1cd28b5730b9b1b6bee (DISC-0187). Earlier text above is kept unchanged. Status of this entry unchanged.
