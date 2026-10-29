@@ -427,3 +427,8 @@ There is no historical edge from description text in this pass beyond the DISC-0
 - DISC-0180 → DISC-0179. Label: mathematical. Remark: ≥311 support points give T_n≻0 for n≤311, settling BY's open T_21.
 - DISC-0180 → DISC-0173. Label: mathematical. BV.2's strip |Im t|<π/ln5 is maximal.
 - DISC-0180 ↔ prior art (Teplyaev 1998, Fukushima–Shima 1992). Label: historical. Spectral decimation and pure point spectrum on infinite gaskets; identification not verified.
+- DISC-0180 → DISC-0182. Label: mathematical. BZ's 311 atoms explained exactly: all lie on Λ_O, the ψ-preimage of the backward orbit of −3; infinitely many atoms per period.
+- DISC-0182 → DISC-0183. Label: mathematical. Kept Failure CA.5: the −2 branch of p^−1(−6) seeds no atom (poles of c, e).
+- DISC-0182 → DISC-0184. Label: mathematical. Converse of CA.2 and pure point: Conjecture CA.6.
+- DISC-0184 → DISC-0175. Label: mathematical. If CA.6 holds, limsup ρ_k=1 exactly.
+- DISC-0182 ↔ prior art (Fukushima–Shima 1992 6-series with forbidden value 2; Teplyaev 1998). Label: historical. Same structure under x=−z; identification not verified.

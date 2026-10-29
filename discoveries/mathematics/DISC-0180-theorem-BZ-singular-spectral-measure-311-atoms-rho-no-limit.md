@@ -110,6 +110,11 @@ cd informational-flux-identity && python3 scripts/gasket_fractional_profile_atom
 
 - 2026-10-29 ~6:01am EDT. Indexed; repo witness EXIT 0 (123 s); independent finite-level reproduction of the three leading atoms PASS; independent coarse scan reproduces the BZ.6 dichotomy. No erratum. Presentation note: GASKET.md's original Conjecture BV.6 text (in the Theorem BV section, around line 3019 at cec4aff731ce) is not annotated in place as decided; the decision is recorded in Theorem BZ and CLAIM_STATUS.md line 82. Not a contradiction (the file is append-only by convention).
 
+## Notes
+
+- 2026-10-29 (~7:59am EDT slice). Theorem CA at 0d83dde51ff38c5ec4bf8f0e8f2a854e2e033b71 answers this entry's open "infinitely many atoms per period?" (yes, CA.3) and carries out its proposed next experiment: all 311 certified atoms lie in Λ_O, the ψ-preimage of the backward orbit of −3 (the −2 branch seeds none). See DISC-0182, DISC-0183, DISC-0184.
+
 ## Change History
 
 - 2026-10-29. Initial archive entry.
+- 2026-10-29. Note added for DISC-0182 (history above kept unchanged).
