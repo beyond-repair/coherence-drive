@@ -103,6 +103,9 @@ cd informational-flux-identity && python3 scripts/gasket_fractional_profile_spec
 
 - 2026-10-29 ~1:57am EDT. Indexed; independent checks 14/14 PASS; repo witness scripts/gasket_fractional_profile_spectral.py EXIT 0 (380 s, 19 ok lines, "all Theorem BX checks passed"; T_17 pivot 5.961e−14 with ‖E‖_F≤3.38e−28, T_18 not certified, as stated). Archive: /workspace/scratch-ifi/repo-ifi-BX, repo_theorem_BX.log, indep_theorem_BX.py/.log on the box.
 
+- 2026-10-29 ~4:54am EDT. Note: Theorem BY (IFI 4e57bb8631cd, DISC-0179) extends BX.4 to k=21 (ρ_21=0.70637…) and the Toeplitz certificate from T_17 to T_20; no status change.
+
 ## Change History
 
 - 2026-10-29. Initial archive entry.
+- 2026-10-29. Note added for DISC-0179 (history above kept unchanged).

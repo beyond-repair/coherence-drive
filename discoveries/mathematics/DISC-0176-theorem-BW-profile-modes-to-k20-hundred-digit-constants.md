@@ -103,7 +103,10 @@ cd informational-flux-identity && python3 scripts/gasket_fractional_profile_mode
 
 - 2026-10-29 ~1:57am EDT. Note: BW's enclosures are reused unchanged by Theorem BX (DISC-0177) for ρ_1..ρ_20 and the T_17 certificate; no status change.
 
+- 2026-10-29 ~4:54am EDT. Note: Theorem BY (IFI 4e57bb8631cd, DISC-0179) certifies θ̂_21≠0 (|θ̂_21|≥9.93e−113), answering BW's open k≥21 for k=21; my float |θ̂_21|≈9.935e−113 in the New Results above agrees. No status change.
+
 ## Change History
 
 - 2026-10-29. Initial archive entry.
 - 2026-10-29. Note added for DISC-0177/0178 (history above kept unchanged).
+- 2026-10-29. Note added for DISC-0179 (history above kept unchanged).

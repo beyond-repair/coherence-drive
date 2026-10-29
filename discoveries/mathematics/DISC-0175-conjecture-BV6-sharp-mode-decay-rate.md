@@ -88,8 +88,11 @@ As DISC-0173.
 
 - 2026-10-29 ~1:57am EDT. Note: Theorem BX (IFI 06eddfa75600, DISC-0177) proves BV.6 is equivalent to ρ_k=|m̂_k|/m̂_0 converging to a nonzero limit (m the positive spectral measure per scale period), certifies ρ_k∈[0.60,0.92] for k≤20 with no visible limit, and shows m has ≥17 atoms per period if atomic (DISC-0178). The repository itself remarks that for several atoms in general position ρ_k oscillates, so BV.6 as worded may be too strong. Stays CONJECTURE.
 
+- 2026-10-29 ~4:54am EDT. Note: Theorem BY (IFI 4e57bb8631cd, DISC-0179) certifies ρ_21=0.70637… inside [0.60,0.92]; one more data point, no visible limit. Stays CONJECTURE.
+
 ## Change History
 
 - 2026-10-23. Initial archive entry.
 - 2026-10-29. Note added for DISC-0176 (history above kept unchanged).
 - 2026-10-29. Note added for DISC-0177/0178 (history above kept unchanged).
+- 2026-10-29. Note added for DISC-0179 (history above kept unchanged).

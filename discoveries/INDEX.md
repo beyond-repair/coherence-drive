@@ -416,3 +416,7 @@ There is no historical edge from description text in this pass beyond the DISC-0
 - DISC-0116 → DISC-0177. Label: mathematical. AU (1)'s c_R(γ) equals twice the spectral mass per period.
 - DISC-0177 → DISC-0175. Label: mathematical. Conjecture BV.6 is equivalent to ρ_k→ρ_∞>0.
 - DISC-0177 → DISC-0178. Label: mathematical. Positive-definite T_17 rules out ≤16 pole series.
+- DISC-0177 → DISC-0179. Label: computational. BX's Toeplitz certificate pushed from T_17 to T_20 with a deeper sandwich (40/41, 380 digits).
+- DISC-0176 → DISC-0179. Label: computational. Same certified routine, θ̂_k≠0 extended from k≤20 to k≤21.
+- DISC-0179 → DISC-0178. Label: mathematical. Kept Failure BY.3: T_20≻0 rules out ≤19 pole series (same hypothesis, wider r).
+- DISC-0179 → DISC-0175. Label: experimental. One more certified normalised modulus (ρ_21=0.70637) inside the band; evidence only.

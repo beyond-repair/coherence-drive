@@ -84,6 +84,9 @@ As DISC-0177.
 
 - 2026-10-29 ~1:57am EDT. Indexed; witness reproduced in floats.
 
+- 2026-10-29 ~4:54am EDT. Note: Kept Failure BY.3 (IFI 4e57bb8631cd, GASKET.md line 3165; DISC-0179) rejects the same hypothesis for every r≤19 (T_20≻0, smallest pivot of T_20−2ε_20I 1.2e−16, ε_20≤3.0e−32), so m has ≥20 support points per period. Status unchanged (REJECTED); no new ID. Independent floats reproduce the T_18–T_20 pivots. The "Next Experiments" item above (certify T_18, T_19) is answered by BY.
+
 ## Change History
 
 - 2026-10-29. Initial archive entry.
+- 2026-10-29. Note added for DISC-0179 (history above kept unchanged).
