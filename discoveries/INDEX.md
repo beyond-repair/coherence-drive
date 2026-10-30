@@ -485,3 +485,9 @@ A 2026-10-30 append adds DISC-0196 (THEOREM; Theorem CJ, full C¹ spectrum, Conj
 - DISC-0190 → DISC-0196. Label: mathematical. CF.1's Birkhoff contraction reused for L_1.
 - DISC-0196 ↔ prior art (Ruelle 1989; Collet–Isola 1991; Hennion 1993; Birkhoff 1957; Liverani 1995). Label: historical.
 - Correction: the CH.3 truncation erratum on DISC-0194/0195 is retracted (display artifact).
+
+A 2026-10-30 append adds DISC-0197 (THEOREM; Theorem CK, Hennion assumption discharged) from informational-flux-identity b5a09a39c038.
+- DISC-0196 → DISC-0197. Label: mathematical. CJ.5 outer half made unconditional.
+- DISC-0195 → DISC-0197. Label: mathematical. CI.5 upper half made unconditional.
+- DISC-0194 → DISC-0197. Label: mathematical. CH.3 made unconditional.
+- DISC-0197 ↔ prior art (Ruelle 1989; Collet–Isola 1991; Hennion 1993; Baladi 2000). Label: historical.

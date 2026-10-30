@@ -77,6 +77,7 @@ Clone beyond-repair/informational-flux-identity at 80f30b8a01728fb48e805b8163cde
 - 2026-10-30 ~00:55 EDT: repo witness EXIT 0; independent check 10/10 PASS.
 
 ## Change History
+- 2026-10-30 (~03:00 EDT): note — Assumption CH (Hennion), on which the upper/outer half rested, is discharged for this operator by IFI b5a09a39c038 Theorem CK (DISC-0197); that half is now unconditional within the repo's proof chain. Earlier text preserved.
 - 2026-10-30: created from IFI 80f30b8a0172.
 
 ## Note (2026-10-30, DISC-0196)

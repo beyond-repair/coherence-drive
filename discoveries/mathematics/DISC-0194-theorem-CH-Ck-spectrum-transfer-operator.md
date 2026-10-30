@@ -80,6 +80,7 @@ None. Pure spectral theory; the repository states it is not a flux and not thrus
 - 2026-10-30 ~12:05am EDT. Verified from 127df7ca9fb82f0bb0ec70766b3eb3dcd1862009: repo witness EXIT 0; independent check 12/12 PASS.
 
 ## Change History
+- 2026-10-30 (~03:00 EDT): note — Assumption CH (Hennion), on which the upper/outer half rested, is discharged for this operator by IFI b5a09a39c038 Theorem CK (DISC-0197); that half is now unconditional within the repo's proof chain. Earlier text preserved.
 - 2026-10-30: created.
 
 ## Note (2026-10-30, DISC-0195)

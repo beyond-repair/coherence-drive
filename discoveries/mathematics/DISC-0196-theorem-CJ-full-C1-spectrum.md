@@ -75,4 +75,5 @@ Clone beyond-repair/informational-flux-identity at 94ae1e7d93e5; `pip install py
 - 2026-10-30 ~02:05 EDT: repo witness EXIT 0 (1.06 s); independent check 8/8 PASS; CLI test passed.
 
 ## Change History
+- 2026-10-30 (~03:00 EDT, preserved original): status note — IFI b5a09a39c038 Theorem CK discharges Assumption CH for this operator (DISC-0197). Status moves THEOREM (outer part conditional on Hennion) → THEOREM (unconditional within the repo's proof chain). Original conditional wording above is kept as history.
 - 2026-10-30: created from IFI 94ae1e7d93e5.
