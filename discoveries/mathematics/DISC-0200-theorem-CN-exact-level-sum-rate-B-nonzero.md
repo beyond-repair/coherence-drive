@@ -85,3 +85,6 @@ Clone beyond-repair/informational-flux-identity at 077b6fc; `pip install python-
 
 ## Note (2026-10-30, appended; text above unchanged)
 The open item "whether a_3 ≠ 0" is answered by IFI Theorem CO at 888d3bee13fa78755b539ba0870959b5153a360b: a_3 = −2.36116·10⁻⁵ ± 4.6·10⁻⁸ ≠ 0 (Riesz projection, not level sums), and B is sharpened to −8.21069 ± 10⁻⁵, inside this record's −8.211 ± 5·10⁻⁴. The independent fit here (implied λ_3 contribution ≈ −2.38·10⁻⁵ at n = 4) agrees in sign and size. See DISC-0201.
+
+## Note (2026-10-30, appended; text above unchanged)
+IFI Theorem CS at 9cb3b84d6b2863320e2903993b9a31927af2d6ce makes CN.4's constants sharp: D_n = log(s_{n+1}/(rs_n))/q_2ⁿ strictly decreases for every n ≥ 4 from D_4 = 14.59509785 ± 5.9·10⁻¹⁰ (CN.4: 14.60) to L = B(q_2 − 1) = 9.6274 ± 3.6·10⁻⁵, so the lower bound L|q_2|ⁿ holds for every n ≥ 4 (CN.4: 9.626 only for n ≥ 13). Status unchanged. See DISC-0205.

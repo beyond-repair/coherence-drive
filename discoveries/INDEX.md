@@ -522,3 +522,14 @@ A 2026-10-30 append adds DISC-0203 (THEOREM; Theorem CQ, fourth eigenvalue λ_4 
 - DISC-0201 → DISC-0203. Label: computational. DISC-0201's float fit a_4 ≈ −2.2e-7 certified.
 - DISC-0200 → DISC-0203. Label: mathematical. CN.2's remainder gets the exact rate |λ_4|.
 - DISC-0203 ↔ prior art (Pellet, Krawczyk/Rump, Kato resolvent counting, Higham). Label: historical.
+
+A 2026-10-30 append adds DISC-0204 (THEOREM; Theorem CR, fifth eigenvalue λ_5 and a_5 ≠ 0, all further eigenvalues below 1e-8, exact rate |λ_5| of CQ's remainder) from informational-flux-identity f847490267b1, and DISC-0205 (THEOREM; Theorem CS, sharp level-sum constants D_4, L and explicit sharp C_G*) from 9cb3b84d6b28.
+- DISC-0203 → DISC-0204. Label: mathematical. CQ's "certify a fifth eigenvalue" next experiment done; float cluster near 1e-7 was noise.
+- DISC-0201 → DISC-0204. Label: mathematical. CO.3/CO.4's projection formula reused for a_5.
+- DISC-0191 → DISC-0204. Label: mathematical. CG.1 tail formula and CG.3 homotopy carry the count at N = 300.
+- DISC-0204 ↔ prior art (Krawczyk/Rump, Kato resolvent counting, Neumann series). Label: historical.
+- DISC-0202 → DISC-0205. Label: mathematical. CP.2's two-sided bound is the input.
+- DISC-0200 → DISC-0205. Label: mathematical. CN.4's constants made sharp; lower bound from n = 4.
+- DISC-0201 → DISC-0205. Label: mathematical. CO.4's B gives L = B(q_2 − 1).
+- DISC-0190 → DISC-0205. Label: mathematical. CF.3's open C_G made explicit and sharp for the level sums.
+- DISC-0204 ↔ DISC-0205. Label: computational. Same session; the independent check is one script.

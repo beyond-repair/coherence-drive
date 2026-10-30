@@ -81,3 +81,6 @@ Clone beyond-repair/informational-flux-identity at cae1d855f3c7; `pip install py
 
 ## Change History
 - 2026-10-30: created from IFI cae1d855f3c7.
+
+## Note (2026-10-30, appended; text above unchanged)
+The next experiment "certify a fifth eigenvalue" is done by IFI Theorem CR at f847490267b123a24efcbbb066aa08308d9a192d: λ_5 = −4.550141188009·10⁻⁸ ± 4.51·10⁻²¹, a_5 = −2.1323·10⁻¹¹ ± 7.9·10⁻¹⁶ ≠ 0, every further eigenvalue |μ| < 10⁻⁸, and this record's remainder e'_k has exact rate |λ_5| with sign (−1)^{k+1} for k ≥ 48. The repo's earlier float values near 10⁻⁷ are confirmed as float noise (CR's docstring; independent subspace iteration here). CQ is unchanged. See DISC-0204.

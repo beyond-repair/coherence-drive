@@ -80,3 +80,6 @@ None. Pure mathematics on a graph Laplacian spectral measure.
 ## Change History
 - 2026-10-29. Initial archive entry.
 - 2026-10-29 ~8:58pm EDT: note added. The observed λ_2 ≈ −0.0731 is now certified by Theorem CG (DISC-0191, IFI 8364d9497c57) on holomorphic functions; CF.5's C¹ bound is not replaced on C¹(X), but CG.4 replaces CF.3's level-sum rate 0.8855 with 0.17255. Status unchanged.
+
+## Note (2026-10-30, appended; text above unchanged)
+The open item "explicit C_G" is answered for the level sums only by IFI Theorem CS at 9cb3b84d6b2863320e2903993b9a31927af2d6ce: in the form |log(s_{k+1}/(rs_k))| ≤ C_G θ^{k/5} (k ≥ 4) the sharp constant is C_G* = |log(s_5/(rs_4))|θ^{−4/5} = 0.02105127810 ± 2.1·10⁻¹² (0.0210492 for θ̄ = 0.5442), via the spectral route (CG–CP), not via this record's Birkhoff bound. The Birkhoff-route constant Θ_a(f_0, L̃f_0) for general f (Lipschitz bound for log L̃⁴G) is still not computed. Status unchanged. See DISC-0205.
