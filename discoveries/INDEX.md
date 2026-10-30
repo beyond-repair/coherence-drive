@@ -459,3 +459,8 @@ A further 2026-10-29 append adds DISC-0190 (THEOREM; Theorem CF, explicit Birkho
 - DISC-0188 → DISC-0190. Label: mathematical. CF proves CE's cited Assumption CE with explicit θ<0.5442 per 5 steps; DISC-0188 becomes unconditional.
 - DISC-0189 → DISC-0190. Label: mathematical. The twist that removes CE.6's vanishing weight is what makes the log-Lipschitz cone invariant.
 - DISC-0190 ↔ prior art (Birkhoff 1957; Bushell 1973; Liverani 1995). Label: historical. Constants not searched.
+
+A further 2026-10-29 append adds DISC-0191 (THEOREM; Theorem CG, certified top spectrum of L̃) from informational-flux-identity 8364d9497c57.
+- DISC-0190 → DISC-0191. Label: mathematical. CG certifies the λ_2≈−0.0731 that CF observed; CF.5 identifies CG's top eigenvalue with r.
+- DISC-0188 → DISC-0191. Label: mathematical. Same operator L̃ and constant r.
+- DISC-0191 ↔ prior art (Pellet 1881; Jenkinson–Pollicott; Bandtlow–Jenkinson). Label: historical. Constants not searched.

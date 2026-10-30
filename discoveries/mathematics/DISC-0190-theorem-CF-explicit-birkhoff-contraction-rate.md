@@ -79,3 +79,4 @@ None. Pure mathematics on a graph Laplacian spectral measure.
 
 ## Change History
 - 2026-10-29. Initial archive entry.
+- 2026-10-29 ~8:58pm EDT: note added. The observed λ_2 ≈ −0.0731 is now certified by Theorem CG (DISC-0191, IFI 8364d9497c57) on holomorphic functions; CF.5's C¹ bound is not replaced on C¹(X), but CG.4 replaces CF.3's level-sum rate 0.8855 with 0.17255. Status unchanged.
