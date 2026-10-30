@@ -7,7 +7,7 @@ DISC-0205
 THEOREM (mathematical sense only; short proof from CP.2 plus arb-evaluated constants, all in the source repository). Method: KNOWN (elementary: dividing a certified two-sided bound, ratio test for monotonicity, supremum of a product of decreasing positive factors). Constants: UNRESOLVED as to novelty; no claim of a mathematical first. Not a flux, not thrust.
 
 ## Date Discovered
-2026-10-30 (indexed ~5:25 PM EDT; source commit 2026-10-30 17:00:27 EDT)
+2026-10-30 (indexed ~5:19 PM EDT; source commit 2026-10-30 17:00:27 EDT)
 
 ## Source Repositories
 beyond-repair/informational-flux-identity, branch main, commit 9cb3b84d6b2863320e2903993b9a31927af2d6ce

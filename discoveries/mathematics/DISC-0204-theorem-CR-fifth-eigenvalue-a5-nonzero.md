@@ -7,7 +7,7 @@ DISC-0204
 THEOREM (mathematical sense only; proof and arb witness are in the source repository). Method: KNOWN (Krawczyk eigenpair enclosures, rank-one Riesz projections, Neumann-series resolvent bounds, Kato-type homotopy eigenvalue counting, the second resolvent identity). The specific constants for this operator: UNRESOLVED as to novelty; no claim of a mathematical first. Not a flux, not thrust.
 
 ## Date Discovered
-2026-10-30 (indexed ~5:25 PM EDT; source commit 2026-10-30 16:31:12 EDT)
+2026-10-30 (indexed ~5:19 PM EDT; source commit 2026-10-30 16:31:12 EDT)
 
 ## Source Repositories
 beyond-repair/informational-flux-identity, branch main, commit f847490267b123a24efcbbb066aa08308d9a192d (checked at descendant 9cb3b84d6b2863320e2903993b9a31927af2d6ce, which leaves CR unchanged)
