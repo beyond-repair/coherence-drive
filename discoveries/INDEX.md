@@ -533,3 +533,10 @@ A 2026-10-30 append adds DISC-0204 (THEOREM; Theorem CR, fifth eigenvalue λ_5 a
 - DISC-0201 → DISC-0205. Label: mathematical. CO.4's B gives L = B(q_2 − 1).
 - DISC-0190 → DISC-0205. Label: mathematical. CF.3's open C_G made explicit and sharp for the level sums.
 - DISC-0204 ↔ DISC-0205. Label: computational. Same session; the independent check is one script.
+
+A 2026-10-30 append adds DISC-0206 (THEOREM; Theorem CT, exact rate |ν_2|/ρ(L_1) = 0.2440800701 of inf R_n → ρ(L_1) with two-sided constants for n ≥ 10, ρ(L_1) to ±2.9e-20) from informational-flux-identity 219b29ba779b.
+
+- DISC-0196 → DISC-0206. Label: mathematical. CJ's open rate item closed.
+- DISC-0195 → DISC-0206. Label: mathematical. CI.1's interval for ρ(L_1) sharpened to ±2.9e-20.
+- DISC-0204 → DISC-0206. Label: computational. CR.1/CR.2's Krawczyk and Neumann routines reused.
+- DISC-0190 ↔ DISC-0206. Label: conceptual. Birkhoff cone rate versus exact spectral rate.
