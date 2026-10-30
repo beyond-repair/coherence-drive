@@ -81,3 +81,4 @@ Clone beyond-repair/informational-flux-identity at 0b34f91; `pip install python-
 
 ## Change History
 - 2026-10-30: created from IFI 0b34f9192458.
+- 2026-10-30 ~04:57 EDT: open item "whether {|z| < ρ(L_k)} ⊂ spec(C^k) for k ≥ 2" answered yes by Theorem CM (IFI 46889b83fb0c), see DISC-0199. Text above left unchanged.

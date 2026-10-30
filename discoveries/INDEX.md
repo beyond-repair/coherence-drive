@@ -496,3 +496,8 @@ A 2026-10-30 append adds DISC-0198 (THEOREM; Theorem CL, exact C^k essential rad
 - DISC-0197 → DISC-0198. Label: mathematical. CK's upper bound r_ess(C^k)≤ρ(L_k) made an equality for every k.
 - DISC-0196 → DISC-0198. Label: mathematical. CJ's boundary circle narrowed: jet-zero eigenfunctions excluded.
 - DISC-0198 ↔ prior art (Collet–Isola 1991; Gundlach–Latushkin 2003; Ruelle 1989; Baladi 2000). Label: historical.
+
+A 2026-10-30 append adds DISC-0199 (THEOREM; Theorem CM, open C^k disk filled with infinite-multiplicity eigenvalues for every k) from informational-flux-identity 46889b83fb0c.
+- DISC-0198 → DISC-0199. Label: mathematical. CL's open k≥2 disk question answered; σ_e(C^k) is the closed disk.
+- DISC-0196 → DISC-0199. Label: mathematical. CJ.4's C¹ gap-bump eigenfunctions generalized to all k without a cone certificate.
+- DISC-0199 ↔ prior art (Keller 1984; Collet–Isola 1991; Baladi 2000). Label: historical.
