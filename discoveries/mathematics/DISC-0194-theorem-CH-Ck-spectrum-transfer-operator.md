@@ -81,3 +81,6 @@ None. Pure spectral theory; the repository states it is not a flux and not thrus
 
 ## Change History
 - 2026-10-30: created.
+
+## Note (2026-10-30, DISC-0195)
+Theorem CI (IFI 80f30b8a01728fb48e805b8163cde04b979075dd) narrows the C¹ open band (0.1089, 0.1345] to (0.1343547, 0.1343551] and certifies r_ess(C¹)=ρ(L_1) to 4·10⁻⁷. Status of DISC-0194 unchanged. The CH.3 truncation erratum is still present at GASKET.md line 3610.

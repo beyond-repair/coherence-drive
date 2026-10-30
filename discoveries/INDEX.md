@@ -475,3 +475,7 @@ A 2026-10-30 append adds DISC-0194 (THEOREM; Theorem CH and Kept Failure CH.4) f
 - DISC-0191 → DISC-0194. Label: mathematical. CH transfers CG's H² eigenvalues to C^k, k≥2, and shows C¹ has extra point spectrum.
 - DISC-0190 → DISC-0194. Label: mathematical. CF.5's C¹ bound 0.8855 r improved to 0.3175 r.
 - DISC-0194 ↔ prior art (Hennion 1993; Ruelle 1989; Collet–Isola 1991). Label: historical.
+
+A 2026-10-30 append adds DISC-0195 (THEOREM; Theorem CI, C¹ essential radius) from informational-flux-identity 80f30b8a0172.
+- DISC-0194 → DISC-0195. Label: mathematical. CH.4's C¹ eigenvalue disk 0.1089 extended to 0.1343547; open band narrowed to 4·10⁻⁷.
+- DISC-0195 ↔ prior art (Ruelle 1989; Collet–Isola 1991; Hennion 1993). Label: historical.
