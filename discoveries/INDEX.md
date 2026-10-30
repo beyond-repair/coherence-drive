@@ -501,3 +501,8 @@ A 2026-10-30 append adds DISC-0199 (THEOREM; Theorem CM, open C^k disk filled wi
 - DISC-0198 → DISC-0199. Label: mathematical. CL's open k≥2 disk question answered; σ_e(C^k) is the closed disk.
 - DISC-0196 → DISC-0199. Label: mathematical. CJ.4's C¹ gap-bump eigenfunctions generalized to all k without a cone certificate.
 - DISC-0199 ↔ prior art (Keller 1984; Collet–Isola 1991; Baladi 2000). Label: historical.
+
+A 2026-10-30 append adds DISC-0200 (THEOREM; Theorem CN, B ≠ 0 in CG.4, exact rate |λ_2|/r of the level sums with an explicit constant) from informational-flux-identity 077b6fc50dc0.
+- DISC-0191 → DISC-0200. Label: mathematical. CG.4's open B ≠ 0 question answered.
+- DISC-0190 → DISC-0200. Label: mathematical. CF.3's C_G no longer needed for the level sums.
+- DISC-0200 ↔ prior art (Riesz projections; Krawczyk 1969; Noshiro–Warschawski; Prony). Label: historical.

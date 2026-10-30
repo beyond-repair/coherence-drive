@@ -74,3 +74,6 @@ None.
 ## Change History
 - 2026-10-29: created.
 - 2026-10-30: note added (status unchanged). Open question "whether λ_2 is second on C¹(X)" is answered by IFI 127df7ca9fb8 Theorem CH (DISC-0194): no on C¹(X), where every |μ|≤0.1089 is an eigenvalue (Kept Failure CH.4); yes on C^k(X) for k≥2. CG's H² statement and the level-sum rate are unaffected.
+
+## Note (2026-10-30, appended; text above unchanged)
+The open item "whether B ≠ 0 in CG.4" is answered by IFI Theorem CN at 077b6fc50dc0239ad57c87dd24633558a27d75bc: a_2 = −4.158·10⁻⁵ ± 4.4·10⁻⁹ ≠ 0, B = −8.211 ± 5·10⁻⁴, so |λ_2|/r is the exact rate of the level sums. See DISC-0200.
