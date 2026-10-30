@@ -479,3 +479,9 @@ A 2026-10-30 append adds DISC-0194 (THEOREM; Theorem CH and Kept Failure CH.4) f
 A 2026-10-30 append adds DISC-0195 (THEOREM; Theorem CI, C¹ essential radius) from informational-flux-identity 80f30b8a0172.
 - DISC-0194 → DISC-0195. Label: mathematical. CH.4's C¹ eigenvalue disk 0.1089 extended to 0.1343547; open band narrowed to 4·10⁻⁷.
 - DISC-0195 ↔ prior art (Ruelle 1989; Collet–Isola 1991; Hennion 1993). Label: historical.
+
+A 2026-10-30 append adds DISC-0196 (THEOREM; Theorem CJ, full C¹ spectrum, Conjecture CI.6 proved) from informational-flux-identity 94ae1e7d93e5.
+- DISC-0195 → DISC-0196. Label: mathematical. CI's annulus (0.1343547, 0.1343551] closed; CI.6 CONJECTURE → THEOREM.
+- DISC-0190 → DISC-0196. Label: mathematical. CF.1's Birkhoff contraction reused for L_1.
+- DISC-0196 ↔ prior art (Ruelle 1989; Collet–Isola 1991; Hennion 1993; Birkhoff 1957; Liverani 1995). Label: historical.
+- Correction: the CH.3 truncation erratum on DISC-0194/0195 is retracted (display artifact).

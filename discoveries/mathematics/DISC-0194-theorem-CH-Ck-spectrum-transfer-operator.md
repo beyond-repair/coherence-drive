@@ -84,3 +84,6 @@ None. Pure spectral theory; the repository states it is not a flux and not thrus
 
 ## Note (2026-10-30, DISC-0195)
 Theorem CI (IFI 80f30b8a01728fb48e805b8163cde04b979075dd) narrows the C¹ open band (0.1089, 0.1345] to (0.1343547, 0.1343551] and certifies r_ess(C¹)=ρ(L_1) to 4·10⁻⁷. Status of DISC-0194 unchanged. The CH.3 truncation erratum is still present at GASKET.md line 3610.
+
+## Correction (2026-10-30, retraction of erratum)
+The erratum claiming CH.3's printed proof breaks off after "dense in C^k(X). So" is retracted: at 127df7ca9fb8 the sentence continues and the proof is complete ("…So Π_{C^k} maps them onto a dense subset of its finite-dimensional range, that is, onto the whole range, and that range lies in R(ran Π_{H²}). The two ranks are therefore equal."). The earlier reading was truncated by a display limit. Status unchanged. Also: Theorem CJ (DISC-0196) completes the C¹ picture.

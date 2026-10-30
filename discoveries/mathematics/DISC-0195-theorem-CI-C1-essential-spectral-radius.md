@@ -78,3 +78,9 @@ Clone beyond-repair/informational-flux-identity at 80f30b8a01728fb48e805b8163cde
 
 ## Change History
 - 2026-10-30: created from IFI 80f30b8a0172.
+
+## Note (2026-10-30, DISC-0196)
+Conjecture CI.6 is proved as Theorem CJ (IFI 94ae1e7d93e5): the C¹ spectrum is {r} ∪ {|z|≤ρ(L_1)}, so the open annulus (0.1343547, 0.1343551] is closed. The CI.6 CONJECTURE label above is superseded by THEOREM (outer part conditional on Hennion); see DISC-0196. DISC-0195's own THEOREM status is unchanged.
+
+## Correction (2026-10-30)
+The "CH.3 truncation erratum" recorded in Assumptions above is retracted. GASKET.md line 3610 at 127df7c, 80f30b8 and 94ae1e7 all continue the sentence ("…dense in C^k(X). So Π_{C^k} maps them onto a dense subset of its finite-dimensional range, that is, onto the whole range…"); the earlier reading was cut by a display limit, not by the file. The original text above is kept for history.
