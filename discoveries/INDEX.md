@@ -470,3 +470,8 @@ A further 2026-10-29 append adds DISC-0192 and DISC-0193 from beyond-repair/cohe
 - DISC-0192 ↔ prior art (Stieltjes / complete Bernstein functions). Label: historical.
 - DISC-0193 ↔ prior art (Abelian theorems, Karamata regular variation). Label: historical.
 - coherence-dynamics ↔ Ware-constant line (W ≈ 0.08). Label: historical only; repo explicitly does not use W.
+
+A 2026-10-30 append adds DISC-0194 (THEOREM; Theorem CH and Kept Failure CH.4) from informational-flux-identity 127df7ca9fb8.
+- DISC-0191 → DISC-0194. Label: mathematical. CH transfers CG's H² eigenvalues to C^k, k≥2, and shows C¹ has extra point spectrum.
+- DISC-0190 → DISC-0194. Label: mathematical. CF.5's C¹ bound 0.8855 r improved to 0.3175 r.
+- DISC-0194 ↔ prior art (Hennion 1993; Ruelle 1989; Collet–Isola 1991). Label: historical.
