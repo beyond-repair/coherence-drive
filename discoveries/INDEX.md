@@ -506,3 +506,8 @@ A 2026-10-30 append adds DISC-0200 (THEOREM; Theorem CN, B ≠ 0 in CG.4, exact 
 - DISC-0191 → DISC-0200. Label: mathematical. CG.4's open B ≠ 0 question answered.
 - DISC-0190 → DISC-0200. Label: mathematical. CF.3's C_G no longer needed for the level sums.
 - DISC-0200 ↔ prior art (Riesz projections; Krawczyk 1969; Noshiro–Warschawski; Prony). Label: historical.
+
+A 2026-10-30 append adds DISC-0201 (THEOREM; Theorem CO, a_3 ≠ 0 in CN.2, exact second-order rate |λ_3|/r of the level sums, B sharpened 50×) from informational-flux-identity 888d3bee13fa.
+- DISC-0200 → DISC-0201. Label: mathematical. CN's open a_3 ≠ 0 item answered; a_1, a_2 recomputed by an independent route and consistent.
+- DISC-0191 → DISC-0201. Label: mathematical. CG.2's λ_3 shown to carry nonzero weight in the level sums.
+- DISC-0201 ↔ prior art (Riesz projections; Krawczyk 1969; Trefethen–Weideman 2014 trapezoid aliasing). Label: historical.

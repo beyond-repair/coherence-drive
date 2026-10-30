@@ -81,3 +81,7 @@ Clone beyond-repair/informational-flux-identity at 077b6fc; `pip install python-
 
 ## Change History
 - 2026-10-30: created from IFI 077b6fc50dc0.
+- 2026-10-30: note added (status unchanged); open item a_3 ≠ 0 answered by DISC-0201.
+
+## Note (2026-10-30, appended; text above unchanged)
+The open item "whether a_3 ≠ 0" is answered by IFI Theorem CO at 888d3bee13fa78755b539ba0870959b5153a360b: a_3 = −2.36116·10⁻⁵ ± 4.6·10⁻⁸ ≠ 0 (Riesz projection, not level sums), and B is sharpened to −8.21069 ± 10⁻⁵, inside this record's −8.211 ± 5·10⁻⁴. The independent fit here (implied λ_3 contribution ≈ −2.38·10⁻⁵ at n = 4) agrees in sign and size. See DISC-0201.
