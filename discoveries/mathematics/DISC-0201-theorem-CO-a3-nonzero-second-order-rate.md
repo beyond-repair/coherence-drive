@@ -82,3 +82,7 @@ Clone beyond-repair/informational-flux-identity at 888d3bee13fa; `pip install py
 
 ## Change History
 - 2026-10-30: created from IFI 888d3bee13fa.
+- 2026-10-30: note added (status unchanged); open item "explicit n_0 in CO.5" answered by DISC-0202.
+
+## Note (2026-10-30, appended; text above unchanged)
+The open item "explicit n_0 and constant in CO.5" is answered by IFI Theorem CP at f7845ada80f95ebb7af3a4d77664a073abc4d561: sign T_n = (−1)ⁿ for every n ≥ 4 with 1360.9|q_3|ⁿ ≤ |T_n| ≤ 1906.1|q_3|ⁿ, and CO.5's limit is approached at the exact rate λ_2²/(r|λ_3|) = 0.7391538. See DISC-0202.

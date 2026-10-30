@@ -511,3 +511,8 @@ A 2026-10-30 append adds DISC-0201 (THEOREM; Theorem CO, a_3 ≠ 0 in CN.2, exac
 - DISC-0200 → DISC-0201. Label: mathematical. CN's open a_3 ≠ 0 item answered; a_1, a_2 recomputed by an independent route and consistent.
 - DISC-0191 → DISC-0201. Label: mathematical. CG.2's λ_3 shown to carry nonzero weight in the level sums.
 - DISC-0201 ↔ prior art (Riesz projections; Krawczyk 1969; Trefethen–Weideman 2014 trapezoid aliasing). Label: historical.
+
+A 2026-10-30 append adds DISC-0202 (THEOREM; Theorem CP, explicit n_0 = 4 for the sign of CO.5's residual, exact third-order rate λ_2²/(r|λ_3|) = 0.7391538) from informational-flux-identity f7845ada80f9.
+- DISC-0201 → DISC-0202. Label: mathematical. CO.5's open explicit-n_0 item answered.
+- DISC-0200 → DISC-0202. Label: mathematical. CN.2's ε_0 sets the tail threshold n_0 = 12.
+- DISC-0202 ↔ prior art (explicit Taylor remainders; Tucker 2011 validated numerics). Label: historical.
