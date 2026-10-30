@@ -464,3 +464,9 @@ A further 2026-10-29 append adds DISC-0191 (THEOREM; Theorem CG, certified top s
 - DISC-0190 → DISC-0191. Label: mathematical. CG certifies the λ_2≈−0.0731 that CF observed; CF.5 identifies CG's top eigenvalue with r.
 - DISC-0188 → DISC-0191. Label: mathematical. Same operator L̃ and constant r.
 - DISC-0191 ↔ prior art (Pellet 1881; Jenkinson–Pollicott; Bandtlow–Jenkinson). Label: historical. Constants not searched.
+
+A further 2026-10-29 append adds DISC-0192 and DISC-0193 from beyond-repair/coherence-dynamics ca90e0a17786 (first read of that repo).
+- DISC-0192 → DISC-0193. Label: mathematical. I+2 identity from 0192 gives the J(∞)=2M1/M0 constant in 0193.
+- DISC-0192 ↔ prior art (Stieltjes / complete Bernstein functions). Label: historical.
+- DISC-0193 ↔ prior art (Abelian theorems, Karamata regular variation). Label: historical.
+- coherence-dynamics ↔ Ware-constant line (W ≈ 0.08). Label: historical only; repo explicitly does not use W.
