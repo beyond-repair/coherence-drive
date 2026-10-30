@@ -79,3 +79,6 @@ Clone beyond-repair/informational-flux-identity at f7845ada80f9; `pip install py
 
 ## Change History
 - 2026-10-30: created from IFI f7845ada80f9.
+
+## Note (2026-10-30, appended; text above unchanged)
+The next experiment "certify λ_4 and a_4" is done by IFI Theorem CQ at cae1d855f3c79c6a7c2b109422adaaefe52e554c: λ_4 = −0.00021644655283736 ± 1.53·10⁻¹⁸, a_4 = −2.204·10⁻⁷ ± 5.54·10⁻¹¹ ≠ 0. CP is unchanged (its ε_n already contained the λ_4 term). See DISC-0203.

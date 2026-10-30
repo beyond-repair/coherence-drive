@@ -516,3 +516,9 @@ A 2026-10-30 append adds DISC-0202 (THEOREM; Theorem CP, explicit n_0 = 4 for th
 - DISC-0201 → DISC-0202. Label: mathematical. CO.5's open explicit-n_0 item answered.
 - DISC-0200 → DISC-0202. Label: mathematical. CN.2's ε_0 sets the tail threshold n_0 = 12.
 - DISC-0202 ↔ prior art (explicit Taylor remainders; Tucker 2011 validated numerics). Label: historical.
+
+A 2026-10-30 append adds DISC-0203 (THEOREM; Theorem CQ, fourth eigenvalue λ_4 and a_4 ≠ 0, exact rate |λ_4| of CN.2's remainder) from informational-flux-identity cae1d855f3c7.
+- DISC-0202 → DISC-0203. Label: mathematical. CP's "certify λ_4, a_4" next experiment done.
+- DISC-0201 → DISC-0203. Label: computational. DISC-0201's float fit a_4 ≈ −2.2e-7 certified.
+- DISC-0200 → DISC-0203. Label: mathematical. CN.2's remainder gets the exact rate |λ_4|.
+- DISC-0203 ↔ prior art (Pellet, Krawczyk/Rump, Kato resolvent counting, Higham). Label: historical.
