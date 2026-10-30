@@ -70,3 +70,4 @@ Clone beyond-repair/informational-flux-identity at b5a09a39c038; `pip install py
 
 ## Change History
 - 2026-10-30: created from IFI b5a09a39c038.
+- 2026-10-30 (~03:55 EDT): note added, earlier text unchanged. Open item "r_ess(C^k)=ρ(L_k) for k≥2" is answered yes (radius only) by Theorem CL at IFI 0b34f91; see DISC-0198. The boundary-circle item is narrowed, not closed.

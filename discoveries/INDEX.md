@@ -491,3 +491,8 @@ A 2026-10-30 append adds DISC-0197 (THEOREM; Theorem CK, Hennion assumption disc
 - DISC-0195 → DISC-0197. Label: mathematical. CI.5 upper half made unconditional.
 - DISC-0194 → DISC-0197. Label: mathematical. CH.3 made unconditional.
 - DISC-0197 ↔ prior art (Ruelle 1989; Collet–Isola 1991; Hennion 1993; Baladi 2000). Label: historical.
+
+A 2026-10-30 append adds DISC-0198 (THEOREM; Theorem CL, exact C^k essential radius and closed C¹ essential disk) from informational-flux-identity 0b34f9192458.
+- DISC-0197 → DISC-0198. Label: mathematical. CK's upper bound r_ess(C^k)≤ρ(L_k) made an equality for every k.
+- DISC-0196 → DISC-0198. Label: mathematical. CJ's boundary circle narrowed: jet-zero eigenfunctions excluded.
+- DISC-0198 ↔ prior art (Collet–Isola 1991; Gundlach–Latushkin 2003; Ruelle 1989; Baladi 2000). Label: historical.

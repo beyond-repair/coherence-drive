@@ -77,3 +77,4 @@ Clone beyond-repair/informational-flux-identity at 94ae1e7d93e5; `pip install py
 ## Change History
 - 2026-10-30 (~03:00 EDT, preserved original): status note — IFI b5a09a39c038 Theorem CK discharges Assumption CH for this operator (DISC-0197). Status moves THEOREM (outer part conditional on Hennion) → THEOREM (unconditional within the repo's proof chain). Original conditional wording above is kept as history.
 - 2026-10-30: created from IFI 94ae1e7d93e5.
+- 2026-10-30 (~03:55 EDT): note added, earlier text unchanged. Theorem CL (IFI 0b34f91, DISC-0198) shows the C¹ Fredholm essential spectrum is the closed disk |z|≤ρ(L_1) and that CJ's gap-bump eigenfunctions cannot reach the circle; circle eigenvalues with nonzero 1-jet on Λ remain open.
