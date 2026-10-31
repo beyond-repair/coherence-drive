@@ -78,3 +78,4 @@ Clone beyond-repair/informational-flux-identity at ed74f6de3998; `pip install py
 
 ## Change History
 - 2026-10-31: created from IFI ed74f6de3998.
+- 2026-10-31 (note, ~6:30 AM EDT): the kept limit k = 13..28 is closed by IFI Theorem DB at 22711f251b7a (DISC-0214); DA.2's first-order centres are within 2% of the certified Γ_± already for k ≥ 19. Text above unchanged.

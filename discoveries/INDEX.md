@@ -590,3 +590,11 @@ A 2026-10-31 append adds DISC-0213 (THEOREM; Theorem DA, uniform-in-k rate for i
 - DISC-0208 → DISC-0213. Label: mathematical. CV.4's Γ_± (k ≤ 12) extended to every k ≥ 29.
 - DISC-0207 → DISC-0213. Label: mathematical. CU.4's constants tracked in k.
 - DISC-0206 → DISC-0213. Label: mathematical. CT.5's two-sided bound reused.
+
+A 2026-10-31 append adds DISC-0214 (THEOREM; Theorem DB, exact rate of inf R_n^(k) → ρ(L_k) for k = 13..28, so with DISC-0206/0207/0208/0213 for every k ≥ 1) from informational-flux-identity 22711f251b7a.
+
+- DISC-0213 → DISC-0214. Label: mathematical. DA's kept limit k = 13..28 closed; κ_- used in DB.6.
+- DISC-0207 → DISC-0214. Label: computational. CU's routine re-run unchanged at 1024 bits on 3^(k+1)L_k.
+- DISC-0208 → DISC-0214. Label: mathematical. CV.4's Γ_± used in DB.7.
+- DISC-0212 → DISC-0214. Label: computational. CZ.6's q used for consistency; CZ's "underflow" re-diagnosed as interval wrapping.
+- DISC-0206 → DISC-0214. Label: mathematical. CT.5's two-sided bound.
