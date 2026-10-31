@@ -632,3 +632,9 @@ A 2026-10-31 append adds DISC-0218 (THEOREM; Theorem DF, DE's joint programme on
 - DISC-0190 → DISC-0218. Label: mathematical. CF.2's cone step gives b₈.
 - DISC-0188 → DISC-0218. Label: mathematical. CE's setting and cone lemma.
 - DISC-0205 → DISC-0218. Label: conceptual. Spectral route (0.1725) still sharper; repo float scan plateaus near 0.63.
+
+A 2026-10-31 append adds DISC-0219 (THEOREM; Theorem DG, signed local-slope bound for DF's cone-lemma term, θ_G < 0.014183, rate < 0.58745) from informational-flux-identity 347ea08d1560.
+
+- DISC-0218 → DISC-0219. Label: mathematical. DF's open item; W_F used as stated, cone term replaced.
+- DISC-0188 → DISC-0219. Label: mathematical. CE.3's cone lemma is the term replaced.
+- DISC-0205 → DISC-0219. Label: conceptual. Spectral route (0.1725) still sharper; Birkhoff rate now 0.587.
