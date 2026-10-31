@@ -554,3 +554,10 @@ A 2026-10-30 append adds DISC-0208 (THEOREM; Theorem CV, exact rates |ν_2^(k)|/
 - DISC-0206 → DISC-0208. Label: mathematical. CT.3's k = 1 values feed CV.6/CV.7.
 - DISC-0204 → DISC-0208. Label: computational. CR.1/CR.2's Krawczyk and Neumann routines reused through CU.
 - DISC-0191 → DISC-0208. Label: mathematical. CG.3 homotopy carries the count.
+
+A 2026-10-30 append adds DISC-0209 (THEOREM; Theorem CW, uniform-in-k bracket 0.1999·0.5999^k ≤ 3^(k+1)ρ(L_k) − 1 ≤ 0.2873·0.8352^k, proving 3^k ρ(L_k) → 1/3) from informational-flux-identity 572ca675ce2e.
+
+- DISC-0208 → DISC-0209. Label: mathematical. CV's "nothing uniform in k" item addressed for ρ; CV's 3^k ρ → 1/3 observation proved; CV.7 lower half extended to all k.
+- DISC-0207 → DISC-0209. Label: mathematical. CU.3's ρ(L_k), k = 2..4, inside CW.3 (consistency).
+- DISC-0206 → DISC-0209. Label: mathematical. CT.3's ρ(L_1) inside CW.3 (consistency).
+
