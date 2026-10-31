@@ -540,3 +540,10 @@ A 2026-10-30 append adds DISC-0206 (THEOREM; Theorem CT, exact rate |ν_2|/ρ(L_
 - DISC-0195 → DISC-0206. Label: mathematical. CI.1's interval for ρ(L_1) sharpened to ±2.9e-20.
 - DISC-0204 → DISC-0206. Label: computational. CR.1/CR.2's Krawczyk and Neumann routines reused.
 - DISC-0190 ↔ DISC-0206. Label: conceptual. Birkhoff cone rate versus exact spectral rate.
+
+A 2026-10-30 append adds DISC-0207 (THEOREM; Theorem CU, exact rates |ν_2^(k)|/ρ(L_k) = 0.2895670639, 0.3189949783, 0.3376293000 of inf R_n^(k) → ρ(L_k) for k = 2, 3, 4, with two-sided constants from n_0 = 7, 9, 12) from informational-flux-identity 8ea4fbef2a4c.
+
+- DISC-0206 → DISC-0207. Label: mathematical. CT's open item "L_k for k ≥ 2" addressed for k = 2, 3, 4.
+- DISC-0198 → DISC-0207. Label: mathematical. CL.3's intervals for ρ(L_k) sharpened to ~3e-20.
+- DISC-0204 → DISC-0207. Label: computational. CR.1/CR.2's Krawczyk and Neumann routines reused.
+- DISC-0191 → DISC-0207. Label: mathematical. CG.1 tail formula and CG.3 homotopy carry the count.

@@ -78,3 +78,4 @@ Clone beyond-repair/informational-flux-identity at 219b29ba779b; `pip install py
 
 ## Change History
 - 2026-10-30: created from IFI 219b29ba779b.
+- 2026-10-30 (~8:10 PM EDT): note added, earlier text unchanged. Theorem CU (IFI 8ea4fbef2a4c, DISC-0207) addresses this record's open item "L_k for k ≥ 2" for k = 2, 3, 4: exact rates |ν_2/ρ| = 0.2895670639, 0.3189949783, 0.3376293000 from n_0 = 7, 9, 12. k ≥ 5 and uniform-in-k statements stay open.
