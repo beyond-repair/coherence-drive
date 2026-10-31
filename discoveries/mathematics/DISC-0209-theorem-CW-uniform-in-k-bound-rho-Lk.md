@@ -85,3 +85,6 @@ Clone beyond-repair/informational-flux-identity at 572ca675ce2e; `pip install py
 
 ## Change History
 - 2026-10-30: created from IFI 572ca675ce2e.
+
+## Note (2026-10-30, added after DISC-0210)
+IFI 4dc70c635d0b (Theorem CX) collapses this record's rate bracket [0.5999, 0.8352] to the exact rate B* = B(3/2) = 0.7773760276… with (3^{k+1}ρ(L_k) − 1)/(G* B*^k) → 1, and proves 3^k ρ(L_k) strictly decreasing for every k (this record's open item k ≥ 13). See DISC-0210. The text above is preserved unchanged; q^(k) → −1/3 is still HEURISTIC.

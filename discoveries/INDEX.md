@@ -561,3 +561,9 @@ A 2026-10-30 append adds DISC-0209 (THEOREM; Theorem CW, uniform-in-k bracket 0.
 - DISC-0207 → DISC-0209. Label: mathematical. CU.3's ρ(L_k), k = 2..4, inside CW.3 (consistency).
 - DISC-0206 → DISC-0209. Label: mathematical. CT.3's ρ(L_1) inside CW.3 (consistency).
 
+
+A 2026-10-30 append adds DISC-0210 (THEOREM; Theorem CX, exact rate B* = B(3/2) = 0.77737602763… of 3^(k+1)ρ(L_k) − 1 and monotonicity of 3^k ρ(L_k) for every k) from informational-flux-identity 4dc70c635d0b.
+
+- DISC-0209 → DISC-0210. Label: mathematical. CW's rate bracket collapsed to B*; CW's k ≥ 13 monotonicity item closed.
+- DISC-0208 → DISC-0210. Label: mathematical. CV.7 extended from k ≤ 12 to all k.
+- DISC-0206, DISC-0207, DISC-0208 → DISC-0210. Label: mathematical. CX.5 consistency.
