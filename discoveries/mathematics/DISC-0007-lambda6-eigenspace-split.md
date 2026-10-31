@@ -93,11 +93,11 @@ None established.
 
 ## Open Questions
 
-Rigorous proof that free L = D - A on build_gasket(n) has mult(6) = (3^n - 3)/2 for all n >= 2 remains open in COMPLETION_LOG.md. Local W(x) is not settled. No continuum limit is claimed.
+Free mult(6) for all n ≥ 2 is no longer open in the source COMPLETION_LOG at HEAD 19a1264e4511a2ff2e60e55040590e250372d3f0; see DISC-0020. Local W(x) is not settled. No continuum limit is claimed. The eigenspace-split identities of this row remain DERIVATIVE.
 
 ## Next Experiments
 
-Do not convert the V'' bound into a selected W or into thrust. Do not treat free mult(6) as proved for all n. Read README.md and COMPLETION_LOG.md at the named HEAD before any later use.
+Do not convert the V'' bound into a selected W or into thrust. For free mult(6), read DISC-0020 at the later HEAD rather than treating the 7f66ef46 open note as current. Read README.md and COMPLETION_LOG.md at the evidence HEAD for this split, and at 19a1264e4511a2ff2e60e55040590e250372d3f0 for the multiplicity update.
 
 ## Reproduction Instructions
 
@@ -112,3 +112,4 @@ Check out beyond-repair/finite-gasket-spectral-derivatives at 7f66ef46ea65e5a368
 ## Change History
 
 - 2026-10-01. Initial archive entry for the new HEAD section. No existing discovery file was overwritten.
+- 2026-10-02. HEAD advanced to 19a1264e4511a2ff2e60e55040590e250372d3f0. Free mult(6) for all n ≥ 2 is now claimed in-repo and indexed as DISC-0020 (NOVELTY CANDIDATE). This file’s DERIVATIVE status for the eigenspace split is unchanged. Open free-mult note below is superseded by DISC-0020.

@@ -1,10 +1,40 @@
 # Discovery index
 
-This page is the graph for the 2026-10-01 read-only audit. It does not change the Stage-1 freeze. It does not raise any claim level. It only indexes what the named repositories already say. A 2026-10-02 append adds DISC-0013, DISC-0014, and DISC-0015 on the same terms. A later 2026-10-02 append adds DISC-0016 on the same terms. A further 2026-10-02 append adds DISC-0017 from ware-constant-phenomenology on the same terms.
+This page is the graph for the 2026-10-01 read-only audit. It does not change the Stage-1 freeze. It does not raise any claim level. It only indexes what the named repositories already say. A 2026-10-02 append adds DISC-0013, DISC-0014, and DISC-0015 on the same terms. A later 2026-10-02 append adds DISC-0016 on the same terms. A further 2026-10-02 append adds DISC-0017 from ware-constant-phenomenology on the same terms. A further 2026-10-02 append adds DISC-0018 and DISC-0019 from -ware-constant-derivation on the same terms. A further 2026-10-02 append adds DISC-0020, DISC-0021, and DISC-0022 from finite-gasket-spectral-derivatives at 19a1264e4511a2ff2e60e55040590e250372d3f0 on the same terms. A 2026-10-08 append adds DISC-0023 and DISC-0024 from optimization-limit-conjecture. Those two are archive-derived corollaries of that repository's own Theorem A, not statements the repository makes; they do not raise any claim level. A later 2026-10-08 append adds DISC-0025 from finite-gasket-spectral-derivatives at e1b8f2737ecf1aa8fc21b999560b648dff087b57 on the same terms. A further 2026-10-08 append adds DISC-0026 and DISC-0027 from finite-gasket-spectral-derivatives at 7b1495fe1dd322d17f7b7d840b22c7d9f29faf10 on the same terms. A further 2026-10-08 append adds DISC-0028, DISC-0029, and DISC-0030 from finite-gasket-spectral-derivatives at 7856c09ad9d566ab1cd6f10598aab660d352f635 on the same terms; DISC-0029 is THEOREM in the mathematical sense only. A further 2026-10-08 append adds DISC-0031 to DISC-0035 from informational-flux-identity GASKET.md at 81ab02b501aef7df2f5478f55d67d50f93595d56 on the same terms; DISC-0032 is THEOREM in the mathematical sense only, and DISC-0035 is an archive-derived conjecture, not a repository statement. The informational-flux-identity description matches its claim fence (no new mismatch). A further 2026-10-08 append adds DISC-0036 and DISC-0037 from finite-gasket-spectral-derivatives at bd212e6da68d4c71940c977400c66c507b40862a on the same terms; DISC-0036 is THEOREM in the mathematical sense only. A further 2026-10-08 append adds DISC-0038 from finite-gasket-spectral-derivatives at 172f1223983c2f0ba116510a28af9efeae45fb40 (THEOREM in the mathematical sense only) and DISC-0039 (KNOWN) and DISC-0040 (REJECTED) from informational-flux-identity at 5d931cf0eaca893135c92198de3dd81989629a4c on the same terms. Both repository descriptions still match their claim fences (no new mismatch). A further 2026-10-08 append adds DISC-0041 (DERIVATIVE) from finite-gasket-spectral-derivatives at 8d2cddf338b1c08b436273c505ec3b2273972828 and DISC-0042 (KNOWN) and DISC-0043 (REJECTED) from informational-flux-identity at 20e45cdb6b1bc16bff4739cc45ccba92fd446e33 on the same terms. Both repository descriptions still match their claim fences (no new mismatch). A further 2026-10-08 append adds DISC-0044 (KNOWN) and DISC-0045 (REJECTED) from informational-flux-identity at a1de4d9cf64fd360075d63f8a0a054871513fb2a and DISC-0046 (REJECTED) from finite-gasket-spectral-derivatives at 649cab9dd38be1818588424b3b02bdb3b75b04b6 on the same terms; the same finite-gasket commit extends DISC-0038 to k ≤ 46. Both repository descriptions still match their claim fences (no new mismatch). A further 2026-10-08 append adds DISC-0047 (THEOREM in the mathematical sense only) from finite-gasket-spectral-derivatives at 80e28408da5ef676833297167e998744ce0c6b55 and DISC-0048 (KNOWN) and DISC-0049 (REJECTED) from informational-flux-identity at 9e0fee59ee966cceefa8bc7a88870d25d71e43f8 on the same terms. Both repository descriptions still match their claim fences (no new mismatch). A further 2026-10-08 append adds DISC-0050 (THEOREM in the mathematical sense only) from finite-gasket-spectral-derivatives at b0cc73b9d0a550cff97477508d0e670665186a84 and DISC-0051 (DERIVATIVE) and DISC-0052 (REJECTED) from informational-flux-identity at d22771de4351d86c5b04d52e36bcfe1a0a22744f on the same terms. Both repository descriptions still match their claim fences (no new mismatch). A further 2026-10-08 append adds DISC-0053 (KNOWN) and DISC-0054 (REJECTED) and DISC-0055 (KNOWN) and DISC-0056 (REJECTED) from informational-flux-identity at d22771de4351d86c5b04d52e36bcfe1a0a22744f (Theorems Q and R, previously unread between P and S) on the same terms. Both repository descriptions still match their claim fences (no new mismatch). A further 2026-10-08 append adds DISC-0057 (KNOWN) and DISC-0058 (REJECTED) from informational-flux-identity at f495b0bf8d055e0df7581546814a5485af641476 (Theorem T; Kept Failure T.1) on the same terms. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-09 append adds DISC-0059 (KNOWN) and DISC-0060 (REJECTED) from informational-flux-identity at 769f963041764d8466d52c81ea744400422c578a (Theorem U; Kept Failure U.1) on the same terms. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-09 append adds DISC-0061 (KNOWN) and DISC-0062 (REJECTED) from informational-flux-identity at 87aa1030b701bf1258f7d44af373e21b6e559c85 (Theorem V; Kept Failure V.1) on the same terms. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-09 append adds DISC-0063 (DERIVATIVE) and DISC-0064 (REJECTED) from informational-flux-identity at 92b869ede53c77d04e923e4cf9be4537572bbb67 (Theorem W; Kept Failure W.1) on the same terms. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-15 append adds DISC-0065 (DERIVATIVE), DISC-0066 (REJECTED), and DISC-0067 (REJECTED) from informational-flux-identity at 3959241bfd57e6f68e7e906fe10351f446163666 (Theorem X; Kept Failures X.1–X.2), and DISC-0068 (KNOWN) and DISC-0069 (REJECTED) from informational-flux-identity at 391de98090da5e55b8e19e59ca63aef5db9122f3 (Theorem Y; Kept Failure Y.1), on the same terms. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-15 append adds DISC-0070 (KNOWN) and DISC-0071 (REJECTED) from informational-flux-identity at 1282986d667c7ff87164deca5a7834819d1f3555 (Theorem Z; Kept Failure Z.1) on the same terms. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-15 append adds DISC-0072 (THEOREM in the mathematical sense only) and DISC-0073 (REJECTED) from informational-flux-identity at e4be06f8fb772982dd9855fac6d9d5c2660eb9a7 (Theorem AA; Kept Failure AA.1) on the same terms. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-15 append adds DISC-0074 (THEOREM in the mathematical sense only) and DISC-0075 (CONJECTURE) from finite-gasket-spectral-derivatives at ffda804fb4406452fc79771a8d2d2b90a52550fb on the same terms. Its repository description still matches its claim fence (no new mismatch).
+ A further 2026-10-15 append adds DISC-0076 (THEOREM in the mathematical sense only) and DISC-0077 (REJECTED) from informational-flux-identity at 46915585f71b8d3292fa26d32405d8ff112d3d3a (Theorem AB; Kept Failure AB.1), and DISC-0078 (THEOREM in the mathematical sense only) and DISC-0079 (REJECTED) at 51789b3ef3c56d6e678f9df35dd276a1c8657a87 (Theorem AC; Kept Failure AC.1), on the same terms. DISC-0078 widens the scope of DISC-0072 (recorded as an edge; DISC-0072 not edited); DISC-0034 stays OPEN. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-15 append adds DISC-0080 (THEOREM in the mathematical sense only) and DISC-0081 (REJECTED) from informational-flux-identity at b8b48ad72bf62d57da7a69bc5b2b9b63a2e51c5f (Theorem AD; Kept Failure AD.1) on the same terms. DISC-0080 settles the α=log3/log5 endpoint left open by DISC-0078/DISC-0079 (recorded as edges; those rows not edited); DISC-0034 stays OPEN. finite-gasket-spectral-derivatives da424cf1b1b08d0adba625407fb859e8badf2c4b extends the exact range to k ≤ 47 (range note on DISC-0038, DISC-0030, DISC-0027; no new row, no status change; m = 12 pending at 759170d30b20839f61eec37abb821689272ecbfb not indexed). Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-15 append adds DISC-0082 (THEOREM in the mathematical sense only) and DISC-0083 (REJECTED) from informational-flux-identity at d793add3f4be3ed73d19678b995e38d55b2481a8 (Theorem AE; Kept Failure AE.1) on the same terms. DISC-0082 sharpens the DISC-0076 weight ceiling to 8^α/2 and reduces DISC-0034 to whether ((1−λ_n)/λ_n)γ_n → ∞ (recorded as edges; those rows not edited); DISC-0034 stays OPEN. finite-gasket-spectral-derivatives not re-indexed (m = 12 pending; DISC-0030 stays CONJECTURE). Its repository description still matches its claim fence (no new mismatch).
+ A further 2026-10-15 append adds DISC-0084 (THEOREM in the mathematical sense only) and DISC-0085 (REJECTED) from informational-flux-identity at f5f89d9c359498d6be6c952b51a96af7914ad831 (Theorem AF; Kept Failure AF.1) on the same terms. DISC-0084 floors λ_n uniformly and sharpens the DISC-0082 ceiling to w_n ≤ 2^(α−1); it makes γ_n → ∞ necessary (not sufficient) for DISC-0034 (recorded as edges; those rows not edited); DISC-0034 stays OPEN. finite-gasket-spectral-derivatives not re-indexed (m = 12 lifts pending; DISC-0030 and DISC-0075 stay CONJECTURE). Its repository description still matches its claim fence (no new mismatch).
+ A further 2026-10-15 append adds DISC-0086 (THEOREM in the mathematical sense only) and DISC-0087 (REJECTED) from informational-flux-identity at e20e13fbe9528abb93e0c430bb810a341622356b (Theorem AG; Kept Failure AG.1) on the same terms. DISC-0086 ceilings λ_n uniformly below 1 and so supplies the converse DISC-0084 left unclaimed: for α<log3/log5, DISC-0034 is now exactly whether γ_n → ∞ (recorded as edges; those rows not edited); DISC-0034 stays OPEN. finite-gasket-spectral-derivatives not re-indexed (m = 12 lifts pending; DISC-0030 and DISC-0075 stay CONJECTURE). Its repository description still matches its claim fence (no new mismatch).
+ A further 2026-10-15 append adds DISC-0088 (THEOREM in the mathematical sense only) and DISC-0089 (REJECTED) from informational-flux-identity at 167ef7c0c8f0ba365751cab033da77a3b48def96 (Theorem AH; Kept Failure AH.1) on the same terms. DISC-0088 ceilings γ_n uniformly and floors ‖F(n,α)‖ away from zero for every α<log3/log5 (at α=0.45, ‖F‖≥6.44·10^{−4} via AA), so vanishing is closed; DISC-0034 stays CONJECTURE for convergence and Conjecture J.1 (L≥0.70) (recorded as edges; DISC-0034 row not edited). finite-gasket-spectral-derivatives tip 1484af6a15de9d50b957d6406b5c54495a31e6bd (m=12 filter done + lift k=268 S=0=0; 512/2048/4096 pending; excess ≤12 not claimed; reduced walk KMAX=48 started at 3da61736) is not indexed; DISC-0030 and DISC-0075 stay CONJECTURE. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-15 append adds DISC-0090 (THEOREM in the mathematical sense only) and DISC-0091 (REJECTED) from informational-flux-identity at cfdc7de313215a4bd0f56d9e56c7d2f9c8f96ba8 (Theorem AI; Kept Failure AI.1) on the same terms. DISC-0090 sharpens DISC-0088 by the two-neighbor sum w_pj+w_qj≥2w_aj (κ→1), so Γ_AI≈32.32 and ‖F(n,0.45)‖≥0.051988 (~80.7× AH); DISC-0034 stays CONJECTURE for convergence and Conjecture J.1 (L≥0.70) (recorded as edges; DISC-0034 row not edited; commit does not prove L≥0.70). finite-gasket-spectral-derivatives tip 1484af6a15de9d50b957d6406b5c54495a31e6bd (m=12 filter done + lift k=268 S=0=0; 512/2048/4096 pending; excess ≤12 not claimed) is not indexed; DISC-0030 and DISC-0075 stay CONJECTURE. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-15 append adds DISC-0092 (THEOREM in the mathematical sense only) and DISC-0093 (REJECTED) from informational-flux-identity at bf808891d7ff130e78a8bc2722cad1e41effa794 (Theorem AJ; Kept Failure AJ.1) on the same terms. DISC-0092 sharpens DISC-0090 by keeping the neighbor-edge weight w_pq≥α4^(α−1) in the exact harmonicity identity at p,q, so H_AJ=(4^α/2)(1−α/4), Γ_AJ≈28.69 and ‖F(n,0.45)‖≥0.055599 (~1.069× AI); DISC-0034 stays CONJECTURE for convergence and Conjecture J.1 (L≥0.70) (recorded as edges; DISC-0034 row not edited; commit does not prove L≥0.70). finite-gasket-spectral-derivatives tip 1484af6a15de9d50b957d6406b5c54495a31e6bd (m=12 filter done + lift k=268 S=0=0; 512/2048/4096 pending; excess ≤12 not claimed) is not indexed; DISC-0030 and DISC-0075 stay CONJECTURE. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-15 append adds DISC-0094 (THEOREM in the mathematical sense only) and DISC-0095 (REJECTED) from informational-flux-identity at d45c90c7fb92ae96d70edbe73e73b42c3206e55e (Theorem AK; Kept Failure AK.1) on the same terms. DISC-0094 sharpens DISC-0092 by two-moment Jensen on spec(L)⊂[0,6] (L=3diag(c)−NᵀN), lowering the diagonal ceilings to D_a⁺=6^α/9+(8/9)(3/2)^α and D_p⁺=(6^α+2^α)/2, so σ_AK≈0.701556 and ‖F(n,0.45)‖≥0.058941 (~1.060× AJ); DISC-0095 shows the one-step neighbor-Harnack chain stays below 0.70 from level 4 even with live constants (chain σ≈0.9529<1), so that family cannot prove J.1. DISC-0034 stays CONJECTURE for convergence and Conjecture J.1 (L≥0.70) (recorded as edges; DISC-0034 row not edited). finite-gasket-spectral-derivatives tip 87ae4e6ff81335032c8642059b785c14f0d04370 (excess m=12 lift k=524 S=0=0; 2048/4096 pending; excess ≤12 not claimed) is a range note only, not indexed; DISC-0030 and DISC-0075 stay CONJECTURE. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-15 append adds DISC-0096 (THEOREM in the mathematical sense only) and DISC-0097 (REJECTED) from informational-flux-identity at 483de961575bca353a2cd3ff6719b8a357610a87 (Theorem AL; Kept Failure AL.1) on the same terms. DISC-0096 sharpens DISC-0072 by Hermite–Hadamard on the path integrand for α≥α_*=(14−8√2)/34, replacing C(α) by R_∞(α)=4^(−α)(4/π)B(1/2−α,3/2), so at α=0.45 Q≥0.169873, ‖F_frac‖≥0.111208 (~1.324× AA), and with AK ‖F(n,0.45)‖≥0.078019 (~1.324× AK's 0.058941); DISC-0097 shows the sharp path ceiling still cannot reach 0.70 (σ_AK·0.111208≈0.078; even 2^(1−α)·0.111208≈0.163). DISC-0034 stays CONJECTURE for convergence and Conjecture J.1 (L≥0.70) (recorded as edges; DISC-0034 row not edited). finite-gasket-spectral-derivatives tip 87ae4e6ff81335032c8642059b785c14f0d04370 (excess m=12 lift k=524 S=0=0; 2048/4096 pending; excess ≤12 not claimed) is a range note only, not indexed; DISC-0030 and DISC-0075 stay CONJECTURE. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-15 append adds DISC-0098 (THEOREM in the mathematical sense only) and DISC-0099 (REJECTED) from informational-flux-identity at 0a11b759297d446a05f203ae18aea505e6fa4e86 (Theorem AM; Kept Failure AM.1) on the same terms. DISC-0098 replaces AL's single-side path by the full boundary cycle C_{3m} and ceilings its corner resistance by R^cyc_∞(α)=(1−α)R_∞(α) on all of (0,1/2) via Fourier and heat-kernel periodization, using all three corners, so at α=0.45 Q≥0.320299, ‖F_frac‖≥0.209685 and with AK ‖F(n,0.45)‖≥0.147106 (~1.886× AL's 0.078019); DISC-0099 shows the boundary cycle still cannot reach 0.70 and that no resistance ceiling can rescue the σ_AK chain (σ_AK·live ‖F_frac‖ < 0.70 from level 2; ≈0.457 at level 6). DISC-0034 stays CONJECTURE for convergence and Conjecture J.1 (L≥0.70) (recorded as edges; DISC-0034 row not edited). finite-gasket-spectral-derivatives tip 742ddccfcee274e39449cf38634d14b05bb9004d (deg-R structural checks d_0/recurrence/evenness finite exact through m≤12; deg R m≥13 open; excess ≤12 not claimed) is a range note only, not indexed; DISC-0030 and DISC-0075 stay CONJECTURE. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-15 append adds DISC-0100 (THEOREM in the mathematical sense only) and DISC-0101 (REJECTED) from informational-flux-identity at 7edc36aaf6f28959f43698c7c1b8f37230ec8be5 (Theorem AN; Kept Failure AN.1) on the same terms. DISC-0100 replaces AM's bare boundary cycle by the boundary fence/collar (cycle + inward unit-triangle spokes) and ceilings its resistance by the Bloch integral R^fen_∞(α)+1/2, so at α=0.45 Q≥0.466470, ‖F_frac‖≥0.305377 and with AK ‖F(n,0.45)‖≥0.214239 (~1.456× AM's 0.147106); DISC-0101 shows the fence still cannot reach 0.70 (σ_AK·0.305377≈0.214; even 2^(1−α)·0.305377≈0.447) and does not rescue the AM.1 σ_AK chain. DISC-0034 stays CONJECTURE for convergence and Conjecture J.1 (L≥0.70) (recorded as edges; DISC-0034 row not edited). finite-gasket-spectral-derivatives tip adab35fb0d4ec59a72561d20bcaafe580938ab94 (deg-R structural checks and deg R=2^m−2 finite exact through m≤13, 512 orbit prefixes zero mismatches; excess ≤12 not claimed) is a range note only, not indexed; DISC-0030 and DISC-0075 stay CONJECTURE. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-15 append adds DISC-0102 (THEOREM in the mathematical sense only) and DISC-0103 (REJECTED) from informational-flux-identity at 7f0099c3161ce2fa714c414cbae44bb316fc68f2 (Theorem AO; Kept Failure AO.1) on the same terms. DISC-0102 thickens AN's boundary collar by one layer (every-other apex–apex edges) and ceilings it by the period-2 Bloch integral R^d2_∞(α)+11/20, so at α=0.45 Q≥0.484089, ‖F_frac‖≥0.316911 and with AK ‖F(n,0.45)‖≥0.222331 (~1.038× AN's 0.214239); archive erratum, digits only: R^d2_∞(0.45)=4.269089 (repo 4.270047 overstated by ≈9.6e-4, conservative; floors stay valid); δ₂<0.55 remains a finite-range witness (archive L1–10, →≈0.445). DISC-0103 shows the depth-2 ceiling still cannot reach 0.70 (σ_AK·0.316911≈0.222; even 2^(1−α)·0.316911≈0.464) and does not rescue the σ_AK chain (live ≤0.598 on L2–7). DISC-0034 stays CONJECTURE for convergence and Conjecture J.1 (L≥0.70) (recorded as edges; DISC-0034 row not edited). finite-gasket-spectral-derivatives tip 236e2d1faeacd3cbfe3891472c14f6aba0f3471f (reduced walk KMAX=48 zeros=0; S_k≠0 for k≤48; exact h_n for 3≤n≤50; excess ≤12 still pending, not claimed) is a range note only, not indexed; DISC-0030 and DISC-0075 stay CONJECTURE. Both repository descriptions still match their claim fences (no new mismatch).
+ A further 2026-10-22 append adds DISC-0104 (THEOREM in the mathematical sense only), DISC-0105 (REJECTED), DISC-0106 (THEOREM in the mathematical sense only), DISC-0107 (REJECTED), and DISC-0108 (CONJECTURE) from informational-flux-identity at a1486faddc997650ce5b786104490aa6d13d2104 (Theorem AP; Kept Failure AP.1) and 4b4509f6f086f3f52b034f55508862f130381f2b (Theorem AQ; Kept Failure AQ.1) on the same terms. DISC-0104 gives the exact share identity σ_n=(L^(1−α))_aa+ω_n and the corner-moment Gauss–Radau floor σ_n≥1.310267 at α=0.45 (audit floor 0.274743 AM / 0.415238 AO as stated); DISC-0105 shows no share floor lifts the AM–AO fractional floors to 0.70 and names the open resistance ceiling ≤2.859237. DISC-0106 proves exact spectral decimation of the corner resolvent, strict decrease and convergence of ‖F(n,α)‖ for every α∈(0,1), and by interval certificate 𝓛(0.45)∈[0.819255,0.822959] (archive independent re-certification with exact α=9/20: [0.819784,0.822494]); this proves Conjecture J.1, so DISC-0034 changes status CONJECTURE → THEOREM for J.1 (status history kept; row and note appended, not rewritten), and its J.2 part is carried forward as DISC-0108 (CONJECTURE). DISC-0107 rejects a positive limit for α≥log3/log5. DISC-0035 stays CONJECTURE (prediction ≈0.8211 inside the bracket). The IFI repository description still matches its claim fence (no new mismatch).
+ A further 2026-10-22 append adds DISC-0109 (THEOREM in the mathematical sense only, conditional on DISC-0106's certificate; novelty UNRESOLVED) and DISC-0110 (REJECTED) from informational-flux-identity at 3ec0a064caa5c70d6c4bfb23e7c37af89091abb2 (Theorem AR, exact refinement rates; Kept Failure AR.1). DISC-0035 and DISC-0108 keep their status (edges only).
+ A further 2026-10-22 append adds DISC-0111 (THEOREM in the mathematical sense only, computer-assisted, conditional on DISC-0106; novelty UNRESOLVED) and DISC-0112 (REJECTED) from informational-flux-identity at a6e6c74b680d6ef126b5e4b7cc1de3a939c2dcc7 (Theorem AS; Kept Failure AS.1). DISC-0111 certifies 𝓛(0.45)=0.8211386271335… and 𝓛(0.10)>1.410638933063, proving Conjecture J.2: DISC-0108 changes status CONJECTURE → THEOREM (history kept). DISC-0035 keeps its status (edge only).
+ A further 2026-10-22 append adds DISC-0113 (THEOREM in the mathematical sense only, computer-assisted, conditional on DISC-0106, DISC-0109, DISC-0111; novelty UNRESOLVED), DISC-0114 (REJECTED) and DISC-0115 (CONJECTURE, repository's own) from informational-flux-identity at 68af4dd0c3989732a1b8b8ea0275948b7c33051a (Theorem AT; Kept Failure AT.1; Conjecture AT.2). DISC-0109 keeps its status (constants now certified; edge only).
+ A further 2026-10-22 append adds DISC-0116 (THEOREM in the mathematical sense only; parts 1–2 proved, part 3 computer-assisted; novelty UNRESOLVED) and DISC-0117 (REJECTED) from informational-flux-identity at b036dcfb89e66ffa51ebf8407c08996d7fa3d17e (Theorem AU; Kept Failure AU.1). DISC-0116 proves Conjecture AT.2: DISC-0115 changes status CONJECTURE → THEOREM (history kept).
+ A further 2026-10-22 append adds DISC-0118 (KNOWN) and DISC-0119 (REJECTED) from informational-flux-identity at 9fc8c7a3e2d680395a095c36f0daf90df776d043 (Theorem AV, nonlocal convolution and fractional Maxwell-form readings; Kept Failure AV.1). The repository description still matches its claim fence (no new mismatch).
+ A further 2026-10-22 append adds DISC-0120 (KNOWN), DISC-0121 (REJECTED) and DISC-0122 (CONJECTURE, repository's own) from informational-flux-identity at 7a12ab736327e6d314c2035b7c8cfb95a2025dc6 (Theorem AW, slow-tail smoothing readings (−Δ)^{−τ}Ψ; Kept Failure AW.1; Conjecture AW.4). No existing status changes. The repository description still matches its claim fence (no new mismatch).
+ A further 2026-10-22 append adds DISC-0123 (THEOREM in the mathematical sense only; novelty UNRESOLVED) and DISC-0124 (REJECTED) from informational-flux-identity at e81b8148608b360254f88c0534e71ace97c54783 (Theorem AX; Kept Failure AX.1). DISC-0123 proves Conjecture AW.4: DISC-0122 changes status CONJECTURE → THEOREM (history kept). A further 2026-10-22 append adds DISC-0125 (THEOREM in the mathematical sense only; method KNOWN, constants novelty UNRESOLVED) and DISC-0126 (REJECTED) from informational-flux-identity at 8517f2bac0f79c5c76b1ef9d03517582bc8d06e2 (Theorem AY; Kept Failure AY.1). DISC-0125 resolves DISC-0116's open certified-C_γ item and corrects AU's float C_γ by 1.7e−14 (no status change to DISC-0116; history kept). A further 2026-10-22 append adds DISC-0127 (THEOREM in the mathematical sense only; method KNOWN, constants novelty UNRESOLVED) and DISC-0128 (REJECTED) from informational-flux-identity at 5404c3be371c35f0f2c571e218351cb574386b83 (Theorem AZ; Kept Failure AZ.1). DISC-0127 sharpens DISC-0109's Θ bound (no status change; history kept). A further 2026-10-22 append adds DISC-0129 (THEOREM in the mathematical sense only; method KNOWN, constants novelty UNRESOLVED), DISC-0130 (REJECTED) and DISC-0131 (CONJECTURE, repository's own) from informational-flux-identity at fe388f3b633ff0cafbfd653758afde0ab7284b93 (Theorem BA, Maxwell-form reading on the frozen 0.45 mesh; Kept Failure BA.1; Conjecture BA.2). DISC-0129 answers the GASKET.md Stage 2 OPEN question for this one reading (nonzero residual), and DISC-0130 records the repository's rejection of reading it as an informational signal. No earlier status changes; history kept. A further 2026-10-22 append adds DISC-0132 (THEOREM in the mathematical sense only; method KNOWN, constant K(0.45) novelty UNRESOLVED), DISC-0133 (REJECTED) and DISC-0134 (CONJECTURE, repository's own) from informational-flux-identity at 3b98cd7aa7c102a5b9c44cedeef3ed123c53f23d (Theorem BB; Kept Failure BB.1; Conjecture BB.2). DISC-0132 proves Conjecture BA.2: DISC-0131 changes status CONJECTURE → THEOREM (history kept), and its float estimate ≈−0.86 is corrected to K(0.45)=−0.85464690512…. The repository description still matches its claim fence (no new mismatch). A further 2026-10-22 append adds DISC-0135 (THEOREM in the mathematical sense only; method KNOWN, constants novelty UNRESOLVED), DISC-0136 (REJECTED) and DISC-0137 (CONJECTURE, repository's own) from informational-flux-identity at c7a0cf681bf54979d31ff5c28c8ef9b0dad530b9 (Theorem BC, centred stencil on the frozen 0.45 gasket; Kept Failure BC.1; Conjecture BC.2). No earlier status changes; history kept. The IFI repository description still matches its claim fence (no new mismatch). A further 2026-10-22 append adds DISC-0138 (THEOREM in the mathematical sense only; method KNOWN, constants c(α) novelty UNRESOLVED), DISC-0139 (REJECTED) and DISC-0140 (CONJECTURE, repository's own) from informational-flux-identity at 30bee3aab038a818c28144ef7d9787eaccdedf5a (Theorem BD; Kept Failure BD.1; Conjecture BD.2). DISC-0138 proves Conjecture BC.2: DISC-0137 changes status CONJECTURE → THEOREM (history kept). The IFI repository description still matches its claim fence (no new mismatch). A further 2026-10-22 append adds DISC-0141 (THEOREM in the mathematical sense only; method KNOWN, constants 3S and c(0^+) novelty UNRESOLVED), DISC-0142 (REJECTED) and DISC-0143 (CONJECTURE, repository's own) from informational-flux-identity at 3b3ec0fef920f85fa1098074e22ee3bdafe73a26 (Theorem BE; Kept Failure BE.1; Conjecture BE.2). DISC-0141 decides Conjecture BD.2 in part: DISC-0140 changes status CONJECTURE → THEOREM for the decrease and c(1^−)=2, and its c(0^+)=∞ part is REJECTED as DISC-0142 (history kept). The IFI repository description still matches its claim fence (no new mismatch). A further 2026-10-22 append adds DISC-0144 (THEOREM in the mathematical sense only, computer-assisted; method KNOWN, constants novelty UNRESOLVED) and DISC-0145 (CONJECTURE, repository's own) from informational-flux-identity at b090826f15adc93d8ed6cbf352346dabb31ea136 (Theorem BF; Conjecture BF.2). DISC-0144 proves Conjecture BE.2, so DISC-0143 changes status CONJECTURE → THEOREM (history kept). No claim level is raised; not thrust. A further 2026-10-22 append adds DISC-0146 (THEOREM in the mathematical sense only; method KNOWN, constants novelty UNRESOLVED), DISC-0147 (REJECTED) and DISC-0148 (CONJECTURE, repository's own) from informational-flux-identity at 073ace5091ac17b2adcd2eb956ef8f0bf0a14bce (GASKET Theorem BG: first non-scalar refinement limit, flat for α≤log3/log5; Kept Failure BG.1; Conjecture BG.2). No status changes; not thrust. A further 2026-10-22 append adds DISC-0149 (THEOREM in the mathematical sense only; method KNOWN, constants novelty UNRESOLVED) and DISC-0150 (CONJECTURE, repository's own) from informational-flux-identity at 156d8ce80c73147e3dc8aa34cbcea2ce6e42d989 (GASKET Theorem BH: universal corner boundary layer profile resolving Kept Failure BG.1; Conjecture BH.7). DISC-0147 stays REJECTED (explained, history kept); DISC-0148 (BG.2) not decided. Not thrust. A further 2026-10-22 append adds DISC-0151 (THEOREM in the mathematical sense only, constants computer-assisted; method KNOWN, constants novelty UNRESOLVED) and DISC-0152 (CONJECTURE, repository's own) from informational-flux-identity at 2e4d0d4ffe30a99ea0154e1aaa8b95069927b162 (GASKET Theorem BI; Conjecture BI.7). DISC-0151 proves Conjecture BG.2, so DISC-0148 changes status CONJECTURE → THEOREM (history kept in its row and document). The IFI repository description still matches its claim fence (no new mismatch). Not thrust. A 2026-10-23 append adds DISC-0153 (THEOREM in the mathematical sense only, constants computer-assisted; method KNOWN, constants novelty UNRESOLVED) and DISC-0154 (CONJECTURE, repository's own) from informational-flux-identity at 815003f22507fa34258d8b917a0e3a776340b16a (GASKET Theorem BJ; Conjecture BJ.7). DISC-0153 proves Conjecture BI.7 items 1–2: DISC-0152 changes status CONJECTURE → THEOREM (history kept). A further 2026-10-23 append adds DISC-0155 (THEOREM in the mathematical sense only, constants computer-assisted; method KNOWN, constants novelty UNRESOLVED) and DISC-0156 (CONJECTURE, repository's own) from informational-flux-identity at 00d0d28b71db264b070be23c73f8e3f67de704db (GASKET Theorem BK; Conjecture BK.6). DISC-0155 proves Conjecture BJ.7 as an O(ρ^−n) upper bound: DISC-0154 changes status CONJECTURE → THEOREM (history kept). A further 2026-10-23 append adds DISC-0157 (THEOREM in the mathematical sense only, constants computer-assisted; method KNOWN, constants novelty UNRESOLVED), DISC-0158 (REJECTED) and DISC-0159 (CONJECTURE, repository's own) from informational-flux-identity at dfc145a9833f96b8960667c572aca38d48adfc17 (GASKET Theorem BL; Kept Failure BL.0; Conjecture BL.6). DISC-0156 splits: sharpness half THEOREM (α=0.8, N≥9), N=0 REJECTED, limit CONJECTURE (history kept). A further 2026-10-23 append adds DISC-0160 (THEOREM in the mathematical sense only; method KNOWN, constants novelty UNRESOLVED) from informational-flux-identity at c9ca93479dbee307e77705a052d995029938a630 (GASKET Theorem BM). DISC-0156's THEOREM part widens to every α∈(γ,1) for N≥N₀(α) (history kept). A further 2026-10-23 append adds DISC-0161 (THEOREM in the mathematical sense only; method KNOWN, constants novelty UNRESOLVED) from informational-flux-identity at 335860e44ebff5d3ad55498d4efc9f96c5ff8d12 (Theorem BN: monotone one-level weight ω_k for α≥1/17; ρ^−n rate attained for every N≥1 above γ). DISC-0156's THEOREM part widens to every N≥1; DISC-0159 splits (monotonicity clause THEOREM, limit clause CONJECTURE). Document: mathematics/DISC-0161-theorem-BN-monotone-weight-rate-every-N.md. A further 2026-10-23 append adds DISC-0162 (THEOREM in the mathematical sense only; method KNOWN, a* novelty UNRESOLVED) and DISC-0163 (REJECTED) from informational-flux-identity at 18bb38dcc3688510f2ef44134db70aa8f47fb530 (Theorem BO: exact exponent threshold a*≈0.01677888017 for monotone ω_k; Kept Failure BO.1). DISC-0159's monotonicity clause widens to α≥A_hi. Documents: mathematics/DISC-0162-theorem-BO-exact-exponent-threshold-monotone-weight.md, failed-hypotheses/DISC-0163-kept-failure-BO1-weight-not-monotone-below-a-star.md. A further 2026-10-23 append adds DISC-0164 (THEOREM in the mathematical sense only; method KNOWN) from informational-flux-identity at 4ee50b22193b5b24b0677a30e83403957f053f5b (Theorem BP: δ_N^(n) increasing in n for every α∈(0,1), including below a* where ω_k is not monotone). DISC-0159's monotonicity clause widens to every α∈(0,1); DISC-0163 stays REJECTED for the weight (does not propagate). Document: mathematics/DISC-0164-theorem-BP-monotone-deficit-every-alpha.md. A further 2026-10-23 append adds DISC-0165 (THEOREM in the mathematical sense only, constants computer-assisted; method KNOWN, constants novelty UNRESOLVED) and DISC-0166 (REJECTED) from informational-flux-identity at 01c39d01aa86aa64eb165f85f28503f2e3209974 (Theorem BQ: 1−δ_N^(n) has exact order ρ^n below γ, ρ^−n(1−δ_N^(n))→C_N=P_N/D_∞; Kept Failure BQ.1: the renormalised deficit is neither monotone nor one-sided). Answers DISC-0164's open rate question; DISC-0159's limit clause (above γ) stays CONJECTURE. Documents: mathematics/DISC-0165-theorem-BQ-exact-rate-deficit-below-gamma.md, failed-hypotheses/DISC-0166-kept-failure-BQ1-renormalised-deficit-not-monotone.md. A further 2026-10-23 append adds DISC-0167 (THEOREM in the mathematical sense only, constants computer-assisted; method KNOWN, c_∞ novelty UNRESOLVED) from informational-flux-identity at bed41594e18cbcb7af443349e9e3c6ea11426c26 (Theorem BR: corner deficit decreasing in depth N at every level; below γ ρ^N C_N strictly increases to finite c_∞(α); no Kept Failure). Answers DISC-0165's open N-dependence (no status change). Document: mathematics/DISC-0167-theorem-BR-deficit-depth-dependence.md. A further 2026-10-23 append adds DISC-0168 (THEOREM in the mathematical sense only, constants computer-assisted; method KNOWN, χ_∞ novelty UNRESOLVED) and DISC-0169 (CONJECTURE, repository's own) from informational-flux-identity at 316ee92917b18b6c95346b02c2e1fd7f7bb05dac (Theorem BS: ρ^N C_N→c_∞ at the exact rate ρ^N via the exact identity 1/𝓡=1/Q_∞+Φ; certified C_N, N=1–6; Conjecture BS.4). Answers DISC-0167's open rate and individual-N questions (no status change). Documents: mathematics/DISC-0168-theorem-BS-exact-rate-depth-limit-reciprocal-identity.md, mathematics/DISC-0169-conjecture-BS4-monotone-renormalised-depth-gap.md. A further 2026-10-23 append adds DISC-0170 (THEOREM in the mathematical sense only; method KNOWN, closed form and novelty UNRESOLVED) from informational-flux-identity at 48a561c16bce15b0a0992015fa063d5311ebd5d5 (Theorem BT). Kept Failure BT.5 is noted on DISC-0114 (no new ID); no status changes. A further 2026-10-23 append adds DISC-0171 (THEOREM in the mathematical sense only; method KNOWN, closed form and novelty UNRESOLVED) and DISC-0172 (REJECTED) from informational-flux-identity at ad459e306e19ac3ac4f1e3a74f6e7738ac9b5195 (Theorem BU; Kept Failure BU.4). Answers DISC-0170's open F̂_k=θ̂_k question; no status changes. Documents: mathematics/DISC-0171-theorem-BU-profile-is-AU-theta-second-order-certificate.md, failed-hypotheses/DISC-0172-kept-failure-BU4-profile-not-half-period-antisymmetric.md. A further 2026-10-23 append adds DISC-0173 (THEOREM in the mathematical sense only; method KNOWN), DISC-0174 (REJECTED) and DISC-0175 (CONJECTURE, repository's own) from informational-flux-identity at cec4aff731cef6bb581c318f736de79d68d90b1f (Theorem BV; Kept Failure BV.5; Conjecture BV.6). No status changes. A further 2026-10-29 append adds DISC-0180 (THEOREM in the mathematical sense only; method KNOWN) and DISC-0181 (REJECTED) from informational-flux-identity at f9942d98a5fa5e535f07b83e6362bde6344af6f0 (Theorem BZ); DISC-0175 changes status from CONJECTURE to SPLIT (asymptotic part REJECTED by Kept Failure BZ.6, sharp rate and maximal strip proved).
+
+
 
 The existing ledger is docs/SURVIVED_REJECTED_UNRESOLVED.md. This archive points at that file. It does not resolve the open items there.
 
-The row-by-row table is DISCOVERY_LEDGER.md. Confirmed rows in that table are DISC-0001, DISC-0005, and DISC-0012. DISC-0013, DISC-0014, DISC-0015, DISC-0016, and DISC-0017 are rejected readings, not confirmed rows.
+The row-by-row table is DISCOVERY_LEDGER.md. Confirmed rows in that table are DISC-0001, DISC-0005, and DISC-0012. DISC-0019, DISC-0021, DISC-0022, DISC-0023, DISC-0025, DISC-0026, DISC-0028, DISC-0031, DISC-0041, DISC-0051, DISC-0063, and DISC-0065 are derivative records, not new confirmations. DISC-0020 is a novelty candidate, not a confirmation. DISC-0027, DISC-0030, DISC-0035, DISC-0075, and DISC-0108 are open conjectures, not claims (DISC-0035 is archive-derived). DISC-0034 was an open conjecture until 2026-10-22 and is now a proved result for Conjecture J.1 (via DISC-0106), not a novelty claim; its J.2 part is DISC-0108. DISC-0029, DISC-0032, DISC-0036, DISC-0038, DISC-0047, DISC-0050, DISC-0072, DISC-0074, DISC-0076, DISC-0078, DISC-0080, DISC-0082, DISC-0084, DISC-0086, DISC-0088, DISC-0090, DISC-0092, DISC-0094, DISC-0096, DISC-0098, DISC-0100, DISC-0102, DISC-0104, and DISC-0106 are proved elementary results, not novelty claims. DISC-0013, DISC-0014, DISC-0015, DISC-0016, DISC-0017, DISC-0018, DISC-0024, DISC-0033, DISC-0037, DISC-0040, DISC-0043, DISC-0045, DISC-0046, DISC-0049, DISC-0052, DISC-0054, DISC-0056, DISC-0058, DISC-0060, DISC-0062, DISC-0064, DISC-0066, DISC-0067, DISC-0069, DISC-0071, DISC-0073, DISC-0077, DISC-0079, DISC-0081, DISC-0083, DISC-0085, DISC-0087, DISC-0089, DISC-0091, DISC-0093, DISC-0095, DISC-0097, DISC-0099, DISC-0101, DISC-0103, DISC-0105, and DISC-0107 are rejected readings, not confirmed rows. DISC-0039, DISC-0042, DISC-0044, DISC-0048, DISC-0053, DISC-0055, DISC-0057, DISC-0059, DISC-0061, DISC-0068, and DISC-0070 are classical identities (KNOWN) applied to the frozen symbol, not new confirmations.
 
 ## Graph
 
@@ -30,5 +60,550 @@ Each edge is labeled mathematical, computational, or historical.
 - DISC-0015 hangs off DISC-0014 and DISC-0002. Label: historical. momentum-closure HEAD moved; the new pointer does not inherit 0.08 and does not certify the calculation.
 - DISC-0016 hangs off DISC-0002, DISC-0011, and DISC-0014. Label: historical. m2-renormalization-law at 73a1f161 says the pinch test, the Neumann crossing, and the declared scale functional do not derive the seed 0.08 or xi = 0.23. The kernel sentence in SPECTRAL_ENDPOINT_POINTER.md stays on DISC-0002.
 - DISC-0017 hangs off DISC-0002, DISC-0011, and DISC-0016. Label: computational. ware-constant-phenomenology at 8db3fc8 says SPARC χ² as a pass is UNSUPPORTED (median χ²_red = 9.098 on committed Lelli+2016) and numerical W=0.08 is NOT DERIVED. It does not reopen the kernel sentence on DISC-0002.
+- DISC-0018 hangs off DISC-0002, DISC-0011, DISC-0014, DISC-0016, and DISC-0017. Label: historical. -ware-constant-derivation at ecb4795 says Numerical W=0.08 is NOT DERIVED, pinch-family selection is REJECTED, and beta=-0.005888 is CIRCULAR. The GitHub description claim of a rigorous derivation from thrust/LDOS is provenance mismatch, not a physics result.
+- DISC-0019 hangs off DISC-0018 and DISC-0003. Label: mathematical. Same derivation repository; constant-W action / source / concavity are DERIVATIVE classical Gaussian identities under model K and do not select 0.08.
+- DISC-0007 → DISC-0020. Label: historical. Same repository; later HEAD claims free mult(6) for all n ≥ 2 (plus free mult(5) and mult(3)), closing the open note on DISC-0007.
+- DISC-0005 → DISC-0020. Label: mathematical. SPECTRUM.md numerical exceptional multiplicities are the lines being upgraded.
+- DISC-0020 → DISC-0021. Label: mathematical. Exceptional mass is the arithmetic corollary of the three free multiplicity formulas.
+- DISC-0005 → DISC-0022. Label: mathematical. SPECTRUM.md Dirichlet ratio table / → 1/5 line upgraded via classical Qiu structure.
+- DISC-0020 hangs off DISC-0008 only negatively. Label: mathematical. Presence of free eigenvalues 3 and 5 continues to block two-point {0, 6} saturation.
+- DISC-0021 hangs off DISC-0005. Label: computational. Complementary mass 1 − μ_exc → 4/9 is consistent with, but does not prove, the numerical hit-rate string.
+- DISC-0023 stands apart from the W family. Label: mathematical. optimization-limit-conjecture at 9d3aed50 has R_∞ in closed form on its k-ary tree (7/9 at defaults); it is not a spectral coupling and does not touch K.
+- DISC-0023 → DISC-0024. Label: mathematical. The attainable set of R_∞ excludes 2/25, so exact Theorem D is rejected.
+- DISC-0024 stands beside DISC-0002, DISC-0011, DISC-0016, and DISC-0018. Label: historical. Another route to 0.08 that does not reach it.
+- DISC-0020 → DISC-0025. Label: mathematical. Free mult(5)/mult(6) and their vanishing on V_0 feed the corner-visible recursion c_n = 2c_{n−1} − 1 − dim DN_n(2).
+- DISC-0021 → DISC-0025. Label: historical. Same repository at e1b8f27 defines a hit predicate and claims h_n → 4/9, superseding the hit-rate refusal on DISC-0021; 1 − μ_exc is the upper bound.
+- DISC-0025 hangs off DISC-0005. Label: computational. The repository declines to identify h_n with the SPECTRUM.md "0.4–0.7" string.
+- DISC-0025 → DISC-0026. Label: mathematical. The corner-defect identity composes into closed-form corner channels; c_n = 5·2^(n−1)+1 no longer needs Qiu §2, and the lower bound on h_n is exact for 3 ≤ n ≤ 11.
+- DISC-0026 → DISC-0027. Label: mathematical. The all-n exact h_n reduces to gcd(Q_n Qt_n, H_(n−1)∘R) = λ; verified exactly for n = 3..14, not proved.
+- DISC-0027 → DISC-0028. Label: mathematical. A two-adic reduction confines coincidental hits to the symmetric channel with R^k(λ) = 5, n − k even, and a characteristic-2 residue sum S_k = 0.
+- DISC-0028 → DISC-0029. Label: mathematical. S_k ≠ 0 for every power-of-two k (subfield argument), proved in-repo.
+- DISC-0028 → DISC-0030. Label: mathematical. S_k ≠ 0 for all k would give exact h_n for all n; exhaustive k ≤ 31, so exact h_n for 3 ≤ n ≤ 34.
+- DISC-0029 → DISC-0030. Label: mathematical. The lemma settles the power-of-two cases of the conjecture.
+- DISC-0028 → DISC-0036. Label: mathematical. The pairing identity 1/z_{i−1} + 1/z_i = 1/(z_i + 1) plus the subfield argument proves S_k ≠ 0 for every k = 2^j + 1.
+- DISC-0029 → DISC-0036. Label: mathematical. Same subfield method, one step further.
+- DISC-0036 → DISC-0030. Label: mathematical. With k ≤ 31 and powers of two, S_k ≠ 0 for all k ≤ 33; smallest open k is 34, exact h_n for 3 ≤ n ≤ 35.
+- DISC-0037 hangs off DISC-0036 and DISC-0030. Label: computational. S_k ∈ GF(2^p) on some chains at k = 6, 11, 13, 14, 15, so the subfield test cannot prove DISC-0030.
+- DISC-0029 → DISC-0038. Label: mathematical. The tower E_a = ker N^{2^a} = GF(2^{2^a}) fixes every Frobenius orbit of length-k chains at size 2^⌈log₂(k+1)⌉.
+- DISC-0038 → DISC-0030. Label: computational. One child at power-of-two depths gives one chain per orbit; the reduced walk shows S_k ≠ 0 for all k ≤ 45, smallest open k is 46.
+- DISC-0038 → DISC-0027. Label: mathematical. Exact h_n for 3 ≤ n ≤ 47; first possible coincidental hit n ≥ 48.
+- DISC-0001 → DISC-0039. Label: mathematical. Theorem A plus D_iΔ = ΔD_i gives the discrete Theorem M; continuum form is div Hess Ψ = grad ΔΨ.
+- DISC-0039 → DISC-0040. Label: mathematical. ΔA_0 = 0 on a vacuum surface, so G = 0 for every W and κ; Kept Failure M.1.
+- DISC-0040 sits beside DISC-0002. Label: failed hypothesis. Another flux route to thrust that the identity rules out.
+- DISC-0041 → DISC-0030. Label: mathematical. Residue condition at length k ⇔ gcd(N^k + 1, Π_k′) = 1 in F_2[t]; certificate k ≤ 21, range unchanged (smallest open k still 46).
+- DISC-0036 → DISC-0041. Label: mathematical. The norm form of the 2^j + 1 subsection becomes an explicit resultant Res(A_k, Π_k′).
+- DISC-0039 → DISC-0042. Label: mathematical. Second named reading of the rank-2 symbol; div Q = ∇Ψ ΔΨ, the Maxwell-stress divergence (cf. DISC-0012).
+- DISC-0042 → DISC-0043. Label: mathematical. With Ψ = A_0 static massless, Q is the Maxwell stress over ε₀ and an isolated device gives G = 0; Kept Failure N.1.
+- DISC-0043 sits beside DISC-0040 and DISC-0002. Label: failed hypothesis. Both named readings close under static massless C6.
+- DISC-0039, DISC-0042 → DISC-0044. Label: mathematical. Both named readings are members (1,0,0,0) and (0,0,1,−½) of the four-parameter two-derivative family; ∂_jT^{ij} = (a+b)∂_iΔΨ + c∂_iΨΔΨ + (c/2+d)∂_i|∇Ψ|².
+- DISC-0044 → DISC-0045. Label: mathematical. Static massless A_0 leaves only (c/2+d)∮|E|²n, zero or surface-dependent; Kept Failure O.1.
+- DISC-0045 sits beside DISC-0043, DISC-0040, and DISC-0002. Label: failed hypothesis. The whole two-derivative family closes under static massless C6.
+- DISC-0046 → DISC-0030. Label: mathematical. A second proof shape (uniform monomial trace certificate) fails beside DISC-0037; conjecture unchanged.
+- DISC-0038 → DISC-0030. Label: computational. 649cab9 extends the reduced walk to k ≤ 46 (2^40 representatives); smallest open k is 47.
+- DISC-0036 → DISC-0047. Label: mathematical. Coordinates α_i = z_{p+i} + z_i z_p over GF(2^p) push the subfield method from 2^j + 1 to 2^j + 2; the C_1 = 0 equation forces z_{p−1} into GF(16).
+- DISC-0047 → DISC-0030. Label: mathematical. S_k ≠ 0 now proved for k ∈ {2^j, 2^j+1, 2^j+2}; smallest open length stays 47.
+- DISC-0039, DISC-0044 → DISC-0048. Label: mathematical. Theorem M applied to Φ = p(Δ)Ψ; Theorem O's linear part is p = a, q = bs.
+- DISC-0048 → DISC-0049. Label: mathematical. Static massless A_0 leaves 0 (shift-invariant) or −e∫_V E (undifferentiated term), surface-dependent.
+- DISC-0049 sits beside DISC-0045, DISC-0043, and DISC-0040. Label: failed hypothesis. Every linear reading of any order closes under static massless C6.
 
-There is no historical edge from description text in this pass beyond the DISC-0003 → DISC-0007 HEAD advance. Description text that still disagrees with the files on older Coherence Drive repos is recorded on DISC-0002 as provenance. The stress-tensor-modification GitHub description mismatch with CLAIM_STATUS is recorded on DISC-0009 and DISC-0010 as the same known provenance class, not a new physics result. Those descriptions were not edited. The finite-gasket-spectral-derivatives description matches its claim fence. On 2026-10-02 the topological-pinch description still states a 92% thrust mechanism; that mismatch stays the DISC-0002 provenance note and is cited again on DISC-0013. The momentum-closure description still says the Ware term supplies real net momentum flux; that mismatch stays the DISC-0002 provenance note and is cited again on DISC-0015. On 2026-10-02 the m2-renormalization-law description still says the law is mesh-invariant and derived directly from the Coherence Drive baseline; that mismatch is cited on DISC-0016. On 2026-10-02 the ware-constant-phenomenology description still says W ≈ 0.08 is a universal dimensionless coupling across subatomic, galactic, and cosmological anomalies; that mismatch with CLAIM_STATUS (SPARC χ² UNSUPPORTED; W=0.08 NOT DERIVED) is cited on DISC-0017. None of those descriptions was edited. The sentence that W(n) is not a consequence of locked K, and that W < 1/6 is not the model cut W < 0.125, is not a new row.
+- DISC-0047 → DISC-0050. Label: mathematical. Elimination extends the relative-trace coordinates from excess 2 to excess 3..10; R ≠ 0 plus direct zeros close survivors.
+- DISC-0050 → DISC-0030. Label: mathematical. S_k ≠ 0 now proved for every excess ≤ 10; smallest open length stays 47 = 32 + 15.
+- DISC-0050 → DISC-0074. Label: mathematical. Same elimination at m = 11; a lifted count (one root per surviving factor) closes the large survivors p = 256, 512, 1024.
+- DISC-0074 → DISC-0030. Label: mathematical. S_k ≠ 0 now proved for every excess ≤ 11; smallest open length stays 47 = 32 + 15; exact h_n range unchanged.
+- DISC-0050 → DISC-0075. Label: computational. deg R = 2^m − 2 on every checked prefix through m = 11; general m open.
+- DISC-0038 → DISC-0030. Label: computational. da424cf extends the unchanged reduced walk to k ≤ 47 (2^41 representatives, zeros 0); smallest open k is 48 = 32 + 16; exact h_n for 3 ≤ n ≤ 49 (DISC-0027 range only).
+- DISC-0031 → DISC-0051. Label: mathematical. Theorem S is the uniform-λ scalar lift of Theorems G and I.
+- DISC-0051 → DISC-0052. Label: mathematical. Resistance λ = 5/3 freezes the harmonic audit but not the α = 0.45 fractional audit.
+- DISC-0052 sits beside DISC-0033. Label: failed hypothesis. Another shortcut law for closing the α = 0.45 limit that fails.
+- DISC-0048, DISC-0044 → DISC-0053. Label: mathematical. Theorem Q extends the linear and two-derivative families to every shift-invariant polynomial reading of any order and degree.
+- DISC-0053 → DISC-0054. Label: mathematical. Static massless A_0 leaves 0 (on-shell conserved) or surface-dependent G; Kept Failure Q.1.
+- DISC-0054 sits beside DISC-0049, DISC-0045, DISC-0043, and DISC-0040. Label: failed hypothesis. Whole shift-invariant polynomial family closes under static massless C6.
+- DISC-0053 → DISC-0055. Label: mathematical. Theorem R drops shift invariance; undifferentiated factors still yield the same dichotomy.
+- DISC-0055 → DISC-0056. Label: mathematical. Conserved readings still give 0; δΨ and δΨ² make surface dependence worse; Kept Failure R.1.
+- DISC-0056 sits beside DISC-0054. Label: failed hypothesis. Entire polynomial reading family (shift-invariant or not) closes under static massless C6.
+- DISC-0055 → DISC-0057. Label: mathematical. Theorem T takes the same polynomial family under a screened (Proca/Yukawa) equation.
+- DISC-0057 → DISC-0058. Label: mathematical. Conserved readings still give 0; mass remainders are surface-dependent and decay; Kept Failure T.1.
+- DISC-0058 sits beside DISC-0056 and DISC-0054. Label: failed hypothesis. Entire polynomial family closes under screened C6 as well as massless C6.
+- DISC-0044, DISC-0053 → DISC-0059. Label: mathematical. Theorem U extends the first-derivative (affine) subfamily of O to every C¹ f(s), g(s), polynomial or not.
+- DISC-0059 → DISC-0060. Label: mathematical. Conserved readings are Maxwell+κδ and give G=0; all others are surface-dependent O(R^{−2}); Kept Failure U.1.
+- DISC-0060 sits beside DISC-0058, DISC-0056, DISC-0054, and DISC-0045. Label: failed hypothesis. First-derivative non-polynomial gap of Q–T closes under static massless C6.
+- DISC-0059 → DISC-0061. Label: mathematical. Theorem V allows undifferentiated Ψ in f,g; conserved class stays Maxwell+κδ.
+- DISC-0061 → DISC-0062. Label: mathematical. Conserved readings give G=0; all others surface-dependent; Kept Failure V.1.
+- DISC-0062 sits beside DISC-0060, DISC-0058, DISC-0056, DISC-0054, and DISC-0045. Label: failed hypothesis. Ψ+∇Ψ first-derivative isotropic gap closes under static massless C6.
+- DISC-0051 → DISC-0063. Label: mathematical. Theorem W is the multi-scale (every-generation) geometric-series lift of Theorem G; opposite trichotomy to Theorem S.
+- DISC-0031 → DISC-0063. Label: mathematical. Nested harmonicity + I^(g)=(3/5)^g I(0) give the series.
+- DISC-0063 → DISC-0064. Label: mathematical. Multi-scale resistance λ=5/3 grows like (n+1)√21/2; Kept Failure W.1.
+- DISC-0064 sits beside DISC-0052 and DISC-0033. Label: failed hypothesis. Another resistance-freeze shortcut that fails (here on the multi-scale harmonic graph).
+- DISC-0063 → DISC-0065. Label: mathematical. Theorem X applies spectral calculus to the multi-scale graph; α=1 recovers Theorem W; nested harmonicity fails for α∈(0,1).
+- DISC-0031 → DISC-0065. Label: mathematical. Neutrality and the Schur line (1, −4/5, −1/5) persist for L_ms^α (cut identity + S_3).
+- DISC-0065 → DISC-0066. Label: mathematical. The λ=1 harmonic freeze 5√21/4 does not transfer to α=0.45; Kept Failure X.1.
+- DISC-0065 → DISC-0067. Label: mathematical. Multi-scale fractional is not a constant multiple of finest-edge fractional; Kept Failure X.2.
+- DISC-0066 and DISC-0067 sit beside DISC-0064, DISC-0052, and DISC-0033. Label: failed hypothesis. Further shortcuts to the α=0.45 limit that fail; DISC-0034 stays OPEN.
+- DISC-0061 → DISC-0068. Label: mathematical. Theorem Y allows explicit position dependence in f,g; conserved class stays constant Maxwell+κδ.
+- DISC-0068 → DISC-0069. Label: mathematical. Conserved readings give G=0; all others surface-dependent (soft aδ dilation is an R.4 sibling); Kept Failure Y.1.
+- DISC-0069 sits beside DISC-0062, DISC-0060, DISC-0058, DISC-0056, DISC-0054, and DISC-0045. Label: failed hypothesis. Position-dependent first-derivative isotropic gap closes under static massless C6.
+- DISC-0068 → DISC-0070. Label: mathematical. Theorem Z adds the Levi-Civita term hε·∇Ψ (SO(3) instead of O(3)); Theorem Y is the h=0 slice; conserved class grows only by ε·∇K(Ψ).
+- DISC-0070 → DISC-0071. Label: mathematical. The curl piece has zero flux on every closed surface; all others surface-dependent; Kept Failure Z.1.
+- DISC-0071 sits beside DISC-0069, DISC-0062, DISC-0060, and DISC-0049. Label: failed hypothesis. x_m ε·∇Ψ reduces exactly to the P.2 flux (DISC-0049) rotated by e_m×; pseudotensor first-derivative gap closes.
+- DISC-0032 → DISC-0072. Label: mathematical. Theorem AA closes the energy-collapse route left open by Theorem L for every α<1/2 (floor Q_0.45≥0.128335).
+- DISC-0072 → DISC-0073. Label: mathematical. Kept Failure AA.1: energy collapse at α=0.45 is false; ‖F_frac‖→0 is false.
+- DISC-0073 sits beside DISC-0033. Label: failed hypothesis. Another shortcut to the α=0.45 combinatorial limit that fails; DISC-0034 stays OPEN.
+- DISC-0072 → DISC-0076. Label: mathematical. Theorem AB uses the AA floor on ‖F_frac‖ to make ‖F‖→0 equivalent to ρ_n→0 (σ_n=ρ_n/w_n, w_min≤w_n≤8^α).
+- DISC-0076 → DISC-0034. Label: mathematical. The open α=0.45 combinatorial limit is now exactly whether the two-neighbor share ρ_n tends to 0; DISC-0034 status unchanged (OPEN).
+- DISC-0076 → DISC-0077. Label: mathematical. Kept Failure AB.1: geometric collapse ρ_{n+1}/ρ_n≤0.95 is false (ratios ≥0.9988 from level 4).
+- DISC-0077 sits beside DISC-0073 and DISC-0033. Label: failed hypothesis. Another shortcut to the α=0.45 combinatorial limit that fails.
+- DISC-0072 → DISC-0078. Label: mathematical. Scope note: Theorem AC extends the uniform energy floor from α<1/2 to every α<log3/log5 (cell resistance + spectral mass instead of a path), superseding DISC-0072's "window [1/2, log3/log5] OPEN" for [1/2, log3/log5); DISC-0072's row and status are not edited.
+- DISC-0078 → DISC-0076. Label: mathematical. AB item 4 (‖F‖→0 ⇔ ρ_n→0) holds for every α<log3/log5.
+- DISC-0032 → DISC-0079. Label: mathematical. Theorem K sends Q_α(u_n)→0 for α>log3/log5, so no floor exists there.
+- DISC-0078 → DISC-0079. Label: mathematical. Kept Failure AC.1: log3/log5 is the exact floor threshold; α=log3/log5 itself OPEN.
+- DISC-0078 → DISC-0080. Label: mathematical. Theorem AD reuses AC's spectral mass μ((0,s])≤80s^γ and gap for the upper bound R_γ(n)≤80((n+1)ln3+1); the endpoint left OPEN in DISC-0078/DISC-0079 is settled on the collapsing side (rows not edited).
+- DISC-0032 → DISC-0080. Label: mathematical. Theorem K's pairing ‖F_frac‖=Q√21/7 and Theorem L's ‖F‖≤κ√Q turn Q_γ(u_n)=Θ(1/n) into ‖F(n,γ)‖→0.
+- DISC-0072 → DISC-0080. Label: mathematical. Exact pairing Q_αR_α=7/3 (D3-symmetric corner Schur complement) sharpens the duality constant 9/4 of AA/AC.
+- DISC-0080 → DISC-0081. Label: mathematical. Kept Failure AD.1: the AC floor does not reach α=γ (Q_γ≤45.19/n; Theorem K majorant constant there).
+- DISC-0081 sits beside DISC-0079. Label: failed hypothesis. Together: a level-uniform energy floor holds exactly for α<γ; DISC-0034 (α=0.45) unaffected.
+- DISC-0076 → DISC-0082. Label: mathematical. Theorem AE uses AB's equal neighbor weights to sharpen the ceiling w_n≤8^α to w_n≤8^α/2 and factors ρ_n=λ_n/(λ_n+(1−λ_n)γ_n) (DISC-0076 row not edited).
+- DISC-0080 → DISC-0082. Label: mathematical. AD's exact pairing Q_αR_α=7/3 gives I_a^α=5/(3R_α) and ρ_n=(√21/7)w_n‖F‖R_α.
+- DISC-0078 → DISC-0082. Label: mathematical. AB+AC equivalence (‖F‖→0 ⇔ ρ_n→0 for α<log3/log5) becomes ‖F‖→0 ⇔ ((1−λ_n)/λ_n)γ_n→∞.
+- DISC-0082 → DISC-0034. Label: mathematical. The open α=0.45 combinatorial limit is now exactly whether ((1−λ_n)/λ_n)γ_n→∞; DISC-0034 status unchanged (OPEN).
+- DISC-0082 → DISC-0083. Label: mathematical. Kept Failure AE.1: geometric wipeout λ_{n+1}/λ_n≤0.95 is false (ratio 0.993134 at 3→4, 0.999807 at 5→6).
+- DISC-0083 sits beside DISC-0077 and DISC-0073. Label: failed hypothesis. Another shortcut to the α=0.45 combinatorial limit that fails.
+- DISC-0082 → DISC-0084. Label: mathematical. Theorem AF floors λ_n ≥ α2^(α−1) (Jensen on the spectral measure of e_a) and sharpens the AE ceiling 8^α/2 to 2^(α−1) (DISC-0082 row not edited).
+- DISC-0084 → DISC-0034. Label: mathematical. For α<log3/log5, ‖F‖→0 now forces γ_n→∞ (one-sided; converse needs limsup λ_n<1); DISC-0034 status unchanged (OPEN).
+- DISC-0084 → DISC-0085. Label: mathematical. Kept Failure AF.1: geometric blowup γ_{n+1}/γ_n≥1.05 is false (every ratio <1 through level 6, first 0.963017).
+- DISC-0085 sits beside DISC-0083 and DISC-0077. Label: failed hypothesis. Another geometric shortcut to the α=0.45 combinatorial limit that fails.
+- DISC-0084 → DISC-0086. Label: mathematical. Theorem AG ceilings λ_n ≤ 1 − α(1−α)/2^(3−α) < 1 (two-step heat-kernel bound on the three distance-2 vertices plus AF's Jensen diagonal), supplying the converse DISC-0084 left unclaimed (DISC-0084 row not edited).
+- DISC-0086 → DISC-0034. Label: mathematical. For α<log3/log5, ‖F‖→0 ⇔ γ_n→∞ (two-sided, via 1/(1+C_Jγ_n) ≤ ρ_n ≤ 1/(1+c_*γ_n)); DISC-0034 status unchanged (OPEN).
+- DISC-0086 → DISC-0087. Label: mathematical. Kept Failure AG.1: geometric climb λ_{n+1}/λ_n≥1.01 is false (every ratio <1 through level 6, first 0.855064).
+- DISC-0087 sits beside DISC-0083 and DISC-0085. Label: failed hypothesis. The geometric version of the λ→1 escape fails; the uniform ceiling already closes it.
+
+
+- DISC-0086 → DISC-0088. Label: mathematical. Theorem AH ceilings γ_n ≤ Γ_AH(α) by a kernel comparison and one-step Harnack, so γ_n↛∞ and (with AC/AA) ‖F‖ has a positive floor (DISC-0086 row not edited).
+- DISC-0088 → DISC-0034. Label: mathematical. Vanishing of ‖F(n,0.45)‖ is closed (‖F‖≥6.44·10^{−4}); DISC-0034 status unchanged (CONJECTURE for convergence / L≥0.70).
+- DISC-0088 → DISC-0089. Label: mathematical. Kept Failure AH.1: max-principle 3/2 gap-cap shortcut gives no floor (negative at levels 3–6).
+- DISC-0089 sits beside DISC-0087 and DISC-0033. Label: failed hypothesis. Another shortcut to a positive floor that fails; AH's kernel Harnack is essential.
+
+- DISC-0088 → DISC-0090. Label: mathematical. Theorem AI removes κ via the two-neighbor sum w_pj+w_qj≥2w_aj, sharpening Γ_AH→Γ_AI and the audit floor 6.44e−4→0.051988 (DISC-0088 row not edited).
+- DISC-0090 → DISC-0034. Label: mathematical. Stronger positive floor (‖F‖≥0.051988); DISC-0034 status unchanged (CONJECTURE for convergence / L≥0.70); AI.1 shows the κ→1 chain does not prove J.1.
+- DISC-0090 → DISC-0091. Label: mathematical. Kept Failure AI.1: κ→1 plus AA does not give Conjecture J.1's 0.70 (≈0.052; at most ~0.123 with any Harnack constant).
+- DISC-0091 sits beside DISC-0089 and DISC-0033. Label: failed hypothesis. Another route to L≥0.70 that fails; the sharpened floor of DISC-0090 still stands.
+
+- DISC-0090 → DISC-0092. Label: mathematical. Theorem AJ keeps the cross term w_pq≥α4^(α−1) dropped by AI, sharpening H 4^α/2→(4^α/2)(1−α/4), Γ_AI→Γ_AJ≈28.69, and the audit floor 0.051988→0.055599 (DISC-0090 row not edited).
+- DISC-0092 → DISC-0034. Label: mathematical. Stronger positive floor (‖F‖≥0.055599); DISC-0034 status unchanged (CONJECTURE for convergence / L≥0.70); AJ.1 shows the w_pq chain does not prove J.1.
+- DISC-0092 → DISC-0093. Label: mathematical. Kept Failure AJ.1: keeping w_pq plus AA does not give Conjecture J.1's 0.70 (≈0.0556; at most ~0.123 with any Harnack constant).
+- DISC-0093 sits beside DISC-0091, DISC-0089 and DISC-0033. Label: failed hypothesis. Another Harnack-constant route to L≥0.70 that fails; the DISC-0092 floor still stands.
+
+- DISC-0092 → DISC-0094. Label: mathematical. Theorem AK replaces AJ's Jensen diagonal ceilings 2^α, 4^α by two-moment ceilings on spec(L)⊂[0,6] (D_a⁺, D_p⁺), sharpening H_AJ≈0.828→H_AK≈0.796, Γ≈28.69→27.59, σ≈0.6618→0.7016, and the audit floor 0.055599→0.058941 (DISC-0092 row not edited).
+- DISC-0094 → DISC-0034. Label: mathematical. Stronger positive floor (‖F‖≥0.058941); DISC-0034 status unchanged (CONJECTURE for convergence / L≥0.70).
+- DISC-0094 → DISC-0095. Label: mathematical. Kept Failure AK.1: with every constant live the one-step neighbor-Harnack chain gives σ≈0.9529<1 and stays below 0.70 from level 4, so that family cannot prove J.1.
+- DISC-0095 sits beside DISC-0093, DISC-0091, DISC-0089 and DISC-0033. Label: failed hypothesis. Rejects the whole one-step neighbor-Harnack family (not only one constant) as a route to L≥0.70 on the computed range; the DISC-0094 floor still stands.
+- DISC-0094 → DISC-0096. Label: mathematical. Theorem AL replaces AA's path ceiling C(α) by R_∞(α) for α≥α_* and lifts the AK audit floor 0.058941→0.078019 at α=0.45 (~1.324×; DISC-0094 row not edited).
+- DISC-0072 → DISC-0096. Label: mathematical. AL is the Hermite–Hadamard sharpening of AA's path-resistance ceiling (DISC-0072 row not edited).
+- DISC-0096 → DISC-0034. Label: mathematical. Stronger positive floor (‖F‖≥0.078019); DISC-0034 status unchanged (CONJECTURE for convergence / L≥0.70).
+- DISC-0096 → DISC-0097. Label: mathematical. Kept Failure AL.1: σ_AK·0.111208≈0.078 and even 2^(1−α)·0.111208≈0.163 stay below 0.70; path comparison is lossy (R_∞≈13.25 ≫ live ~2.35).
+- DISC-0097 sits beside DISC-0095, DISC-0093, DISC-0091, DISC-0089 and DISC-0033. Label: failed hypothesis. Rejects the sharp-path-ceiling route (distinct from the one-step neighbor-Harnack family) as a route to L≥0.70; the DISC-0096 floor still stands.
+- DISC-0096 → DISC-0098. Label: mathematical. Theorem AM replaces AL's single-side path by the full boundary cycle, ceiling R^cyc_∞=(1−α)R_∞ on all of (0,1/2), and lifts the audit floor 0.078019→0.147106 at α=0.45 (~1.886×; DISC-0096 row not edited).
+- DISC-0094 → DISC-0098. Label: mathematical. AM uses AK's share floor σ_AK≈0.701556 with the new ‖F_frac‖ floor 0.209685 (DISC-0094 row not edited).
+- DISC-0098 → DISC-0034. Label: mathematical. Stronger positive floor (‖F‖≥0.147106); DISC-0034 status unchanged (CONJECTURE for convergence / L≥0.70).
+- DISC-0098 → DISC-0099. Label: mathematical. Kept Failure AM.1: σ_AK·0.209685≈0.147 and even 2^(1−α)·0.209685≈0.307 stay below 0.70; with live energy σ_AK·‖F_frac‖ < 0.70 from level 2, so no resistance ceiling rescues the σ_AK chain.
+- DISC-0099 sits beside DISC-0097, DISC-0095, DISC-0093, DISC-0091, DISC-0089 and DISC-0033. Label: failed hypothesis. Subsumes DISC-0097's path-ceiling rejection into the whole energy-floor×σ_AK family; a route to L≥0.70 would need a share floor near the live σ_n≈1.35; the DISC-0098 floor still stands.
+
+- DISC-0098 → DISC-0100. Label: mathematical. Theorem AN replaces AM's bare cycle by the boundary fence/collar (Bloch ceiling R^fen_∞+1/2), and lifts the audit floor 0.147106→0.214239 at α=0.45 (~1.456×; DISC-0098 row not edited).
+- DISC-0094 → DISC-0100. Label: mathematical. AN uses AK's share floor σ_AK≈0.701556 with the new ‖F_frac‖ floor 0.305377 (DISC-0094 row not edited).
+- DISC-0100 → DISC-0034. Label: mathematical. Stronger positive floor (‖F‖≥0.214239); DISC-0034 status unchanged (CONJECTURE for convergence / L≥0.70).
+- DISC-0100 → DISC-0101. Label: mathematical. Kept Failure AN.1: σ_AK·0.305377≈0.214 and even 2^(1−α)·0.305377≈0.447 stay below 0.70; AN does not rescue the AM.1 energy-floor×σ_AK chain.
+- DISC-0101 sits beside DISC-0099, DISC-0097, DISC-0095, DISC-0093, DISC-0091, DISC-0089 and DISC-0033. Label: failed hypothesis. Continues DISC-0099's rejection of the energy-floor×σ_AK family under the sharper fence ceiling; a route to L≥0.70 would still need a share floor near the live σ_n≈1.35; the DISC-0100 floor still stands.
+
+- DISC-0100 → DISC-0102. Label: mathematical. Theorem AO adds one inward layer to AN's collar (period-2 Bloch ceiling R^d2_∞+11/20), and lifts the audit floor 0.214239→0.222331 at α=0.45 (~1.038×; DISC-0100 row not edited).
+- DISC-0094 → DISC-0102. Label: mathematical. AO uses AK's share floor σ_AK≈0.701556 with the new ‖F_frac‖ floor 0.316911 (DISC-0094 row not edited).
+- DISC-0102 → DISC-0034. Label: mathematical. Stronger positive floor (‖F‖≥0.222331); DISC-0034 status unchanged (CONJECTURE for convergence / L≥0.70).
+- DISC-0102 → DISC-0103. Label: mathematical. Kept Failure AO.1: σ_AK·0.316911≈0.222 and even 2^(1−α)·0.316911≈0.464 stay below 0.70; live σ_AK·‖F_frac‖ < 0.70 on L2–7, so AO does not rescue the σ_AK chain.
+- DISC-0103 sits beside DISC-0101, DISC-0099, DISC-0097, DISC-0095, DISC-0093, DISC-0091, DISC-0089 and DISC-0033. Label: failed hypothesis. Continues the rejection of the energy-floor×σ_AK family under the depth-2 ceiling; a route to L≥0.70 would still need a share floor near the live σ_n≈1.35; the DISC-0102 floor still stands.
+
+- DISC-0076 → DISC-0104. Label: mathematical. Theorem AP makes AB's share σ_n exact: σ_n=(L^(1−α))_aa+ω_n (archive: full vector I=σ_nI^α).
+- DISC-0094 → DISC-0104. Label: mathematical. AP's Radau floor 1.310267 replaces σ_AK≈0.701556 and exceeds AK.1's 0.9529 cap (DISC-0094 row not edited).
+- DISC-0102 → DISC-0104. Label: mathematical. AP lifts the audit floor 0.222331→0.274743 (AM route) / 0.415238 (AO as stated).
+- DISC-0104 → DISC-0105. Label: mathematical. Kept Failure AP.1: lim σ_n·0.316911≈0.4286<0.70; open step = resistance ceiling ≤2.859237.
+- DISC-0105 sits beside DISC-0103, DISC-0101, DISC-0099 and DISC-0033. Label: failed hypothesis. The other factor of the same family: share side spent, resistance side open (closed by DISC-0106).
+- DISC-0104 → DISC-0106. Label: mathematical. AQ uses AP (1) for σ_n=½vᵀL^(1−α)v.
+- DISC-0105 → DISC-0106. Label: mathematical. AQ supplies AP.1's missing ceiling: R_0.45(n)<2.518955<2.859237.
+- DISC-0106 → DISC-0034. Label: mathematical. Proves Conjecture J.1: strict decrease for every n≥1, 𝓛∈[0.819255,0.822959]≥0.70. DISC-0034 status CONJECTURE → THEOREM for J.1 (2026-10-22; history kept in row and note).
+- DISC-0034 → DISC-0108. Label: historical. J.2 (α=0.10, ≥1.410) carried forward as its own CONJECTURE row at DISC-0034's status change.
+- DISC-0106 → DISC-0108. Label: mathematical. Monotone decrease for every α makes J.2 equivalent to 𝓛(0.10)≥1.410; AQ's 0.10 bracket [1.292150,1.583120] does not decide it.
+- DISC-0106 → DISC-0035. Label: computational. The archive scaling-law prediction L(0.45)≈0.8211 lies inside the certified bracket and the R gap ratio tends to 5^α/3; the law itself stays CONJECTURE (row not edited).
+- DISC-0106 → DISC-0107. Label: mathematical. Kept Failure AQ.1: no positive limit for α≥log3/log5 (empty power window; R_γ linear, R_0.75 geometric), consistent with DISC-0080 and DISC-0032.
+- DISC-0107 sits beside DISC-0081 and DISC-0079. Label: failed hypothesis. Same threshold log3/log5 as AC.1 / AD.1.
+- DISC-0106 → DISC-0109. Label: mathematical. AR uses AQ's recursion, Stieltjes formulas and the α-independent power ceiling r_n≤Bs^(−0.35).
+- DISC-0109 → DISC-0035. Label: mathematical. Proves the archive law's difference-ratio limit 5^α/3 asymptotically (α≠γ); exact affine form stays CONJECTURE (row not edited).
+- DISC-0109 → DISC-0080. Label: mathematical. Sharpens AD's Θ(n) at γ to R_γ(n)=c_R(γ)n+o(n), c_R(γ)≈0.517166 (computed).
+- DISC-0109 → DISC-0107. Label: mathematical. AQ.1's measured growth laws become theorem statements.
+- DISC-0109 → DISC-0032. Label: mathematical. Theorem K's decay above γ gets the exact ratio 3·5^(−α).
+- DISC-0109 → DISC-0110. Label: mathematical. Kept Failure AR.1: r_n≤1/s alone gives (3/5)M(0)=2.25>1, no rate.
+- DISC-0110 sits beside DISC-0107. Label: failed hypothesis. Both mark where AQ's certificate is indispensable.
+- DISC-0106 → DISC-0111. Label: mathematical. AS uses AQ's recursion, Stieltjes formulas, node enclosures T^k r_0 ≤ r_∞ ≤ T^k(1/σ) and the power ceiling.
+- DISC-0109 → DISC-0111. Label: computational. AR's ratio ρ=5^α/3 is the input to the rejected shortcut AS.1.
+- DISC-0111 → DISC-0108. Label: mathematical. Proves J.2 (𝓛(0.10)>1.410638933063); status change CONJECTURE → THEOREM.
+- DISC-0111 → DISC-0035. Label: computational. Certified digits agree with the archive law's predictions to its stated digits; law stays CONJECTURE.
+- DISC-0111 → DISC-0112. Label: mathematical. Kept Failure AS.1: level-10 ρ/Aitken extrapolation misses by >1e−4.
+- DISC-0112 sits beside DISC-0110. Label: failed hypothesis. Shortcuts around the certificates fail.
+- DISC-0106 → DISC-0113. Label: mathematical. AT uses AQ's recursion, Stieltjes formulas and power ceiling (re-certified).
+- DISC-0109 → DISC-0113. Label: mathematical. AT's transfer iterates AR's product formula; DISC-0113 certifies AR's c_R, c_S (c_S(0.45) float low by 1.6e−6).
+- DISC-0111 → DISC-0113. Label: mathematical. AS's interpolation sandwich and enclosures of R_∞, σ_∞ give the cells and c_F.
+- DISC-0113 → DISC-0114. Label: mathematical. Kept Failure AT.1: s^(1−γ)r_∞ is log-periodic, no pure-power constant.
+- DISC-0114 → DISC-0115. Label: mathematical. Conjecture AT.2 averages the periodic profile Θ.
+- DISC-0113 → DISC-0035. Label: computational. Certified approach coefficient c_F; law stays CONJECTURE.
+- DISC-0114 sits beside DISC-0112. Label: failed hypothesis. Simplest closed forms fail where certificates succeed.
+- DISC-0113 → DISC-0116. Label: mathematical. AU's slope formula lands inside AT's independent c_R(γ) enclosure and sharpens it by 16 digits.
+- DISC-0114 → DISC-0116. Label: mathematical. AU uses AT.1's orbit lemma and the periodic profile Θ.
+- DISC-0109 → DISC-0116. Label: mathematical. The defect term uses AR (2) at γ−ε.
+- DISC-0116 → DISC-0115. Label: mathematical. Theorem AU (1) proves Conjecture AT.2 (status CONJECTURE → THEOREM).
+- DISC-0116 → DISC-0117. Label: mathematical. Kept Failure AU.1: certified second harmonic, so not a single cosine.
+- DISC-0070 → DISC-0118. Label: mathematical. Theorem Z NOT THIS listed nonlocal kernels as OPEN; Theorem AV closes the Maxwell-form convolution and fractional slice.
+- DISC-0057 → DISC-0118. Label: mathematical. Yukawa smearing reuses the screened-kernel decay of Theorem T for the surface-dependent remainder.
+- DISC-0118 → DISC-0119. Label: mathematical. Conserved on vacuum only for K=cδ; all other kernels surface-dependent and →0 under dilation; Kept Failure AV.1.
+- DISC-0118 → DISC-0120. Label: mathematical. Theorem AV's NOT THIS left slow-tail kernels ((−Δ)^{−τ}, τ≥½) OPEN; Theorem AW closes them and reuses the AV.4 cap formula on a bounded region, without (H).
+- DISC-0119 → DISC-0121. Label: mathematical. Same rejected route extended to kernels without o(R^−2) decay; the radius-free marginal value is centre-dependent.
+- DISC-0120 → DISC-0121. Label: mathematical. Surface-independent G is 0 for every τ; marginal τ=3/4 (16/9)Q²(c−x_Q) and dipole τ=5/4 values are linear in the audit centre; Kept Failure AW.1.
+- DISC-0120 → DISC-0122. Label: mathematical. Conjecture AW.4 extends the proved ℓ=0,1 marginal exponents to τ_ℓ=(3+2ℓ)/4.
+- DISC-0120 → DISC-0123. Label: mathematical. Theorem AX reuses AW's finite-part kernel and extends the ℓ=0,1 marginal values to every ℓ.
+- DISC-0123 → DISC-0122. Label: mathematical. Theorem AX proves Conjecture AW.4 (status CONJECTURE → THEOREM).
+- DISC-0123 → DISC-0124. Label: mathematical. Kept Failure AX.1: with M=0 the sphere value g0 disagrees with cubes.
+- DISC-0124 sits beside DISC-0121. Label: failed hypothesis. Marginal values depend on the audit surface (centre in AW.1, shape in AX.1).
+- DISC-0117 sits beside DISC-0114. Label: failed hypothesis. Nine-digit fits do not identify the profile.
+- DISC-0113 → DISC-0125. Label: mathematical. At ρ=1 Theorem AT's bracket weights are level-independent, which makes the per-level defects summable.
+- DISC-0116 → DISC-0125. Label: mathematical. Theorem AY uses AU's slope c=ln5⟨Θ⟩ and certifies the intercept AU left open (AU float low by 1.7e−14).
+- DISC-0125 → DISC-0126. Label: mathematical. Kept Failure AY.1: the unshifted n‖F‖ has a Θ(1/n) error.
+- DISC-0126 sits beside DISC-0114 and DISC-0117. Label: failed hypothesis. Simplest-form guesses at γ that fail.
+- DISC-0109 → DISC-0127. Label: mathematical. Theorem AZ sharpens AR (4c)'s Θ((3·5^(−α))^n) to (ρ^n+ν_α)‖F‖→K_α.
+- DISC-0113 → DISC-0127. Label: mathematical. AT's level-free bracket weights, now summed against ρ^j.
+- DISC-0116 → DISC-0127. Label: mathematical. AU's Mellin transform M(z) and its pole residue ⟨Θ⟩ give the continuation of the intercept.
+- DISC-0125 → DISC-0127. Label: mathematical. C_α+c_R/(ρ−1) is continuous through γ with value C_γ.
+- DISC-0127 → DISC-0128. Label: mathematical. Kept Failure AZ.1: the shift sign flips above γ.
+- DISC-0128 sits beside DISC-0126. Label: failed hypothesis. Naive carry-over of the endpoint renormalization.
+
+
+- DISC-0001 → DISC-0031. Label: historical. Same repository; GASKET.md continues the rectangle identity on the combinatorial gasket.
+- DISC-0031 → DISC-0032. Label: mathematical. The Schur line (1, −4/5, −1/5) and dipole algebra ‖F‖ = I_a√21/5 turn corner bounds into audit-norm bounds.
+- DISC-0032 → DISC-0033. Label: mathematical. Six shortcut laws for closing the α = 0.45 limit fail on the repository's data.
+- DISC-0032 → DISC-0034. Label: mathematical. Bounded (Theorem J) and energy-controlled (Theorem L), the α = 0.45 limit stays open.
+- DISC-0034 → DISC-0035. Label: computational. Difference ratios of 1/‖F‖ tend to 5^α/3 at six α; predicts L(0.45) ≈ 0.821.
+- DISC-0035 → DISC-0033. Label: computational. The predicted gap-ratio limit 0.687726 sits above log 3/log 5, which is why Kept Failure J.4 fired.
+- DISC-0031 stands apart from DISC-0005 and DISC-0020. Label: mathematical. Same gasket graph, different object (corner currents, not spectrum multiplicities).
+
+
+There is no historical edge from description text in this pass beyond the DISC-0003 → DISC-0007 HEAD advance. Description text that still disagrees with the files on older Coherence Drive repos is recorded on DISC-0002 as provenance. The stress-tensor-modification GitHub description mismatch with CLAIM_STATUS is recorded on DISC-0009 and DISC-0010 as the same known provenance class, not a new physics result. Those descriptions were not edited. The finite-gasket-spectral-derivatives description matches its claim fence. On 2026-10-02 the topological-pinch description still states a 92% thrust mechanism; that mismatch stays the DISC-0002 provenance note and is cited again on DISC-0013. The momentum-closure description still says the Ware term supplies real net momentum flux; that mismatch stays the DISC-0002 provenance note and is cited again on DISC-0015. On 2026-10-02 the m2-renormalization-law description still says the law is mesh-invariant and derived directly from the Coherence Drive baseline; that mismatch is cited on DISC-0016. On 2026-10-02 the ware-constant-phenomenology description still says W ≈ 0.08 is a universal dimensionless coupling across subatomic, galactic, and cosmological anomalies; that mismatch with CLAIM_STATUS (SPARC χ² UNSUPPORTED; W=0.08 NOT DERIVED) is cited on DISC-0017. On 2026-10-02 the -ware-constant-derivation description still says a rigorous mathematical derivation of W ≈ 0.08 from the Coherence Drive thrust target and fractal LDOS asymmetry; that mismatch with CLAIM_STATUS (Numerical W=0.08 NOT DERIVED; pinch REJECTED; beta CIRCULAR) is cited on DISC-0018. None of those descriptions was edited. On 2026-10-02 finite-gasket-spectral-derivatives at 19a1264e4511a2ff2e60e55040590e250372d3f0 was re-fetched; its description still matches its claim fence (no new mismatch). Free mult / mass / Dirichlet claims are DISC-0020/0021/0022. The sentence that W(n) is not a consequence of locked K, and that W < 1/6 is not the model cut W < 0.125, is not a new row.
+- DISC-0042 → DISC-0129. Label: mathematical. Theorem N's ∂_iΨΔΨ read on the mesh as f_c=−q_cg_c.
+- DISC-0118 → DISC-0129. Label: conceptual. Continuum nonlocal readings deferred the 0.45 mesh; BA computes it.
+- DISC-0123 → DISC-0129. Label: conceptual. Last continuum reading before the mesh computation.
+- DISC-0129 → DISC-0130. Label: failed hypothesis. Kept Failure BA.1: stencil/self-force defect, not informational.
+- DISC-0129 → DISC-0131. Label: mathematical. Conjecture BA.2: 2^−nκ_n has a nonzero limit.
+- DISC-0130 sits beside DISC-0043, DISC-0119, DISC-0121, DISC-0124. Label: failed hypothesis. Readings whose residual is not a device force.
+- DISC-0129 → DISC-0132. Label: mathematical. Theorem BB decimates BA's κ_n through the AQ–AS corner resolvent.
+- DISC-0132 → DISC-0131. Label: mathematical. Theorem BB proves Conjecture BA.2 (status CONJECTURE → THEOREM); K(0.45)=−0.85464690512….
+- DISC-0132 → DISC-0130. Label: failed hypothesis. BB.5 proves the surviving limit is self-force.
+- DISC-0132 → DISC-0133. Label: failed hypothesis. Kept Failure BB.1: self-force removal leaves a certified nonzero residual.
+- DISC-0132 → DISC-0134. Label: mathematical. Conjecture BB.2: cross-part rate (2·5^(α−1)/3)^n.
+- DISC-0127 → DISC-0132. Label: mathematical. AZ's supercritical R_α(n) asymptotic gives BB.4's α>γ law.
+- DISC-0129 → DISC-0135. Label: mathematical. Theorem BC recomputes BA's residual under the centred Green–Gauss gradient; κ^GG_n=κ_n.
+- DISC-0130 → DISC-0135. Label: failed hypothesis. BC.2 explains why BA.5's torus cancellation does not transfer (D3 has no half-turn).
+- DISC-0132 → DISC-0135. Label: mathematical. BC.4 reproduces BB.1; κ^GG_n inherits the limit K(0.45).
+- DISC-0135 → DISC-0136. Label: failed hypothesis. Kept Failure BC.1: centred stencil does not restore action–reaction on the gasket.
+- DISC-0135 → DISC-0137. Label: mathematical. Conjecture BC.2: E_n/Y_n→2, tanθ_n→−1/(3√3).
+- DISC-0133 → DISC-0137. Label: mathematical. E_n<3Y_n for all n would extend κ^cross>0 to every level.
+- DISC-0135 → DISC-0138. Label: mathematical. Theorem BD uses BC's corner-cell kernel and non-centrality ratio.
+- DISC-0132 → DISC-0138. Label: mathematical. BB's t- and y-recursions drive the induction e_n=(2−t_n)y_n.
+- DISC-0138 → DISC-0137. Label: mathematical. Theorem BD proves Conjecture BC.2 (status CONJECTURE → THEOREM); tanθ_n→−1/(3√3) for every α.
+- DISC-0138 → DISC-0133. Label: mathematical. κ^cross_n>0 at every level and every α.
+- DISC-0138 → DISC-0139. Label: failed hypothesis. Kept Failure BD.1: rate constant is not 2 and depends on α.
+- DISC-0138 → DISC-0140. Label: mathematical. Conjecture BD.2: c(α) decreasing, c(1^−)=2, c(0^+)=∞.
+- DISC-0138 → DISC-0141. Label: mathematical. Theorem BE uses BD.2's Stieltjes t_n and BD.4's scaling limits T, 𝒴.
+- DISC-0141 → DISC-0140. Label: mathematical. Theorem BE proves the decrease of c(α) and c(1^−)=2 (status CONJECTURE → THEOREM for those parts).
+- DISC-0141 → DISC-0142. Label: failed hypothesis. Kept Failure BE.1: c(0^+) is finite, certified in [5.48553067,5.50249013].
+- DISC-0142 → DISC-0140. Label: failed hypothesis. Refutes the c(0^+)=∞ part of Conjecture BD.2.
+- DISC-0141 → DISC-0143. Label: mathematical. Conjecture BE.2: c is convex on (0,1).
+- DISC-0141 → DISC-0144. Label: mathematical. Theorem BF uses BE.3's 3S and BE.4's c_0 as endpoint data.
+- DISC-0138 → DISC-0144. Label: computational. Theorem BF's certificate uses BD.4's scaling limits T_60, 𝒴_60 and tail factors.
+- DISC-0144 → DISC-0143. Label: mathematical. Theorem BF proves Conjecture BE.2 (status CONJECTURE → THEOREM).
+- DISC-0144 → DISC-0145. Label: mathematical. Conjecture BF.2: c'' is not monotone.
+- DISC-0106 → DISC-0146. Label: mathematical. AQ's corner-resolvent decimation drives BG.1's telescoping.
+- DISC-0132 → DISC-0146. Label: mathematical. BB.1's charge form u_n=Gq+d̄1 is BG.1's starting point.
+- DISC-0138 → DISC-0146. Label: mathematical. BD.4's scaling limits ψ, 𝒴 give BG.3's renormalised profile.
+- DISC-0127 → DISC-0146. Label: mathematical. AZ's A_α gives the non-flat limit above γ.
+- DISC-0111 → DISC-0146. Label: computational. AS's certified 𝓛(0.45), D_∞(0.45) re-run for U and the BG.1 gap.
+- DISC-0146 → DISC-0147. Label: failed hypothesis. Kept Failure BG.1: the flat limit is not uniform (corner layer, gap 0.3853654863…).
+- DISC-0146 → DISC-0148. Label: mathematical. Conjecture BG.2: uniform, continuous limit above γ.
+- DISC-0146 → DISC-0149. Label: mathematical. BG.1's restriction identity and exact profile feed BH.1's corner-cell decomposition.
+- DISC-0106 → DISC-0149. Label: mathematical. AQ's corner resolvent fixed point equals BH.2's r_∞=1/(2+s−2η).
+- DISC-0111 → DISC-0149. Label: computational. AS's J_r, J_w re-run for θ_0 and the Θ certificate.
+- DISC-0149 → DISC-0147. Label: mathematical. Theorem BH resolves the corner layer of Kept Failure BG.1 (status unchanged, REJECTED).
+- DISC-0149 → DISC-0150. Label: mathematical. Conjecture BH.7: θ_∞(0.45)≈0.52061.
+- DISC-0146 → DISC-0151. Label: mathematical. BG.3's pointwise limit is upgraded to a uniform one.
+- DISC-0149 → DISC-0151. Label: computational. BH's η enclosure feeds the certificate for G=0.6031.
+- DISC-0106 → DISC-0151. Label: mathematical. AQ's fixed point anchors the p-orbit bootstrap below 1e−5.
+- DISC-0151 → DISC-0148. Label: mathematical. Theorem BI proves Conjecture BG.2 (CONJECTURE → THEOREM).
+- DISC-0151 → DISC-0152. Label: mathematical. Conjecture BI.7: the ρ^−N modulus is sharp.
+- DISC-0151 → DISC-0153. Label: mathematical. Theorem BJ gives the matching lower bound to BI's ρ^−N modulus.
+- DISC-0149 → DISC-0153. Label: computational. BH's η enclosure and r_∞=1/(2+s−2η) feed the g bracket.
+- DISC-0106 → DISC-0153. Label: mathematical. AQ's step is affine in the reciprocal (BJ.1).
+- DISC-0153 → DISC-0152. Label: mathematical. Theorem BJ proves Conjecture BI.7 items 1–2 (CONJECTURE → THEOREM).
+- DISC-0153 → DISC-0154. Label: mathematical. Conjecture BJ.7: a ρ^−n rate for u_n→ū.
+- DISC-0152 → DISC-0154. Label: historical. BJ.7 is BI.7's open third item.
+- DISC-0151 → DISC-0155. Label: mathematical. Theorem BK gives a ρ^−n rate for BI's uniform convergence.
+- DISC-0146 → DISC-0155. Label: mathematical. BG.3's exact profile is the F_n of BK's one-level transfer.
+- DISC-0106 → DISC-0155. Label: mathematical. AQ's step gives the transfer weight ω_n≥1.
+- DISC-0153 → DISC-0155. Label: mathematical. BJ's ρ^−N lower bound is the counterpart of BK's ρ^−n upper bound.
+- DISC-0155 → DISC-0154. Label: mathematical. Theorem BK proves Conjecture BJ.7 as an upper bound (CONJECTURE → THEOREM).
+- DISC-0155 → DISC-0156. Label: mathematical. Conjecture BK.6: the ρ^−n rate is attained.
+- DISC-0154 → DISC-0156. Label: historical. BK.6 is the attainment half of BJ.7's order claim.
+- DISC-0155 → DISC-0157. Label: mathematical. BK.1's transfer and BK.4's ceiling are the inputs of BL's covariance floor.
+- DISC-0153 → DISC-0157. Label: mathematical. BJ.4's data-free deficit and η_N are the integrand made monotone by BL.1.
+- DISC-0151 → DISC-0157. Label: mathematical. BI.1's orbit lemma and BI.4's ceiling give BL.4's deficit ceilings.
+- DISC-0157 → DISC-0156. Label: mathematical. Theorem BL proves the sharpness half of Conjecture BK.6 at α=0.8, N≥9 (CONJECTURE → split).
+- DISC-0156 → DISC-0158. Label: historical. BK.6 as first worded fails at N=0 (Kept Failure BL.0).
+- DISC-0156 → DISC-0159. Label: historical. The limit half of BK.6, restated for N≥1, is Conjecture BL.6.
+- DISC-0157 → DISC-0159. Label: mathematical. Floats 0.6025 sit inside BL's certified window [c_N, 4.6644].
+- DISC-0157 → DISC-0160. Label: mathematical. BL.2–BL.4 are the inputs of BM's limiting argument.
+- DISC-0155 → DISC-0160. Label: mathematical. BK.4's J_α and upper ceiling.
+- DISC-0160 → DISC-0156. Label: mathematical. Sharpness half of BK.6 for every α∈(γ,1), N≥N₀(α).
+- DISC-0160 → DISC-0159. Label: experimental. Float limit ≈0.364 at α=0.9 vs ≈0.6025 at 0.8: C_δ depends on α if it exists.
+- DISC-0155 → DISC-0161. Label: mathematical. BK.1's weight ω_k, now proved increasing (α≥1/17).
+- DISC-0157 → DISC-0161. Label: mathematical. BL.1's monotone G_k and BL.4(ii)'s pointwise bound.
+- DISC-0161 → DISC-0160. Label: mathematical. Removes BM's threshold N₀(α).
+- DISC-0161 → DISC-0156. Label: mathematical. Sharpness half of BK.6 for every α∈(γ,1), every N≥1.
+- DISC-0161 → DISC-0159. Label: mathematical. Monotonicity clause of BL.6 proved (every N≥1, α≥1/17); limit clause stays CONJECTURE.
+- DISC-0161 → DISC-0162. Label: mathematical. BN.1's Stieltjes form and BN.2's identity; threshold 1/17 lowered to a*.
+- DISC-0162 → DISC-0163. Label: mathematical. Matching failure of monotone ω_k below a* at every k≥3.
+- DISC-0162 → DISC-0159. Label: mathematical. Monotonicity clause of BL.6 widened to α≥A_hi; limit clause stays CONJECTURE.
+- DISC-0161 → DISC-0164. Label: mathematical. BN.2 majorant reused for every α≥0; BN.3 covers α>1/17.
+- DISC-0163 → DISC-0164. Label: mathematical. Weight failure below a* does not propagate to the deficit.
+- DISC-0164 → DISC-0159. Label: mathematical. Monotonicity clause of BL.6 widened to every α∈(0,1); limit clause stays CONJECTURE.
+- DISC-0164 → DISC-0165. Label: mathematical. BP's open rate question answered: ρ^n exact below γ.
+- DISC-0146 → DISC-0165. Label: mathematical. The limit C_N=P_N/D_∞ is BG.3 specialised.
+- DISC-0125 → DISC-0165. Label: mathematical. n^−1 rate at γ derived from AY.
+- DISC-0165 → DISC-0166. Label: mathematical. Renormalised deficit V^(n) neither monotone nor one-sided.
+- DISC-0165 → DISC-0167. Label: mathematical. BQ's open N-dependence of C_N answered: ρ^N C_N ↑ c_∞(α), C_N of exact order ρ^−N; BQ.3's ρC_1 is the every-N lower end.
+- DISC-0164 → DISC-0167. Label: mathematical (related). BP: δ_N^(n) increasing in level n; BR: decreasing in depth N.
+- DISC-0149 → DISC-0167. Label: mathematical. BH.2 η recursion and remainder identity give η_N increasing in N.
+- DISC-0153 → DISC-0167. Label: mathematical. BJ.2–BJ.3 power bracket bounds ρ^N C_N and pins c_∞.
+- DISC-0167 → DISC-0168. Label: mathematical. BR's open rate of ρ^N C_N→c_∞ answered: c_∞−ρ^N C_N=ρ^N χ_N, χ_N→χ_∞∈(0,∞); individual C_N certified N=1–6; c_∞ formula made AT.1-free.
+- DISC-0165 → DISC-0168. Label: mathematical. C_N=P_N/D_∞ and the D_∞ routine; BQ.3's C_1 reproduced by a different route and tightened.
+- DISC-0153 → DISC-0168. Label: mathematical. BJ.1 scaled by 5^−M gives 1/𝓡=1/Q_∞+Φ; BJ.3's bracket transported to every u.
+- DISC-0149 → DISC-0168. Label: mathematical. BH.2 remainder η−η_N gives the B_N term.
+- DISC-0168 → DISC-0169. Label: mathematical. Conjecture BS.4: χ_N strictly decreasing in N (certified N=1–5 at 0.45).
+- DISC-0168 → DISC-0150. Label: mathematical (derived only). Under AT.1, c_∞=θ_∞^BH; BH.7 not decided.
+- DISC-0168 → DISC-0170. Label: mathematical. BS's one unknown F=u^(1−γ)Q_∞ is pinned: F=Θ∘ψ, continuous, extremes and mean certified; AT.1 hypothesis of BS's derived paragraph proved.
+- DISC-0113 → DISC-0170. Label: mathematical. AT.1's Θ shown to exist at every s as a monotone orbit supremum, with a one-sided O(s^γ) rate.
+- DISC-0116 → DISC-0170. Label: mathematical. ⟨F⟩=⟨Θ⟩ (AU's mean) proved; certified ⟨F⟩ bracket contains AU's value.
+- DISC-0151 → DISC-0170. Label: mathematical. BI.4's G=0.6031 is sharp at G*=max F≤0.6009631774.
+- DISC-0153 → DISC-0170. Label: computational. BJ.1 brackets give the 2^17+1 node enclosures; BJ.3 bracket sharpened.
+- DISC-0170 → DISC-0114. Label: mathematical. Kept Failure BT.5 re-confirms AT.1's rejection in Q_∞ form with a certified witness.
+- DISC-0170 → DISC-0150. Label: mathematical. c_∞=θ_∞^BH unconditional; value part bracketed at theorem level; BH.7 rate not decided.
+- DISC-0170 → DISC-0171. Label: mathematical. BT's F=Θ∘ψ is θ itself (ψ_AU=ψ^−1); BT.4 brackets narrowed from 1.6e−6 to ~1e−12 by convex chord cells.
+- DISC-0116 → DISC-0171. Label: mathematical. AU's θ, Mellin residues and certified Fourier table become BS's profile's.
+- DISC-0161 → DISC-0171. Label: mathematical. BN.1's Stieltjes r_k give convexity of r_∞, the basis of the O(h²) cell sandwich.
+- DISC-0171 → DISC-0172. Label: mathematical. Kept Failure BU.4: half-period antisymmetry refuted from BU.3's brackets alone.
+- DISC-0171 → DISC-0173. Label: mathematical. BU's open decay rate (upper half), θ̂_k≠0 for k≤11, and extremal locations answered; G* to ~60 digits.
+- DISC-0161 → DISC-0173. Label: mathematical. BN.1's Stieltjes r_k give the sector bound and, by Vitali, holomorphy of r_∞ off (−∞,0].
+- DISC-0116 → DISC-0173. Label: computational. AU (3)'s certified routine re-run at 170 digits extends the coefficient table to k=11.
+- DISC-0173 → DISC-0174. Label: mathematical. Kept Failure BV.5: extremes not half a period apart (offset −1.624e−7).
+- DISC-0172 → DISC-0174. Label: historical. Same grid coincidence (nodes 2^17 apart) behind both rejected half-period hypotheses.
+- DISC-0173 → DISC-0175. Label: mathematical. Conjecture BV.6: the strip-width rate is sharp.
+- DISC-0173 → DISC-0176. Label: computational. Same certified routine re-run deeper with sandwich order 32/33: θ̂_k≠0 extended from k≤11 to k≤20, G* from ~60 to ~109 digits.
+- DISC-0116 → DISC-0176. Label: computational. AU (3)'s routine imported unchanged with new parameters.
+- DISC-0176 → DISC-0175. Label: experimental. Nine more certified normalised moduli (k=12..20) inside [0.60,0.93]; evidence only.
+- DISC-0176 → DISC-0174. Label: computational. Kept Failure BV.5's offset −1.624e−7 reproduced to 22 digits.
+- DISC-0173 → DISC-0177. Label: mathematical. BV.2's strip continuation plus the Stieltjes characterisation gives the spectral factorisation; BX.3 replaces BV.3's bound with the sharp constant πc_R(γ)/ln5.
+- DISC-0176 → DISC-0177. Label: computational. BW's enclosures, re-run unchanged, give ρ_1..ρ_20 and the T_17 certificate.
+- DISC-0116 → DISC-0177. Label: mathematical. AU (1)'s c_R(γ) equals twice the spectral mass per period.
+- DISC-0177 → DISC-0175. Label: mathematical. Conjecture BV.6 is equivalent to ρ_k→ρ_∞>0.
+- DISC-0177 → DISC-0178. Label: mathematical. Positive-definite T_17 rules out ≤16 pole series.
+- DISC-0177 → DISC-0179. Label: computational. BX's Toeplitz certificate pushed from T_17 to T_20 with a deeper sandwich (40/41, 380 digits).
+- DISC-0176 → DISC-0179. Label: computational. Same certified routine, θ̂_k≠0 extended from k≤20 to k≤21.
+- DISC-0179 → DISC-0178. Label: mathematical. Kept Failure BY.3: T_20≻0 rules out ≤19 pole series (same hypothesis, wider r).
+- DISC-0179 → DISC-0175. Label: experimental. One more certified normalised modulus (ρ_21=0.70637) inside the band; evidence only.
+- DISC-0177 → DISC-0180. Label: mathematical. BX's Stieltjes measure ν analysed through the decimation: no absolutely continuous part, 311 atoms per period.
+- DISC-0180 → DISC-0175. Label: mathematical. Kept Failure BZ.6 decides Conjecture BV.6: ρ_k has no limit (asymptotic part REJECTED); sharp rate and maximal strip proved. STATUS CHANGE.
+- DISC-0180 → DISC-0178. Label: mathematical. Kept Failure BZ.5(b): 311 atoms rule out ≤310 pole series (same hypothesis, wider r).
+- DISC-0180 → DISC-0181. Label: mathematical. Kept Failure BZ.5(a): ν is not absolutely continuous.
+- DISC-0180 → DISC-0179. Label: mathematical. Remark: ≥311 support points give T_n≻0 for n≤311, settling BY's open T_21.
+- DISC-0180 → DISC-0173. Label: mathematical. BV.2's strip |Im t|<π/ln5 is maximal.
+- DISC-0180 ↔ prior art (Teplyaev 1998, Fukushima–Shima 1992). Label: historical. Spectral decimation and pure point spectrum on infinite gaskets; identification not verified.
+- DISC-0180 → DISC-0182. Label: mathematical. BZ's 311 atoms explained exactly: all lie on Λ_O, the ψ-preimage of the backward orbit of −3; infinitely many atoms per period.
+- DISC-0182 → DISC-0183. Label: mathematical. Kept Failure CA.5: the −2 branch of p^−1(−6) seeds no atom (poles of c, e).
+- DISC-0182 → DISC-0184. Label: mathematical. Converse of CA.2 and pure point: Conjecture CA.6.
+- DISC-0184 → DISC-0175. Label: mathematical. If CA.6 holds, limsup ρ_k=1 exactly.
+- DISC-0182 ↔ prior art (Fukushima–Shima 1992 6-series with forbidden value 2; Teplyaev 1998). Label: historical. Same structure under x=−z; identification not verified.
+- DISC-0182 → DISC-0185. Label: mathematical. The identity c·p/2−e=z/2 makes H=1/r−z/2 multiplicative: closed product for 1/r_∞ and 1/Q_∞.
+- DISC-0185 → DISC-0184. Label: mathematical. CB.4 proves CA.6 off −Z (status SPLIT); −Z and pure point open.
+- DISC-0185 → DISC-0183. Label: mathematical. Whole −2 branch carries no atom.
+- DISC-0180 → DISC-0185. Label: mathematical. BZ.3's S equals Πψ/2.
+- DISC-0185 ↔ prior art (spectral-decimation products, Fukushima–Shima 1992; Teplyaev 1998). Label: historical. Identification not verified.
+- DISC-0185 → DISC-0186. Label: mathematical. H=c·H∘p inverted: F=−1/H Nevanlinna with F=k·F∘p; transfer weight (2−t)/(6−t)≤7/11 kills σ on K_p.
+- DISC-0186 → DISC-0184. Label: mathematical. ν(−Z)=0: CA.6 proved in full (SPLIT → THEOREM).
+- DISC-0186 → DISC-0175. Label: mathematical. limsup ρ_k=1 exactly; BX.3 sharp bound attained.
+- DISC-0186 → DISC-0180. Label: mathematical. BZ.6 limsup ≥0.99968 becomes =1; liminf ≤0.59486582; uncaptured mass 4.03e−5 → δ_14=7.84e−7.
+- DISC-0186 ↔ prior art (Teplyaev 1998; Malozemov–Teplyaev 2003). Label: historical. Identification not verified.
+
+A further 2026-10-29 append adds DISC-0187 (THEOREM; Theorem CD, exact atom level counts) from informational-flux-identity 09936074caa8.
+- DISC-0186 → DISC-0187. Label: mathematical. CC's observed counts 1,0,1,3,5·2^(k−4) proved at every level by tracking the period endpoint's orbit under p.
+- DISC-0182 → DISC-0187. Label: mathematical. O_k=p^−k(−3) has exactly 2^k points in (−5,0)∖{−5/2}; 5/16 of them lie in one period for k≥4.
+- DISC-0187 ↔ prior art (endpoint-orbit counting in 1-D dynamics; Fukushima–Shima 1992). Label: historical. Exact sequence not found; search not exhaustive.
+
+A further 2026-10-29 append adds DISC-0188 (THEOREM; Theorem CE, level-sum ratio) and DISC-0189 (REJECTED; Kept Failure CE.6) from informational-flux-identity a056d01a8282.
+- DISC-0186 → DISC-0188. Label: mathematical. CC's observed ratio 0.42373 proved as the spectral radius of the twisted transfer operator L̃.
+- DISC-0187 → DISC-0188. Label: mathematical. CD counts atoms per level, CE gives mass per level; mean mass per atom has ratio r/2.
+- DISC-0185 → DISC-0188. Label: mathematical. CB.5's product masses factor as σ_y=w(y)σ_p(y).
+- DISC-0188 → DISC-0189. Label: mathematical. Untwisted weight vanishes at −5, parasitic eigenvalue 1/3; twist by q=−t removes it.
+- DISC-0188 ↔ prior art (Ruelle–Perron–Frobenius operators; Birkhoff 1957 cone contraction). Label: historical. Constant r not found; no targeted search.
+
+A further 2026-10-29 append adds DISC-0190 (THEOREM; Theorem CF, explicit Birkhoff contraction for L̃) from informational-flux-identity dab0578773f9.
+- DISC-0188 → DISC-0190. Label: mathematical. CF proves CE's cited Assumption CE with explicit θ<0.5442 per 5 steps; DISC-0188 becomes unconditional.
+- DISC-0189 → DISC-0190. Label: mathematical. The twist that removes CE.6's vanishing weight is what makes the log-Lipschitz cone invariant.
+- DISC-0190 ↔ prior art (Birkhoff 1957; Bushell 1973; Liverani 1995). Label: historical. Constants not searched.
+
+A further 2026-10-29 append adds DISC-0191 (THEOREM; Theorem CG, certified top spectrum of L̃) from informational-flux-identity 8364d9497c57.
+- DISC-0190 → DISC-0191. Label: mathematical. CG certifies the λ_2≈−0.0731 that CF observed; CF.5 identifies CG's top eigenvalue with r.
+- DISC-0188 → DISC-0191. Label: mathematical. Same operator L̃ and constant r.
+- DISC-0191 ↔ prior art (Pellet 1881; Jenkinson–Pollicott; Bandtlow–Jenkinson). Label: historical. Constants not searched.
+
+A further 2026-10-29 append adds DISC-0192 and DISC-0193 from beyond-repair/coherence-dynamics ca90e0a17786 (first read of that repo).
+- DISC-0192 → DISC-0193. Label: mathematical. I+2 identity from 0192 gives the J(∞)=2M1/M0 constant in 0193.
+- DISC-0192 ↔ prior art (Stieltjes / complete Bernstein functions). Label: historical.
+- DISC-0193 ↔ prior art (Abelian theorems, Karamata regular variation). Label: historical.
+- coherence-dynamics ↔ Ware-constant line (W ≈ 0.08). Label: historical only; repo explicitly does not use W.
+
+A 2026-10-30 append adds DISC-0194 (THEOREM; Theorem CH and Kept Failure CH.4) from informational-flux-identity 127df7ca9fb8.
+- DISC-0191 → DISC-0194. Label: mathematical. CH transfers CG's H² eigenvalues to C^k, k≥2, and shows C¹ has extra point spectrum.
+- DISC-0190 → DISC-0194. Label: mathematical. CF.5's C¹ bound 0.8855 r improved to 0.3175 r.
+- DISC-0194 ↔ prior art (Hennion 1993; Ruelle 1989; Collet–Isola 1991). Label: historical.
+
+A 2026-10-30 append adds DISC-0195 (THEOREM; Theorem CI, C¹ essential radius) from informational-flux-identity 80f30b8a0172.
+- DISC-0194 → DISC-0195. Label: mathematical. CH.4's C¹ eigenvalue disk 0.1089 extended to 0.1343547; open band narrowed to 4·10⁻⁷.
+- DISC-0195 ↔ prior art (Ruelle 1989; Collet–Isola 1991; Hennion 1993). Label: historical.
+
+A 2026-10-30 append adds DISC-0196 (THEOREM; Theorem CJ, full C¹ spectrum, Conjecture CI.6 proved) from informational-flux-identity 94ae1e7d93e5.
+- DISC-0195 → DISC-0196. Label: mathematical. CI's annulus (0.1343547, 0.1343551] closed; CI.6 CONJECTURE → THEOREM.
+- DISC-0190 → DISC-0196. Label: mathematical. CF.1's Birkhoff contraction reused for L_1.
+- DISC-0196 ↔ prior art (Ruelle 1989; Collet–Isola 1991; Hennion 1993; Birkhoff 1957; Liverani 1995). Label: historical.
+- Correction: the CH.3 truncation erratum on DISC-0194/0195 is retracted (display artifact).
+
+A 2026-10-30 append adds DISC-0197 (THEOREM; Theorem CK, Hennion assumption discharged) from informational-flux-identity b5a09a39c038.
+- DISC-0196 → DISC-0197. Label: mathematical. CJ.5 outer half made unconditional.
+- DISC-0195 → DISC-0197. Label: mathematical. CI.5 upper half made unconditional.
+- DISC-0194 → DISC-0197. Label: mathematical. CH.3 made unconditional.
+- DISC-0197 ↔ prior art (Ruelle 1989; Collet–Isola 1991; Hennion 1993; Baladi 2000). Label: historical.
+
+A 2026-10-30 append adds DISC-0198 (THEOREM; Theorem CL, exact C^k essential radius and closed C¹ essential disk) from informational-flux-identity 0b34f9192458.
+- DISC-0197 → DISC-0198. Label: mathematical. CK's upper bound r_ess(C^k)≤ρ(L_k) made an equality for every k.
+- DISC-0196 → DISC-0198. Label: mathematical. CJ's boundary circle narrowed: jet-zero eigenfunctions excluded.
+- DISC-0198 ↔ prior art (Collet–Isola 1991; Gundlach–Latushkin 2003; Ruelle 1989; Baladi 2000). Label: historical.
+
+A 2026-10-30 append adds DISC-0199 (THEOREM; Theorem CM, open C^k disk filled with infinite-multiplicity eigenvalues for every k) from informational-flux-identity 46889b83fb0c.
+- DISC-0198 → DISC-0199. Label: mathematical. CL's open k≥2 disk question answered; σ_e(C^k) is the closed disk.
+- DISC-0196 → DISC-0199. Label: mathematical. CJ.4's C¹ gap-bump eigenfunctions generalized to all k without a cone certificate.
+- DISC-0199 ↔ prior art (Keller 1984; Collet–Isola 1991; Baladi 2000). Label: historical.
+
+A 2026-10-30 append adds DISC-0200 (THEOREM; Theorem CN, B ≠ 0 in CG.4, exact rate |λ_2|/r of the level sums with an explicit constant) from informational-flux-identity 077b6fc50dc0.
+- DISC-0191 → DISC-0200. Label: mathematical. CG.4's open B ≠ 0 question answered.
+- DISC-0190 → DISC-0200. Label: mathematical. CF.3's C_G no longer needed for the level sums.
+- DISC-0200 ↔ prior art (Riesz projections; Krawczyk 1969; Noshiro–Warschawski; Prony). Label: historical.
+
+A 2026-10-30 append adds DISC-0201 (THEOREM; Theorem CO, a_3 ≠ 0 in CN.2, exact second-order rate |λ_3|/r of the level sums, B sharpened 50×) from informational-flux-identity 888d3bee13fa.
+- DISC-0200 → DISC-0201. Label: mathematical. CN's open a_3 ≠ 0 item answered; a_1, a_2 recomputed by an independent route and consistent.
+- DISC-0191 → DISC-0201. Label: mathematical. CG.2's λ_3 shown to carry nonzero weight in the level sums.
+- DISC-0201 ↔ prior art (Riesz projections; Krawczyk 1969; Trefethen–Weideman 2014 trapezoid aliasing). Label: historical.
+
+A 2026-10-30 append adds DISC-0202 (THEOREM; Theorem CP, explicit n_0 = 4 for the sign of CO.5's residual, exact third-order rate λ_2²/(r|λ_3|) = 0.7391538) from informational-flux-identity f7845ada80f9.
+- DISC-0201 → DISC-0202. Label: mathematical. CO.5's open explicit-n_0 item answered.
+- DISC-0200 → DISC-0202. Label: mathematical. CN.2's ε_0 sets the tail threshold n_0 = 12.
+- DISC-0202 ↔ prior art (explicit Taylor remainders; Tucker 2011 validated numerics). Label: historical.
+
+A 2026-10-30 append adds DISC-0203 (THEOREM; Theorem CQ, fourth eigenvalue λ_4 and a_4 ≠ 0, exact rate |λ_4| of CN.2's remainder) from informational-flux-identity cae1d855f3c7.
+- DISC-0202 → DISC-0203. Label: mathematical. CP's "certify λ_4, a_4" next experiment done.
+- DISC-0201 → DISC-0203. Label: computational. DISC-0201's float fit a_4 ≈ −2.2e-7 certified.
+- DISC-0200 → DISC-0203. Label: mathematical. CN.2's remainder gets the exact rate |λ_4|.
+- DISC-0203 ↔ prior art (Pellet, Krawczyk/Rump, Kato resolvent counting, Higham). Label: historical.
+
+A 2026-10-30 append adds DISC-0204 (THEOREM; Theorem CR, fifth eigenvalue λ_5 and a_5 ≠ 0, all further eigenvalues below 1e-8, exact rate |λ_5| of CQ's remainder) from informational-flux-identity f847490267b1, and DISC-0205 (THEOREM; Theorem CS, sharp level-sum constants D_4, L and explicit sharp C_G*) from 9cb3b84d6b28.
+- DISC-0203 → DISC-0204. Label: mathematical. CQ's "certify a fifth eigenvalue" next experiment done; float cluster near 1e-7 was noise.
+- DISC-0201 → DISC-0204. Label: mathematical. CO.3/CO.4's projection formula reused for a_5.
+- DISC-0191 → DISC-0204. Label: mathematical. CG.1 tail formula and CG.3 homotopy carry the count at N = 300.
+- DISC-0204 ↔ prior art (Krawczyk/Rump, Kato resolvent counting, Neumann series). Label: historical.
+- DISC-0202 → DISC-0205. Label: mathematical. CP.2's two-sided bound is the input.
+- DISC-0200 → DISC-0205. Label: mathematical. CN.4's constants made sharp; lower bound from n = 4.
+- DISC-0201 → DISC-0205. Label: mathematical. CO.4's B gives L = B(q_2 − 1).
+- DISC-0190 → DISC-0205. Label: mathematical. CF.3's open C_G made explicit and sharp for the level sums.
+- DISC-0204 ↔ DISC-0205. Label: computational. Same session; the independent check is one script.
+
+A 2026-10-30 append adds DISC-0206 (THEOREM; Theorem CT, exact rate |ν_2|/ρ(L_1) = 0.2440800701 of inf R_n → ρ(L_1) with two-sided constants for n ≥ 10, ρ(L_1) to ±2.9e-20) from informational-flux-identity 219b29ba779b.
+
+- DISC-0196 → DISC-0206. Label: mathematical. CJ's open rate item closed.
+- DISC-0195 → DISC-0206. Label: mathematical. CI.1's interval for ρ(L_1) sharpened to ±2.9e-20.
+- DISC-0204 → DISC-0206. Label: computational. CR.1/CR.2's Krawczyk and Neumann routines reused.
+- DISC-0190 ↔ DISC-0206. Label: conceptual. Birkhoff cone rate versus exact spectral rate.
+
+A 2026-10-30 append adds DISC-0207 (THEOREM; Theorem CU, exact rates |ν_2^(k)|/ρ(L_k) = 0.2895670639, 0.3189949783, 0.3376293000 of inf R_n^(k) → ρ(L_k) for k = 2, 3, 4, with two-sided constants from n_0 = 7, 9, 12) from informational-flux-identity 8ea4fbef2a4c.
+
+- DISC-0206 → DISC-0207. Label: mathematical. CT's open item "L_k for k ≥ 2" addressed for k = 2, 3, 4.
+- DISC-0198 → DISC-0207. Label: mathematical. CL.3's intervals for ρ(L_k) sharpened to ~3e-20.
+- DISC-0204 → DISC-0207. Label: computational. CR.1/CR.2's Krawczyk and Neumann routines reused.
+- DISC-0191 → DISC-0207. Label: mathematical. CG.1 tail formula and CG.3 homotopy carry the count.
+
+A 2026-10-30 append adds DISC-0208 (THEOREM; Theorem CV, exact rates |ν_2^(k)|/ρ(L_k) of inf R_n^(k) → ρ(L_k) for k = 5..12 from n_0 = 16..47; Kept Failure CV.6: |q^(k)| peaks at k = 8) from informational-flux-identity 00df4a6ea6d7.
+
+- DISC-0207 → DISC-0208. Label: mathematical. CU's open item k ≥ 5 addressed for k ≤ 12; CU's monotone-|q| observation refuted at k = 9.
+- DISC-0206 → DISC-0208. Label: mathematical. CT.3's k = 1 values feed CV.6/CV.7.
+- DISC-0204 → DISC-0208. Label: computational. CR.1/CR.2's Krawczyk and Neumann routines reused through CU.
+- DISC-0191 → DISC-0208. Label: mathematical. CG.3 homotopy carries the count.
+
+A 2026-10-30 append adds DISC-0209 (THEOREM; Theorem CW, uniform-in-k bracket 0.1999·0.5999^k ≤ 3^(k+1)ρ(L_k) − 1 ≤ 0.2873·0.8352^k, proving 3^k ρ(L_k) → 1/3) from informational-flux-identity 572ca675ce2e.
+
+- DISC-0208 → DISC-0209. Label: mathematical. CV's "nothing uniform in k" item addressed for ρ; CV's 3^k ρ → 1/3 observation proved; CV.7 lower half extended to all k.
+- DISC-0207 → DISC-0209. Label: mathematical. CU.3's ρ(L_k), k = 2..4, inside CW.3 (consistency).
+- DISC-0206 → DISC-0209. Label: mathematical. CT.3's ρ(L_1) inside CW.3 (consistency).
+
+
+A 2026-10-30 append adds DISC-0210 (THEOREM; Theorem CX, exact rate B* = B(3/2) = 0.77737602763… of 3^(k+1)ρ(L_k) − 1 and monotonicity of 3^k ρ(L_k) for every k) from informational-flux-identity 4dc70c635d0b.
+
+- DISC-0209 → DISC-0210. Label: mathematical. CW's rate bracket collapsed to B*; CW's k ≥ 13 monotonicity item closed.
+- DISC-0208 → DISC-0210. Label: mathematical. CV.7 extended from k ≤ 12 to all k.
+- DISC-0206, DISC-0207, DISC-0208 → DISC-0210. Label: mathematical. CX.5 consistency.
+
+A 2026-10-31 append adds DISC-0211 (THEOREM; Theorem CY, q^(k) = ν_2^(k)/ρ(L_k) → −1/3 with explicit geometric bound, ν_2^(k) real, simple, isolated for every k) from informational-flux-identity 54ed04084f2e.
+
+- DISC-0210 → DISC-0211. Label: mathematical. CX's kept limit (q → −1/3 heuristic) proved.
+- DISC-0209 → DISC-0211. Label: mathematical. CW's h_k continued holomorphically as the frame; CW.3 used for q.
+- DISC-0208 → DISC-0211. Label: mathematical. CV's q → −1/3 observation proved; CV.6 decreasing half extended to k = 23.
+- DISC-0207 → DISC-0211. Label: computational. CU's routine reused unchanged for CY.5 (k = 13..23).
+- DISC-0206 → DISC-0211. Label: mathematical. CT's two-eigenvalue isolation extended to every k.
+
+A 2026-10-31 append adds DISC-0212 (THEOREM; Theorem CZ, exact rate k·B*^k and sign of q^(k) + 1/3, q^(k) < −1/3 for every k ≥ 4, |q^(k)| unimodal) from informational-flux-identity 3e743609c293.
+
+- DISC-0211 → DISC-0212. Label: mathematical. CY's kept limits (crude rate, sign/monotonicity only k ≤ 23) closed.
+- DISC-0210 → DISC-0212. Label: mathematical. CX.3's c_k bracket sharpened by CZ.2.
+- DISC-0208 → DISC-0212. Label: mathematical. CV.6's rise on 1..8 completed to a certified unimodal profile.
+- DISC-0207 → DISC-0212. Label: computational. CU's routine reused at new parameters for CZ.6 (k = 24..29).
+
+A 2026-10-31 append adds DISC-0213 (THEOREM; Theorem DA, uniform-in-k rate for inf R_n^(k) → ρ(L_k), Γ_±^(k) = ((2k+3)/12)κ_∓ + O(δ_k) for every k ≥ 29) from informational-flux-identity ed74f6de3998.
+
+- DISC-0212 → DISC-0213. Label: mathematical. CZ's Schur complement transposed gives the left eigenfunctionals.
+- DISC-0211 → DISC-0213. Label: mathematical. CY.1–CY.4 frame and localisation imported.
+- DISC-0208 → DISC-0213. Label: mathematical. CV.4's Γ_± (k ≤ 12) extended to every k ≥ 29.
+- DISC-0207 → DISC-0213. Label: mathematical. CU.4's constants tracked in k.
+- DISC-0206 → DISC-0213. Label: mathematical. CT.5's two-sided bound reused.
+
+A 2026-10-31 append adds DISC-0214 (THEOREM; Theorem DB, exact rate of inf R_n^(k) → ρ(L_k) for k = 13..28, so with DISC-0206/0207/0208/0213 for every k ≥ 1) from informational-flux-identity 22711f251b7a.
+
+- DISC-0213 → DISC-0214. Label: mathematical. DA's kept limit k = 13..28 closed; κ_- used in DB.6.
+- DISC-0207 → DISC-0214. Label: computational. CU's routine re-run unchanged at 1024 bits on 3^(k+1)L_k.
+- DISC-0208 → DISC-0214. Label: mathematical. CV.4's Γ_± used in DB.7.
+- DISC-0212 → DISC-0214. Label: computational. CZ.6's q used for consistency; CZ's "underflow" re-diagnosed as interval wrapping.
+- DISC-0206 → DISC-0214. Label: mathematical. CT.5's two-sided bound.
+
+A 2026-10-31 append adds DISC-0215 (THEOREM; Theorem DC, CF.3's Birkhoff-route constant made explicit, C_G^B ≤ 0.74544057 = 35.4 × C_G*) from informational-flux-identity 4996a9fca878.
+
+- DISC-0190 → DISC-0215. Label: mathematical. CF.3's C_G made explicit.
+- DISC-0205 → DISC-0215. Label: mathematical. Compared with CS's sharp C_G* (ratio 35.411).
+- DISC-0188 → DISC-0215. Label: mathematical. CE's setting and cone lemma.
+- DISC-0214 → DISC-0215. Label: historical. DB listed this item as open.
+
+A 2026-10-31 range note (finite-gasket-spectral-derivatives 2bc8a9fa43a3): DISC-0038 range S_k ≠ 0 for k ≤ 52, exact h_n for 3 ≤ n ≤ 54; DISC-0030/0027 stay CONJECTURE.
