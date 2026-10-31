@@ -74,3 +74,6 @@ In informational-flux-identity @ 8cbaea3aa21f: `pip install python-flint numpy s
 
 ## Change History
 - 2026-10-31: created.
+
+### Dated note 2026-10-31 (~12:20 EDT)
+DE's open item "certify a larger (a, n)" is done by Theorem DF (informational-flux-identity 3f0579e83c80): C₁₀₀ under L̃⁸, θ_F < 0.02958, rate < 0.64398. See DISC-0218. DE's bound stays smaller at k = 9, 10, 11, 19. This record is otherwise unchanged.

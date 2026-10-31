@@ -624,3 +624,11 @@ A 2026-10-31 append adds DISC-0217 (THEOREM; Theorem DE, joint ratio-of-sums osc
 - DISC-0205 → DISC-0217. Label: conceptual. Spectral route (0.1725) still sharper.
 
 A 2026-10-31 range note (finite-gasket-spectral-derivatives 81867817d9a8): isolated length S_2060 ≠ 0 (m = 12 lift p = 2048); excess ≤ 12 waits only on k = 4108; DISC-0038 range unchanged; DISC-0030/0027 stay CONJECTURE.
+
+A 2026-10-31 append adds DISC-0218 (THEOREM; Theorem DF, DE's joint programme on C_100 under L̃⁸, θ_F < 0.02958, rate < 0.64398) from informational-flux-identity 3f0579e83c80.
+
+- DISC-0217 → DISC-0218. Label: mathematical. DE's open item; same line programme on a larger cone and block.
+- DISC-0215 → DISC-0218. Label: mathematical. DC.2's B₀ used as stated; DC.3 carried to C_100.
+- DISC-0190 → DISC-0218. Label: mathematical. CF.2's cone step gives b₈.
+- DISC-0188 → DISC-0218. Label: mathematical. CE's setting and cone lemma.
+- DISC-0205 → DISC-0218. Label: conceptual. Spectral route (0.1725) still sharper; repo float scan plateaus near 0.63.
