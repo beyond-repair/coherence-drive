@@ -547,3 +547,10 @@ A 2026-10-30 append adds DISC-0207 (THEOREM; Theorem CU, exact rates |ν_2^(k)|/
 - DISC-0198 → DISC-0207. Label: mathematical. CL.3's intervals for ρ(L_k) sharpened to ~3e-20.
 - DISC-0204 → DISC-0207. Label: computational. CR.1/CR.2's Krawczyk and Neumann routines reused.
 - DISC-0191 → DISC-0207. Label: mathematical. CG.1 tail formula and CG.3 homotopy carry the count.
+
+A 2026-10-30 append adds DISC-0208 (THEOREM; Theorem CV, exact rates |ν_2^(k)|/ρ(L_k) of inf R_n^(k) → ρ(L_k) for k = 5..12 from n_0 = 16..47; Kept Failure CV.6: |q^(k)| peaks at k = 8) from informational-flux-identity 00df4a6ea6d7.
+
+- DISC-0207 → DISC-0208. Label: mathematical. CU's open item k ≥ 5 addressed for k ≤ 12; CU's monotone-|q| observation refuted at k = 9.
+- DISC-0206 → DISC-0208. Label: mathematical. CT.3's k = 1 values feed CV.6/CV.7.
+- DISC-0204 → DISC-0208. Label: computational. CR.1/CR.2's Krawczyk and Neumann routines reused through CU.
+- DISC-0191 → DISC-0208. Label: mathematical. CG.3 homotopy carries the count.

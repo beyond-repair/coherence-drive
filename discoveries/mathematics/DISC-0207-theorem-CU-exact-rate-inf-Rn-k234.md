@@ -89,3 +89,4 @@ Clone beyond-repair/informational-flux-identity at 8ea4fbef2a4c; `pip install py
 
 ## Change History
 - 2026-10-30: created from IFI 8ea4fbef2a4c.
+- 2026-10-30 (~9:20 PM EDT) note, history above preserved: IFI 00df4a6ea6d7 (Theorem CV, DISC-0208) extends the exact rate to k = 5..12 and, in Kept Failure CV.6, refutes the extrapolation recorded above ("|q| increasing" for k ≤ 4): |q^(k)| peaks at k = 8 (0.3588353292) and decreases for k = 8..12 (|q^(8)| − |q^(9)| = 7.205e-4). The k ≤ 4 statement above remains true; only its extension fails. Reproduced independently in DISC-0208.
