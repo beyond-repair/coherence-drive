@@ -81,3 +81,6 @@ Clone beyond-repair/informational-flux-identity at 9cb3b84d6b28; `pip install py
 
 ## Change History
 - 2026-10-30: created from IFI 9cb3b84d6b28.
+
+## Note (2026-10-31, appended; text above unchanged)
+The kept item "Birkhoff-route constant Θ_a(f_0, L̃f_0) not computed" is answered by IFI Theorem DC at 4996a9fca8782a8a80ceb41494872f85dacbb55d (DISC-0215): Θ_G ≤ 0.28154093, C_G^B ≤ 0.74544057 = 35.411·C_G*. CS's sharp constant stands; the Birkhoff route is provably above a floor of 0.0633864 for this f_0 and cone. Status unchanged.

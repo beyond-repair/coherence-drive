@@ -598,3 +598,12 @@ A 2026-10-31 append adds DISC-0214 (THEOREM; Theorem DB, exact rate of inf R_n^(
 - DISC-0208 → DISC-0214. Label: mathematical. CV.4's Γ_± used in DB.7.
 - DISC-0212 → DISC-0214. Label: computational. CZ.6's q used for consistency; CZ's "underflow" re-diagnosed as interval wrapping.
 - DISC-0206 → DISC-0214. Label: mathematical. CT.5's two-sided bound.
+
+A 2026-10-31 append adds DISC-0215 (THEOREM; Theorem DC, CF.3's Birkhoff-route constant made explicit, C_G^B ≤ 0.74544057 = 35.4 × C_G*) from informational-flux-identity 4996a9fca878.
+
+- DISC-0190 → DISC-0215. Label: mathematical. CF.3's C_G made explicit.
+- DISC-0205 → DISC-0215. Label: mathematical. Compared with CS's sharp C_G* (ratio 35.411).
+- DISC-0188 → DISC-0215. Label: mathematical. CE's setting and cone lemma.
+- DISC-0214 → DISC-0215. Label: historical. DB listed this item as open.
+
+A 2026-10-31 range note (finite-gasket-spectral-derivatives 2bc8a9fa43a3): DISC-0038 range S_k ≠ 0 for k ≤ 52, exact h_n for 3 ≤ n ≤ 54; DISC-0030/0027 stay CONJECTURE.

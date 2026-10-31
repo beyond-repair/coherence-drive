@@ -83,3 +83,6 @@ None. Pure mathematics on a graph Laplacian spectral measure.
 
 ## Note (2026-10-30, appended; text above unchanged)
 The open item "explicit C_G" is answered for the level sums only by IFI Theorem CS at 9cb3b84d6b2863320e2903993b9a31927af2d6ce: in the form |log(s_{k+1}/(rs_k))| ≤ C_G θ^{k/5} (k ≥ 4) the sharp constant is C_G* = |log(s_5/(rs_4))|θ^{−4/5} = 0.02105127810 ± 2.1·10⁻¹² (0.0210492 for θ̄ = 0.5442), via the spectral route (CG–CP), not via this record's Birkhoff bound. The Birkhoff-route constant Θ_a(f_0, L̃f_0) for general f (Lipschitz bound for log L̃⁴G) is still not computed. Status unchanged. See DISC-0205.
+
+## Note (2026-10-31, appended; text above unchanged)
+CF.3's constant C_G is now explicit on the Birkhoff route by IFI Theorem DC at 4996a9fca8782a8a80ceb41494872f85dacbb55d (DISC-0215): |log(s_{k+1}/(rs_k))| ≤ θ^{⌊(k−4)/5⌋}·0.28154093 ≤ 0.74544057·θ^{k/5} for k ≥ 4, and for a general f with b-Lipschitz log, θ^{⌊(m−j)/5⌋}K(β_j) with explicit K. Status unchanged.
