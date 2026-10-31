@@ -78,3 +78,6 @@ In informational-flux-identity @ 3f0579e83c80: `pip install python-flint numpy s
 
 ### Dated note 2026-10-31 (~1:05 PM EDT)
 DF's open item on the cone-lemma term is addressed by Theorem DG (informational-flux-identity 347ea08d1560): signed slope bound, cone term 0.0738370 → 0.012225, θ_G < 0.014183, rate < 0.58745. See DISC-0219. This record is otherwise unchanged.
+
+### Dated note 2026-10-31 (~2:10 PM EDT)
+Theorem DH (informational-flux-identity a273479fb361) reruns DF.2's joint-term cover on the longer block L̃⁹: W_H < 0.0142 (floor 0.013764) versus this record's W_F < 0.04451 on L̃⁸. See DISC-0220. This record is otherwise unchanged.

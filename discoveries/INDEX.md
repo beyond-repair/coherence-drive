@@ -638,3 +638,10 @@ A 2026-10-31 append adds DISC-0219 (THEOREM; Theorem DG, signed local-slope boun
 - DISC-0218 → DISC-0219. Label: mathematical. DF's open item; W_F used as stated, cone term replaced.
 - DISC-0188 → DISC-0219. Label: mathematical. CE.3's cone lemma is the term replaced.
 - DISC-0205 → DISC-0219. Label: conceptual. Spectral route (0.1725) still sharper; Birkhoff rate now 0.587.
+
+A 2026-10-31 append adds DISC-0220 (THEOREM; Theorem DH, L̃⁹ block and asymmetric factor lemma, θ_H < 0.0064696, rate < 0.57117) from informational-flux-identity a273479fb361.
+
+- DISC-0219 → DISC-0220. Label: mathematical. DG's kept limits (a, n), Θ_G′ and the D± floor.
+- DISC-0218 → DISC-0220. Label: computational. DF.2's joint-term cover rerun on L̃⁹.
+- DISC-0215 → DISC-0220. Label: mathematical. DC.2's b₀, B₀ feed the asymmetric f₀ term.
+- DISC-0205 → DISC-0220. Label: conceptual. Spectral 0.1725 still sharper; Birkhoff rate now 0.571, float plateau ~0.570.

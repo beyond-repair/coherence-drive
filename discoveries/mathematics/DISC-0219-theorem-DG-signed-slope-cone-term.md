@@ -74,3 +74,6 @@ In informational-flux-identity @ 347ea08: `pip install python-flint numpy sympy 
 
 ## Change History
 - 2026-10-31: created.
+
+### Dated note 2026-10-31 (~2:10 PM EDT): correction to this archive's float floor
+The float floor stated above (D₊ ≥ 0.75939, D₋ ≥ −0.15382) came from my Dinkelbach iteration in `indep_theorem_DG.py`, which stalls below the supremum near s = 5/2 (found while checking Theorem DH; see DISC-0220). Re-running the same pointwise programme for L̃⁸ with bisection on the exact chain DP (129 points) gives max D₊ = 0.760712 and max D₋ = −0.153556. Corrected float floor: D₊ ∈ [0.76071, 0.76155) (gap 0.11 %), D₋ ∈ [−0.15356, −0.15311). The certified bounds and the 19/19 PASS verdict are unaffected: the old values were still lower bounds, only weaker. Theorem DH now certifies a floor for the L̃⁹ case. The text above is kept as written.
