@@ -7,7 +7,7 @@ DISC-0208
 THEOREM (mathematical sense only; interval-certified proof in the source repository) for CV.1–CV.5 and CV.7. Method: KNOWN (CU's routine rerun with N = 180, Neumann power 20, per-k inner radii). Constants: UNRESOLVED as to novelty; no claim of a mathematical first. CV.6: REJECTED extrapolation (CU's observation "|q^(k)| increases with k" fails at k = 9; it was an observation, not a claim). The limits q^(k) → −1/3 and 3^k ρ(L_k) → 1/3: CONJECTURE-level observation only, not proved. Not a flux, not thrust.
 
 ## Date Discovered
-2026-10-30 (indexed ~9:20 PM EDT; source commit 2026-10-30 20:41:42 EDT)
+2026-10-30 (indexed ~9:12 PM EDT; source commit 2026-10-30 20:41:42 EDT)
 
 ## Source Repositories
 beyond-repair/informational-flux-identity, branch main, commit 00df4a6ea6d77d67c95977738cb994b5c9f5e49e
@@ -88,7 +88,7 @@ A single-branch comparison operator at s* = 3/2 could turn the k → ∞ heurist
 Clone beyond-repair/informational-flux-identity at 00df4a6ea6d7; `pip install python-flint mpmath numpy`; `python3 scripts/gasket_fractional_profile_level_infrate_k5.py` (about 300 s; `CV_KS=5,6` runs a subset). Independent: `python3 discoveries/mathematics/scripts/indep_theorem_CV.py` (about 4 s); `python3 discoveries/mathematics/scripts/indep_theorem_CV_gamma_mp.py 12` (about 6 s; shows the collocation floor).
 
 ## Evidence Log
-- 2026-10-30 ~9:15 PM EDT: repo witness at 00df4a6ea6d7 EXIT 0, 194 `ok`, 0 FAIL, script elapsed 279.0 s (wall 4m39s, box shared with other jobs), ends "all Theorem CV checks passed"; e.g. k = 10 ρ_H = [5.7745266397710e-6 ± 4.23e-20], ν_2 = [−2.0588085310616e-6 ± 5.71e-20], |q| = [0.3565328657 ± 2.14e-11], n_0 = 37; |q^(12)| − 1/3 = [0.0188904 ± 5e-8]. Repo test `test_theorem_cv_profile_level_infrate_k5` not run this slice (it reruns the same ~300 s witness).
+- 2026-10-30 ~9:11 PM EDT: repo witness at 00df4a6ea6d7 EXIT 0, 194 `ok`, 0 FAIL, script elapsed 279.0 s (wall 4m39s, box shared with other jobs), ends "all Theorem CV checks passed"; e.g. k = 10 ρ_H = [5.7745266397710e-6 ± 4.23e-20], ν_2 = [−2.0588085310616e-6 ± 5.71e-20], |q| = [0.3565328657 ± 2.14e-11], n_0 = 37; |q^(12)| − 1/3 = [0.0188904 ± 5e-8]. Repo test `test_theorem_cv_profile_level_infrate_k5` not run this slice (it reruns the same ~300 s witness).
 - Independent check: v1 70/71 (k = 12 Γ_− failed, cause above), v2 71/71 PASS.
 
 ## Change History
