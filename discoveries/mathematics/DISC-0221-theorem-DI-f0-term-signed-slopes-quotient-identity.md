@@ -78,3 +78,6 @@ In informational-flux-identity @ b33223d: `pip install python-flint numpy sympy 
 
 ## Change History
 - 2026-10-31: created.
+
+## Dated note (2026-10-31, ~4:00 PM EDT)
+The open question "the joint Hilbert diameter of L̃⁹C₁₀₀" is answered as a floor by Theorem DJ (informational-flux-identity 3c24c1135b02, DISC-0222): 0.013997 < diam ≤ 0.025879, so CF.1-form rates on (C₁₀₀, L̃⁹) stay above 0.53342. No new upper bound. DI's own statements are unchanged. Original text above preserved.

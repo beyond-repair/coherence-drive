@@ -83,3 +83,6 @@ In informational-flux-identity @ a273479: `pip install python-flint numpy sympy 
 
 ## Dated note (2026-10-31, ~3:15 PM EDT)
 The open question "signed slopes for f₀ and L̃f₀" is answered by Theorem DI (informational-flux-identity b33223d2efb5, DISC-0221): Θ₁₀₀(f₀, L̃f₀) < 0.064982 (floor 0.064975) replaces Θ_H′ < 0.10465 in DH.5's level-sum bound. DH's own statements are unchanged and still valid. Original text above preserved.
+
+## Dated note (2026-10-31, ~4:00 PM EDT)
+"No floor for the cone term" is answered by Theorem DJ (informational-flux-identity 3c24c1135b02, DISC-0222): the true diameter is > 0.013997 (DH.3's diagonal floor 0.013764), so at most about 0.0119 of Δ_H < 0.025879 can be slack. DH's statements are unchanged and still valid. Original text above preserved.

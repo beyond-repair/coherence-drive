@@ -652,3 +652,10 @@ A 2026-10-31 append adds DISC-0221 (THEOREM; Theorem DI, f₀ term Θ₁₀₀(f
 - DISC-0219 → DISC-0221. Label: mathematical. DG.1(i) applied per orientation with signed slopes.
 - DISC-0215 → DISC-0221. Label: computational. DC.2's F₀, R₀ cells re-run; DC.4 floor sharpened context.
 - DISC-0205 → DISC-0221. Label: conceptual. Spectral 0.1725 still sharper; gains must now come from the contraction.
+
+A 2026-10-31 append adds DISC-0222 (THEOREM; Theorem DJ, exact two-functional separation of the Hilbert diameter, certified floor 0.013997 for L̃⁹C₁₀₀, CF.1-form rate floor 0.53342, no new upper bound) from informational-flux-identity 3c24c1135b02. File: [mathematics/DISC-0222-theorem-DJ-joint-diameter-separation-floor.md](mathematics/DISC-0222-theorem-DJ-joint-diameter-separation-floor.md).
+
+- DISC-0221 → DISC-0222. Label: mathematical. DI.1's quotient characterisation extended to the joint diameter.
+- DISC-0220 → DISC-0222. Label: mathematical. Floor for DH.4's diameter; DH.3's diagonal floor exceeded.
+- DISC-0218 → DISC-0222. Label: mathematical. DF's W is DJ.1 restricted to point functionals.
+- DISC-0205 → DISC-0222. Label: conceptual. Spectral 0.1725 shown out of reach for CF.1-form bounds on (C₁₀₀, L̃⁹).
