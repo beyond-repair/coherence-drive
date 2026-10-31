@@ -607,3 +607,10 @@ A 2026-10-31 append adds DISC-0215 (THEOREM; Theorem DC, CF.3's Birkhoff-route c
 - DISC-0214 → DISC-0215. Label: historical. DB listed this item as open.
 
 A 2026-10-31 range note (finite-gasket-spectral-derivatives 2bc8a9fa43a3): DISC-0038 range S_k ≠ 0 for k ≤ 52, exact h_n for 3 ≤ n ≤ 54; DISC-0030/0027 stay CONJECTURE.
+
+A 2026-10-31 append adds DISC-0216 (THEOREM; Theorem DD, sharper CF.2 cone diameter, θ_D ≤ 0.42672, rate < 0.84339) from informational-flux-identity 1630b8a08515.
+
+- DISC-0215 → DISC-0216. Label: mathematical. DC.3 holds with θ_D; DC's open item "a better cone".
+- DISC-0190 → DISC-0216. Label: mathematical. CF.2's V_5 replaced by V_D.
+- DISC-0188 → DISC-0216. Label: mathematical. CE's setting.
+- DISC-0205 → DISC-0216. Label: conceptual. Spectral route (0.1725) still far sharper.
