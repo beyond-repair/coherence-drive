@@ -77,3 +77,4 @@ Clone beyond-repair/informational-flux-identity at 3e743609c293; `pip install py
 
 ## Change History
 - 2026-10-31: created from IFI 3e743609c293.
+- 2026-10-31 (note, DISC-0213): the open item "uniform-in-k rate for inf R_n^(k) (Γ_±^(k) via eigenvectors κ + w, 1 + w_0)" is closed for k ≥ 29 by IFI Theorem DA (ed74f6de3998): Γ_±^(k) = ((2k+3)/12)κ_∓ + O(δ_k), κ_+ = 3κ_-. k = 13..28 remain open. This record's text above is unchanged.

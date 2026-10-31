@@ -582,3 +582,11 @@ A 2026-10-31 append adds DISC-0212 (THEOREM; Theorem CZ, exact rate k·B*^k and 
 - DISC-0210 → DISC-0212. Label: mathematical. CX.3's c_k bracket sharpened by CZ.2.
 - DISC-0208 → DISC-0212. Label: mathematical. CV.6's rise on 1..8 completed to a certified unimodal profile.
 - DISC-0207 → DISC-0212. Label: computational. CU's routine reused at new parameters for CZ.6 (k = 24..29).
+
+A 2026-10-31 append adds DISC-0213 (THEOREM; Theorem DA, uniform-in-k rate for inf R_n^(k) → ρ(L_k), Γ_±^(k) = ((2k+3)/12)κ_∓ + O(δ_k) for every k ≥ 29) from informational-flux-identity ed74f6de3998.
+
+- DISC-0212 → DISC-0213. Label: mathematical. CZ's Schur complement transposed gives the left eigenfunctionals.
+- DISC-0211 → DISC-0213. Label: mathematical. CY.1–CY.4 frame and localisation imported.
+- DISC-0208 → DISC-0213. Label: mathematical. CV.4's Γ_± (k ≤ 12) extended to every k ≥ 29.
+- DISC-0207 → DISC-0213. Label: mathematical. CU.4's constants tracked in k.
+- DISC-0206 → DISC-0213. Label: mathematical. CT.5's two-sided bound reused.
