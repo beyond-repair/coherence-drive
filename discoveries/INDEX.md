@@ -645,3 +645,10 @@ A 2026-10-31 append adds DISC-0220 (THEOREM; Theorem DH, L̃⁹ block and asymme
 - DISC-0218 → DISC-0220. Label: computational. DF.2's joint-term cover rerun on L̃⁹.
 - DISC-0215 → DISC-0220. Label: mathematical. DC.2's b₀, B₀ feed the asymmetric f₀ term.
 - DISC-0205 → DISC-0220. Label: conceptual. Spectral 0.1725 still sharper; Birkhoff rate now 0.571, float plateau ~0.570.
+
+A 2026-10-31 append adds DISC-0221 (THEOREM; Theorem DI, f₀ term Θ₁₀₀(f₀, L̃f₀) ∈ (0.064975, 0.064982), level-sum bound / 1.6104, rate unchanged) from informational-flux-identity b33223d2efb5. File: [mathematics/DISC-0221-theorem-DI-f0-term-signed-slopes-quotient-identity.md](mathematics/DISC-0221-theorem-DI-f0-term-signed-slopes-quotient-identity.md).
+
+- DISC-0220 → DISC-0221. Label: mathematical. DH's kept limit on symmetric f₀ slopes closed.
+- DISC-0219 → DISC-0221. Label: mathematical. DG.1(i) applied per orientation with signed slopes.
+- DISC-0215 → DISC-0221. Label: computational. DC.2's F₀, R₀ cells re-run; DC.4 floor sharpened context.
+- DISC-0205 → DISC-0221. Label: conceptual. Spectral 0.1725 still sharper; gains must now come from the contraction.

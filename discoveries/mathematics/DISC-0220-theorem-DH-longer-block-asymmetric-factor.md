@@ -80,3 +80,6 @@ In informational-flux-identity @ a273479: `pip install python-flint numpy sympy 
 
 ## Change History
 - 2026-10-31: created.
+
+## Dated note (2026-10-31, ~3:15 PM EDT)
+The open question "signed slopes for f₀ and L̃f₀" is answered by Theorem DI (informational-flux-identity b33223d2efb5, DISC-0221): Θ₁₀₀(f₀, L̃f₀) < 0.064982 (floor 0.064975) replaces Θ_H′ < 0.10465 in DH.5's level-sum bound. DH's own statements are unchanged and still valid. Original text above preserved.
