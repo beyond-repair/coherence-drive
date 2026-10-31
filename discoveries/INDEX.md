@@ -614,3 +614,13 @@ A 2026-10-31 append adds DISC-0216 (THEOREM; Theorem DD, sharper CF.2 cone diame
 - DISC-0190 → DISC-0216. Label: mathematical. CF.2's V_5 replaced by V_D.
 - DISC-0188 → DISC-0216. Label: mathematical. CE's setting.
 - DISC-0205 → DISC-0216. Label: conceptual. Spectral route (0.1725) still far sharper.
+
+A 2026-10-31 append adds DISC-0217 (THEOREM; Theorem DE, joint ratio-of-sums oscillation for CF.2's cone, θ_E ≤ 0.15990, rate < 0.69306) from informational-flux-identity 8cbaea3aa21f.
+
+- DISC-0216 → DISC-0217. Label: mathematical. DD's separated 2V_D replaced by the joint term; DD's open item.
+- DISC-0215 → DISC-0217. Label: mathematical. DC.1–DC.3 hold with θ_E; Θ_G used as stated.
+- DISC-0190 → DISC-0217. Label: mathematical. CF.2's cone, block, b₅.
+- DISC-0188 → DISC-0217. Label: mathematical. CE's setting and cone lemma.
+- DISC-0205 → DISC-0217. Label: conceptual. Spectral route (0.1725) still sharper.
+
+A 2026-10-31 range note (finite-gasket-spectral-derivatives 81867817d9a8): isolated length S_2060 ≠ 0 (m = 12 lift p = 2048); excess ≤ 12 waits only on k = 4108; DISC-0038 range unchanged; DISC-0030/0027 stay CONJECTURE.
