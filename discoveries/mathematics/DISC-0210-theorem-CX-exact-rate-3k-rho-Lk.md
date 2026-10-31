@@ -73,3 +73,4 @@ Clone beyond-repair/informational-flux-identity at 4dc70c635d0b; `pip install py
 
 ## Change History
 - 2026-10-30: created from IFI 4dc70c635d0b.
+- 2026-10-31 (note, DISC-0211): the kept limit "q^(k) → −1/3 still HEURISTIC" is proved by IFI Theorem CY (54ed04084f2e), with |q^(k) + 1/3| ≤ 4.8271·0.8529^k + 0.0958·0.8352^k for k ≥ 24 and CU-certified values for k = 13..23. This record's text above is unchanged.

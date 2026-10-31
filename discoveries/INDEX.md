@@ -567,3 +567,11 @@ A 2026-10-30 append adds DISC-0210 (THEOREM; Theorem CX, exact rate B* = B(3/2) 
 - DISC-0209 → DISC-0210. Label: mathematical. CW's rate bracket collapsed to B*; CW's k ≥ 13 monotonicity item closed.
 - DISC-0208 → DISC-0210. Label: mathematical. CV.7 extended from k ≤ 12 to all k.
 - DISC-0206, DISC-0207, DISC-0208 → DISC-0210. Label: mathematical. CX.5 consistency.
+
+A 2026-10-31 append adds DISC-0211 (THEOREM; Theorem CY, q^(k) = ν_2^(k)/ρ(L_k) → −1/3 with explicit geometric bound, ν_2^(k) real, simple, isolated for every k) from informational-flux-identity 54ed04084f2e.
+
+- DISC-0210 → DISC-0211. Label: mathematical. CX's kept limit (q → −1/3 heuristic) proved.
+- DISC-0209 → DISC-0211. Label: mathematical. CW's h_k continued holomorphically as the frame; CW.3 used for q.
+- DISC-0208 → DISC-0211. Label: mathematical. CV's q → −1/3 observation proved; CV.6 decreasing half extended to k = 23.
+- DISC-0207 → DISC-0211. Label: computational. CU's routine reused unchanged for CY.5 (k = 13..23).
+- DISC-0206 → DISC-0211. Label: mathematical. CT's two-eigenvalue isolation extended to every k.

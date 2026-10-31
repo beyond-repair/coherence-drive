@@ -96,3 +96,4 @@ Clone beyond-repair/informational-flux-identity at 00df4a6ea6d7; `pip install py
 
 ## Note (2026-10-30 ~10:10 PM EDT, from DISC-0209)
 IFI 572ca675ce2e (Theorem CW) proves this record's observation 3^k ρ(L_k) → 1/3, with 0.1999·0.5999^k ≤ 3^{k+1}ρ(L_k) − 1 ≤ 0.2873·0.8352^k for every real k ≥ 0, and extends CV.7's lower half (3^k ρ > 1/3) to all k. The q^(k) → −1/3 observation is not addressed and stays heuristic. The text above is unchanged.
+- 2026-10-31 (note, DISC-0211): the observation q^(k) → −1/3 is proved by IFI Theorem CY (54ed04084f2e); CV.6's decreasing half extends to k = 8..23 (CY.6). The Kept Failure CV.6 (non-monotone |q| on k = 1..12) stands. This record's text above is unchanged.
