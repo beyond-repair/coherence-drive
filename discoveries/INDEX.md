@@ -575,3 +575,10 @@ A 2026-10-31 append adds DISC-0211 (THEOREM; Theorem CY, q^(k) = ν_2^(k)/ρ(L_k
 - DISC-0208 → DISC-0211. Label: mathematical. CV's q → −1/3 observation proved; CV.6 decreasing half extended to k = 23.
 - DISC-0207 → DISC-0211. Label: computational. CU's routine reused unchanged for CY.5 (k = 13..23).
 - DISC-0206 → DISC-0211. Label: mathematical. CT's two-eigenvalue isolation extended to every k.
+
+A 2026-10-31 append adds DISC-0212 (THEOREM; Theorem CZ, exact rate k·B*^k and sign of q^(k) + 1/3, q^(k) < −1/3 for every k ≥ 4, |q^(k)| unimodal) from informational-flux-identity 3e743609c293.
+
+- DISC-0211 → DISC-0212. Label: mathematical. CY's kept limits (crude rate, sign/monotonicity only k ≤ 23) closed.
+- DISC-0210 → DISC-0212. Label: mathematical. CX.3's c_k bracket sharpened by CZ.2.
+- DISC-0208 → DISC-0212. Label: mathematical. CV.6's rise on 1..8 completed to a certified unimodal profile.
+- DISC-0207 → DISC-0212. Label: computational. CU's routine reused at new parameters for CZ.6 (k = 24..29).

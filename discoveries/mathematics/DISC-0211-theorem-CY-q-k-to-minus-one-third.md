@@ -73,3 +73,4 @@ Clone beyond-repair/informational-flux-identity at 54ed04084f2e; `pip install py
 
 ## Change History
 - 2026-10-31: created from IFI 54ed04084f2e.
+- 2026-10-31 (note, DISC-0212): the open item "exact rate/sign of q^(k) + 1/3 for k ≥ 24" is closed by IFI Theorem CZ (3e743609c293): (q + 1/3)/(k B*^k) → α* = −0.0491613043, q^(k) < −1/3 for every k ≥ 4, |q^(k)| strictly decreasing for k ≥ 8. The float observation "−C·k·B*^k" above is confirmed with C = |α*|. This record's text above is unchanged.
