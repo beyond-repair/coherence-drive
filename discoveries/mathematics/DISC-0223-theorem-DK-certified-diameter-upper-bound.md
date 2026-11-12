@@ -77,3 +77,4 @@ In informational-flux-identity @ 2618036: `pip install python-flint numpy`, `pyt
 
 ## Change History
 - 2026-11-12: created.
+- 2026-11-12 (dated note, original text above unchanged): the open question "a cone family or block whose Birkhoff rate approaches 0.1725" is partly answered by IFI Theorem DL (7b88a6d98f10): on (C₂, L̃⁵) the certified rate is < 0.404994 and |μ| < 0.17161, still far from 0.1725. See DISC-0224.

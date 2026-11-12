@@ -666,3 +666,9 @@ A 2026-11-12 append adds DISC-0223 (THEOREM; Theorem DK, certified upper bound 0
 - DISC-0220 → DISC-0223. Label: mathematical. DH.4's 0.025879 replaced by 0.014000.
 - DISC-0221 → DISC-0223. Label: mathematical. DI.5's level-sum bound sharpened with θ_K.
 - DISC-0205 → DISC-0223. Label: conceptual. Spectral 0.1725 confirmed out of reach on (C₁₀₀, L̃⁹).
+
+A 2026-11-12 append adds DISC-0224 (THEOREM; Theorem DL, small cone C₂ with block L̃⁵, certified rate < 0.404994 and |μ| < 0.17161) from informational-flux-identity 7b88a6d98f10. File: [mathematics/DISC-0224-theorem-DL-small-cone-short-block-rate.md](mathematics/DISC-0224-theorem-DL-small-cone-short-block-rate.md).
+
+- DISC-0223 → DISC-0224. Label: mathematical. DK.1 reused for (a, n) = (2, 5); DK's "exhausted" limit shown specific to C₁₀₀.
+- DISC-0222 → DISC-0224. Label: mathematical. DJ.2 floor construction reused; DJ.3's cap 0.53342 beaten on another cone.
+- DISC-0205 → DISC-0224. Label: conceptual. Spectral 0.1725 still out of reach (rate 0.40499).
