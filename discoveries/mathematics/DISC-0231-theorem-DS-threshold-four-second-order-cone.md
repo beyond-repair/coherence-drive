@@ -75,3 +75,8 @@ Clone informational-flux-identity at ec1dd6c8b2fc; `pip install python-flint sym
 
 ## Change History
 - 2026-11-12: created.
+
+## Dated note (2026-11-12 ~6:05 PM EST)
+- DS_FULL=1 (all 200 cells) finished on the archive box: 3200 certificates, 0 t-bumps, worst cell (199, '1+', 2.49655); D_4 <= 0.03838589, per level <= 0.3129858 < 0.3170757; n0 = 4 exactly; "all Theorem DS checks passed"; elapsed 1808.5 s (~30 min on 8 cores). The full-cover claim is now independently reproduced. Mathematical status unchanged (THEOREM, method KNOWN, constants UNRESOLVED).
+- Runtime nit: IFI 84cb64b224d9 replaces CLAIM_STATUS's "~RUNTIME min" placeholder with "~2.4 h"; the archive run took about 30 min. Documentation only, no claim affected.
+- Downstream: DS.3's theta_4 is used by Theorem DT, see DISC-0232.

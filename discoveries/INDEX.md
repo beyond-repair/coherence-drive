@@ -715,3 +715,9 @@ A 2026-11-12 append adds DISC-0231 (THEOREM; Theorem DS, n = 4 settled on K_(2,6
 
 - DISC-0230 → DISC-0231. Label: mathematical. DR's kept open case n = 4 closed.
 - DISC-0229 → DISC-0231. Label: mathematical. DQ.5's threshold now exact.
+
+A 2026-11-12 append adds DISC-0232 (THEOREM; Theorem DT, level-sum bound on K_(2,6) with per-level rate 0.2694, beats DO.3 for k ≥ 11; kept failure k = 4..10) from informational-flux-identity 84cb64b224d9. File: [mathematics/DISC-0232-theorem-DT-level-sums-second-order-cone.md](mathematics/DISC-0232-theorem-DT-level-sums-second-order-cone.md).
+
+- DISC-0231 → DISC-0232. Label: mathematical. DS.3's n = 4 contraction factor used in the level-sum bound.
+- DISC-0230 → DISC-0232. Label: mathematical. DR.3's factors n = 3, 5..8 used; DR's kept limit closed.
+- DISC-0229 → DISC-0232. Label: mathematical. Rate measured against DQ.4's spectral limit 0.1725.
