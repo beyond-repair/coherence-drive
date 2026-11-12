@@ -77,3 +77,4 @@ In informational-flux-identity @ 0116243: `pip install python-flint sympy numpy`
 
 ## Change History
 - 2026-11-12: created.
+- 2026-11-12 ~12:10 PM EST (dated note): informational-flux-identity e8d5c2122c2a (Theorem DR, DISC-0230) makes DQ.5's threshold effective: certified D_n on K_(2,6) for n = 3, 5..8, per-level <= 0.3135158 < cap for every n >= 5, so n0 in {4, 5}; n = 4 open. Original text above preserved.

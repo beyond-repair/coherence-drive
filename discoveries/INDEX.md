@@ -705,3 +705,8 @@ A 2026-11-12 append adds DISC-0229 (THEOREM; Theorem DQ, cap attained on C_a and
 - DISC-0228 → DISC-0229. Label: mathematical. DP's open items answered; cap shown attained.
 - DISC-0225 → DISC-0229. Label: mathematical. DM's diameter ratios identified as converging to the cap.
 - DISC-0205 → DISC-0229. Label: conceptual. Spectral 0.1725 reached in the limit on a C²-type cone.
+
+A 2026-11-12 append adds DISC-0230 (THEOREM; Theorem DR, effective threshold n₀ ∈ {4, 5} on K_(2,6), certified D_n for n = 3, 5..8, n = 4 open) from informational-flux-identity e8d5c2122c2a. File: [mathematics/DISC-0230-theorem-DR-effective-threshold-second-order-cone.md](mathematics/DISC-0230-theorem-DR-effective-threshold-second-order-cone.md).
+
+- DISC-0229 → DISC-0230. Label: mathematical. DQ.5's non-effective threshold made effective.
+- DISC-0228 → DISC-0230. Label: mathematical. Certified finite-n rate below DP's cap.
