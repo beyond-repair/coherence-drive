@@ -659,3 +659,10 @@ A 2026-10-31 append adds DISC-0222 (THEOREM; Theorem DJ, exact two-functional se
 - DISC-0220 → DISC-0222. Label: mathematical. Floor for DH.4's diameter; DH.3's diagonal floor exceeded.
 - DISC-0218 → DISC-0222. Label: mathematical. DF's W is DJ.1 restricted to point functionals.
 - DISC-0205 → DISC-0222. Label: conceptual. Spectral 0.1725 shown out of reach for CF.1-form bounds on (C₁₀₀, L̃⁹).
+
+A 2026-11-12 append adds DISC-0223 (THEOREM; Theorem DK, certified upper bound 0.014000 for the Hilbert diameter of L̃⁹C₁₀₀, rate pinned to (0.53342, 0.53349)) from informational-flux-identity 261803687762. File: [mathematics/DISC-0223-theorem-DK-certified-diameter-upper-bound.md](mathematics/DISC-0223-theorem-DK-certified-diameter-upper-bound.md).
+
+- DISC-0222 → DISC-0223. Label: mathematical. DJ.1 reduced to the cone generators; DJ's upper-bound question closed.
+- DISC-0220 → DISC-0223. Label: mathematical. DH.4's 0.025879 replaced by 0.014000.
+- DISC-0221 → DISC-0223. Label: mathematical. DI.5's level-sum bound sharpened with θ_K.
+- DISC-0205 → DISC-0223. Label: conceptual. Spectral 0.1725 confirmed out of reach on (C₁₀₀, L̃⁹).

@@ -74,3 +74,4 @@ In informational-flux-identity @ 3c24c11: `pip install python-flint numpy`, `pyt
 
 ## Change History
 - 2026-10-31: created.
+- 2026-11-12 (dated note, original text above unchanged): the open question "a certified upper bound by DJ.1" is answered by IFI Theorem DK (261803687762): diam ≤ 0.014000, rate < 0.53349. See DISC-0223.
