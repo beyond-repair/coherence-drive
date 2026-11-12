@@ -75,3 +75,4 @@ In informational-flux-identity @ c7264ae: `pip install python-flint numpy`, `pyt
 
 ## Change History
 - 2026-11-12: created.
+- 2026-11-12 ~8:10 AM EST (dated note): informational-flux-identity 7c94df4d7979 (Theorem DP, DISC-0228) proves every CF.1-form per-level rate on a C¹-open cone is ≥ 0.3170757, so the kept limit above (rate far from spectral 0.1725) cannot be closed by this route. Original text above preserved.

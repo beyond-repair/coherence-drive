@@ -692,3 +692,10 @@ A 2026-11-12 append adds DISC-0227 (THEOREM; Theorem DO, later f_m terms compute
 - DISC-0221 → DISC-0227. Label: computational. DI.1/DI.4 machinery applied to F_m, F_{m+1}.
 - DISC-0223 → DISC-0227. Label: mathematical. DK.4's bound improved at finite k.
 - DISC-0205 → DISC-0227. Label: conceptual. Spectral 0.1725 still out of reach.
+
+A 2026-11-12 append adds DISC-0228 (THEOREM; Theorem DP, cap ρ(L₁)/r > 0.3170757 for every CF.1-form per-level rate on C¹-open cones, kept failure DP.3) from informational-flux-identity 7c94df4d7979. File: [mathematics/DISC-0228-theorem-DP-birkhoff-route-cap.md](mathematics/DISC-0228-theorem-DP-birkhoff-route-cap.md).
+
+- DISC-0227 → DISC-0228. Label: mathematical. DO's kept limit (rate far from 0.1725) answered by a cap.
+- DISC-0225 → DISC-0228. Label: mathematical. DM.5's 0.363655 within 1.1469 of the cap.
+- DISC-0223 → DISC-0228. Label: mathematical. DK.4's 0.53349 within 1.6825 of the cap.
+- DISC-0205 → DISC-0228. Label: conceptual. Spectral 0.1725 shown unreachable on C¹-open cones.
