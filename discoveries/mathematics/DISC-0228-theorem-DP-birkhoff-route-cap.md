@@ -75,3 +75,4 @@ In informational-flux-identity @ 7c94df4: `pip install python-flint sympy numpy`
 
 ## Change History
 - 2026-11-12: created.
+- 2026-11-12 ~9:05 AM EST (dated note): informational-flux-identity 011624344923 (Theorem DQ, DISC-0229) proves the cap ρ(L₁)/r is attained on every C_a (DQ.3) and that the invariant second-order cone K_(2,6) has limiting rate |λ₂|/r = 0.1725476 (DQ.4), answering both open questions above; no certified D_n on K_(2,6) yet. Original text above preserved.

@@ -699,3 +699,9 @@ A 2026-11-12 append adds DISC-0228 (THEOREM; Theorem DP, cap ρ(L₁)/r > 0.3170
 - DISC-0225 → DISC-0228. Label: mathematical. DM.5's 0.363655 within 1.1469 of the cap.
 - DISC-0223 → DISC-0228. Label: mathematical. DK.4's 0.53349 within 1.6825 of the cap.
 - DISC-0205 → DISC-0228. Label: conceptual. Spectral 0.1725 shown unreachable on C¹-open cones.
+
+A 2026-11-12 append adds DISC-0229 (THEOREM; Theorem DQ, cap attained on C_a and limiting rate |λ₂|/r = 0.1725476 on the invariant second-order cone K_(2,6), kept failure DQ.5) from informational-flux-identity 011624344923. File: [mathematics/DISC-0229-theorem-DQ-second-order-cone-birkhoff-rate.md](mathematics/DISC-0229-theorem-DQ-second-order-cone-birkhoff-rate.md).
+
+- DISC-0228 → DISC-0229. Label: mathematical. DP's open items answered; cap shown attained.
+- DISC-0225 → DISC-0229. Label: mathematical. DM's diameter ratios identified as converging to the cap.
+- DISC-0205 → DISC-0229. Label: conceptual. Spectral 0.1725 reached in the limit on a C²-type cone.
