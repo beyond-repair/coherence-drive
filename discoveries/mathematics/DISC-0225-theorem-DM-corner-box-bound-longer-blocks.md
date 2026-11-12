@@ -76,3 +76,4 @@ In informational-flux-identity @ 80fa082: `pip install python-flint numpy`, `pyt
 
 ## Change History
 - 2026-11-12: created.
+- 2026-11-12 ~5:05 AM EST (dated note): informational-flux-identity 928bc79323cc (Theorem DN, DISC-0226) carries DK.4's level-sum bound to C₂, answering the open question "carrying DK.4's level-sum bound to C₂"; its commit message reports a clean DM_N=9 re-run by the repo author (268292 boxes, diam ≤ 0.000444899, unchanged numbers). This archive still has not reproduced the n = 9 cover. Original text above preserved.

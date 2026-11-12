@@ -678,3 +678,10 @@ A 2026-11-12 append adds DISC-0225 (THEOREM; Theorem DM, corner box bound, certi
 - DISC-0224 → DISC-0225. Label: mathematical/computational. DL's kept limit (longer blocks only floats) answered; float rates certified.
 - DISC-0223 → DISC-0225. Label: computational. DK.3's first-order pad 2h max|g − μ| replaced by a second-order gap.
 - DISC-0205 → DISC-0225. Label: conceptual. Spectral 0.1725 still out of reach (rate 0.36365).
+
+A 2026-11-12 append adds DISC-0226 (THEOREM; Theorem DN, f₀ term on C₂, level-sum bound carried to C₂ with per-level rate < 0.363657) from informational-flux-identity 928bc79323cc. File: [mathematics/DISC-0226-theorem-DN-f0-term-small-cone-level-sum.md](mathematics/DISC-0226-theorem-DN-f0-term-small-cone-level-sum.md).
+
+- DISC-0225 → DISC-0226. Label: mathematical. DM's kept limit (level-sum bound not on C₂) answered; θ₇, θ₉ used as stated.
+- DISC-0224 → DISC-0226. Label: mathematical. θ_L and DL.1's cone step used.
+- DISC-0221 → DISC-0226. Label: computational. DI.1/DI.4 machinery re-run at a = 2.
+- DISC-0223 → DISC-0226. Label: mathematical. DK.4's level-sum bound improved for k ≥ 9 (÷41.2 at k = 9).
