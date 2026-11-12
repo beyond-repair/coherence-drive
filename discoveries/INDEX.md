@@ -672,3 +672,9 @@ A 2026-11-12 append adds DISC-0224 (THEOREM; Theorem DL, small cone C₂ with bl
 - DISC-0223 → DISC-0224. Label: mathematical. DK.1 reused for (a, n) = (2, 5); DK's "exhausted" limit shown specific to C₁₀₀.
 - DISC-0222 → DISC-0224. Label: mathematical. DJ.2 floor construction reused; DJ.3's cap 0.53342 beaten on another cone.
 - DISC-0205 → DISC-0224. Label: conceptual. Spectral 0.1725 still out of reach (rate 0.40499).
+
+A 2026-11-12 append adds DISC-0225 (THEOREM; Theorem DM, corner box bound, certified rates < 0.378005 on L̃⁷ and < 0.363655 on L̃⁹ over C₂, |μ| < 0.15410) from informational-flux-identity 80fa08242cd4. File: [mathematics/DISC-0225-theorem-DM-corner-box-bound-longer-blocks.md](mathematics/DISC-0225-theorem-DM-corner-box-bound-longer-blocks.md).
+
+- DISC-0224 → DISC-0225. Label: mathematical/computational. DL's kept limit (longer blocks only floats) answered; float rates certified.
+- DISC-0223 → DISC-0225. Label: computational. DK.3's first-order pad 2h max|g − μ| replaced by a second-order gap.
+- DISC-0205 → DISC-0225. Label: conceptual. Spectral 0.1725 still out of reach (rate 0.36365).

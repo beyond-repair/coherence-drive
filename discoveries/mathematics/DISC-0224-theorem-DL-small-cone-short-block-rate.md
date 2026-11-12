@@ -79,3 +79,4 @@ In informational-flux-identity @ 7b88a6d: `pip install python-flint numpy`, `pyt
 
 ## Change History
 - 2026-11-12: created.
+- 2026-11-12 (dated note, original text above unchanged): the kept limit "longer blocks only floats" is answered by Theorem DM (IFI 80fa08242cd4, DISC-0225), which certifies the float rates 0.378 (n = 7) and 0.364 (n = 9) recorded above.
