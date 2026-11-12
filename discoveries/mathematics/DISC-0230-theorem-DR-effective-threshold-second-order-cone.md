@@ -72,3 +72,6 @@ Clone informational-flux-identity at e8d5c2122c2a; `pip install python-flint sym
 
 ## Change History
 - 2026-11-12: created.
+
+## Dated note (2026-11-12 ~5:05 PM EST)
+The kept open case n = 4 is settled by Theorem DS (informational-flux-identity ec1dd6c8b2fc), see DISC-0231: 0.03604618 <= D_4 <= 0.03838589, per level <= 0.3129858 < 0.3170757, so n0 = 4 exactly. The text above is preserved as first recorded.

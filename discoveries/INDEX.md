@@ -710,3 +710,8 @@ A 2026-11-12 append adds DISC-0230 (THEOREM; Theorem DR, effective threshold n�
 
 - DISC-0229 → DISC-0230. Label: mathematical. DQ.5's non-effective threshold made effective.
 - DISC-0228 → DISC-0230. Label: mathematical. Certified finite-n rate below DP's cap.
+
+A 2026-11-12 append adds DISC-0231 (THEOREM; Theorem DS, n = 4 settled on K_(2,6), n₀ = 4 exactly) from informational-flux-identity ec1dd6c8b2fc. File: [mathematics/DISC-0231-theorem-DS-threshold-four-second-order-cone.md](mathematics/DISC-0231-theorem-DS-threshold-four-second-order-cone.md).
+
+- DISC-0230 → DISC-0231. Label: mathematical. DR's kept open case n = 4 closed.
+- DISC-0229 → DISC-0231. Label: mathematical. DQ.5's threshold now exact.
