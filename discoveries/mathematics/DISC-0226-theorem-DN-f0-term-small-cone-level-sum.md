@@ -74,3 +74,4 @@ In informational-flux-identity @ 928bc79: `pip install python-flint numpy`, `pyt
 
 ## Change History
 - 2026-11-12: created.
+- 2026-11-12 ~7:15 AM EST (dated note): informational-flux-identity c7264aec2f70 (Theorem DO, DISC-0227) computes the later f_m terms directly and beats min(DN.3, DK.4) at every k ≥ 5, answering kept failure DN.4 for k = 5..8; at k = 4 DO.4 shows no cone improves DI.4 by more than 1.0252. Original text above preserved.

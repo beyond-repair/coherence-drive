@@ -685,3 +685,10 @@ A 2026-11-12 append adds DISC-0226 (THEOREM; Theorem DN, f₀ term on C₂, leve
 - DISC-0224 → DISC-0226. Label: mathematical. θ_L and DL.1's cone step used.
 - DISC-0221 → DISC-0226. Label: computational. DI.1/DI.4 machinery re-run at a = 2.
 - DISC-0223 → DISC-0226. Label: mathematical. DK.4's level-sum bound improved for k ≥ 9 (÷41.2 at k = 9).
+
+A 2026-11-12 append adds DISC-0227 (THEOREM; Theorem DO, later f_m terms computed directly, level-sum bound tightened at every k ≥ 5, kept failure DO.4 at k = 4) from informational-flux-identity c7264aec2f70. File: [mathematics/DISC-0227-theorem-DO-later-fm-terms-level-sum.md](mathematics/DISC-0227-theorem-DO-later-fm-terms-level-sum.md).
+
+- DISC-0226 → DISC-0227. Label: mathematical. DN's kept failure DN.4 answered for k = 5..8.
+- DISC-0221 → DISC-0227. Label: computational. DI.1/DI.4 machinery applied to F_m, F_{m+1}.
+- DISC-0223 → DISC-0227. Label: mathematical. DK.4's bound improved at finite k.
+- DISC-0205 → DISC-0227. Label: conceptual. Spectral 0.1725 still out of reach.
