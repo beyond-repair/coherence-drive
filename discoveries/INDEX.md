@@ -780,3 +780,9 @@ A 2026-11-13 append adds DISC-0242 (THEOREM; Theorem EC, the corner-deficit rema
 - DISC-0241 → DISC-0242. Label: mathematical. EB's kept limit (remainder exponent 0.65) sharpened to 3^-n; EB.3's windows removed.
 - DISC-0151 → DISC-0242. Label: mathematical. BI.4's certified ceiling G = 0.6031 is the new input to AT's weight.
 - DISC-0113 → DISC-0242. Label: mathematical. AT's open sharp correction exponent: upper bound O(3^-n) proved above gamma.
+
+A 2026-11-13 append adds DISC-0243 (THEOREM; Theorem ED, the corner-deficit remainder is Theta(3^-n) on (gamma, 1) and EC's 4 gamma/3 threshold is sharp) from informational-flux-identity 417b34c61298. File: [mathematics/DISC-0243-theorem-ED-remainder-3-to-minus-n-attained-threshold-sharp.md](mathematics/DISC-0243-theorem-ED-remainder-3-to-minus-n-attained-threshold-sharp.md).
+
+- DISC-0242 → DISC-0243. Label: mathematical. EC's upper bound O(3^-n) matched by a lower bound; EC.3's threshold made iff.
+- DISC-0127 → DISC-0243. Label: mathematical. AZ (1)'s defect eps_n proved positive with exact order (rho/3)^n.
+- DISC-0241 → DISC-0243. Label: mathematical. EB's third term exact on (gamma, 4 gamma/3), fails above.

@@ -76,3 +76,4 @@ Clone informational-flux-identity at ebaa8c8629b48bec0cccdbeb851ea897785f4e0d; `
 
 ## Change History
 - 2026-11-13: created.
+- 2026-11-13 (dated note): Theorem ED (IFI 417b34c61298, DISC-0243) answers EC's kept limit and open item: eps_n >= L_alpha (rho/3)^n and R_n = Theta(3^-n), so EC.3's 4 gamma/3 boundary is sharp and the third term fails above it. ED also corrects EC's B_0.7 <= 3.88e3 to <= 3.89e3 (true 3.8818e3; the original was a downward rounding). This archive's entry above said "No display defect found" and missed that rounding; the original text is kept. No status change.
