@@ -1,0 +1,95 @@
+# Discovery: Conjecture BK.6, the ρ^−n rate of Theorem BK is attained (C_δ(0.8)≈0.6025)
+
+## Discovery ID
+
+DISC-0156
+
+## Status
+
+SPLIT 2026-10-23 ~4:54am EDT. Sharpness half (order ρ^−n attained): THEOREM at α=0.8 for every N≥9 via DISC-0157 (GASKET Theorem BL, dfc145a9833f96b8960667c572aca38d48adfc17). As worded for every N: REJECTED at N=0 (DISC-0158, Kept Failure BL.0). Limit C_δ: still CONJECTURE, carried as DISC-0159 (Conjecture BL.6). N=1..8 at 0.8 and α≠0.8: open. Not thrust.
+
+Previous status (kept): CONJECTURE (repository's own; floats only).
+
+## Date Discovered
+
+2026-10-23 (America/New_York), ~2:54am EDT corpus slice.
+
+## Source Repositories
+
+beyond-repair/informational-flux-identity, main, commit 00d0d28b71db264b070be23c73f8e3f67de704db, GASKET.md Theorem BK / Conjecture BK.6; scripts/gasket_fractional_uniform_rate.py float section.
+
+## Original Evidence
+
+At α=0.8 and N=10, the deficit n-error δ^(100)−δ^(n) times ρ^n is 0.6289, 0.6127, 0.6041, 0.6028, 0.6025 at n=15, 20, 30, 40, 50. It is positive and below the certified BK.3/BK.4 bound. Reproduced in the repository witness run at that commit.
+
+## Discovery
+
+The repository conjectures that ρ^−n is attained, with C_δ(0.8)≈0.6025. It says this would follow from a sign of Cov(ω_k,F_k), for example if ω_k were monotone.
+
+## Why It Matters
+
+Together with DISC-0155 it would make ρ^−n the exact order of the n-error, as DISC-0153 did for the cell modulus in N.
+
+## Derivation
+
+None (numerical).
+
+## Assumptions
+
+Theorems BJ and BK as stated.
+
+## New Results
+
+None proved. Observation only, not a claim: 0.6025 is close to the certified g-bracket [0.600945014,0.600963487] of DISC-0153 but lies outside it, and the sequence is still drifting. No relation is asserted.
+
+## Prior Art
+
+Not searched.
+
+## Novelty Analysis
+
+UNRESOLVED.
+
+## Falsification Attempts
+
+Not attacked independently this slice beyond confirming the repository's floats in its own witness run.
+
+## Experimental Validation
+
+Floats only.
+
+## Mathematical Status
+
+Conjecture.
+
+## Patent Relevance
+
+None.
+
+## Related Discoveries
+
+DISC-0155 → DISC-0156 (mathematical); DISC-0154 → DISC-0156 (historical: the attainment half of BJ.7's "order ρ^−n").
+
+## Open Questions
+
+Whether Cov(ω_k,F_k) has a fixed sign; the limit value of C_δ.
+
+## Next Experiments
+
+Test the monotonicity of ω_k(y) in y numerically on graph levels; extend floats to n=60–90.
+
+## Reproduction Instructions
+
+git -C informational-flux-identity checkout 00d0d28b71db264b070be23c73f8e3f67de704db; python3 scripts/gasket_fractional_uniform_rate.py (float section).
+
+## Evidence Log
+
+- 2026-10-23 ~4:54am EDT. Theorem BL at dfc145a9833f96b8960667c572aca38d48adfc17 proves the lower bound c_Nρ^−n≤δ_N−δ_N^(n) for N≥9 at α=0.8 without monotone ω_k (only the deficit integrand needs to be monotone); BK.6 fails as worded at N=0.
+- 2026-10-23 ~2:54am EDT. Indexed from the repository's float evidence.
+
+## Change History
+
+- 2026-10-23. Initial archive entry.
+- 2026-10-23 ~4:54am EDT. Status split: sharpness half THEOREM (α=0.8, N≥9, DISC-0157); N=0 REJECTED (DISC-0158); limit CONJECTURE (DISC-0159). Original text above kept.
+- 2026-10-23 ~6:53am EDT. Sharpness half extended from α=0.8 (N≥9) to every α∈(γ,1) for N≥N₀(α) by DISC-0160 (Theorem BM at c9ca93479dbee307e77705a052d995029938a630; certified N₀=61,16,9,7,6,5 at α=0.7,0.75,0.8,0.85,0.9,0.95). Status split unchanged in kind (THEOREM part / N=0 REJECTED / limit CONJECTURE); the THEOREM part's scope widened. N<N₀(α) still open.
+- 2026-10-23 ~8:00am EDT. Sharpness half extended to every N≥1 at every α∈(γ,1) by Theorem BN (DISC-0161, informational-flux-identity 335860e44ebf); earlier text kept above.
