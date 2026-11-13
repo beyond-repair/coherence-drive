@@ -762,3 +762,9 @@ A 2026-11-13 append adds DISC-0238 (THEOREM; Theorem DZ, limit of the renormalis
 - DISC-0238 → DISC-0128. Label: mathematical. AZ.1's sign flip extended to the whole range.
 - DISC-0155 / DISC-0161 / DISC-0153 / DISC-0151 → DISC-0238. Label: mathematical. BK.1 transfer, BN.4 floor, BJ (6) and BI.4's G used as stated.
 - DISC-0160 → DISC-0239. Label: computational. BM's 0.3643 at 0.9 is the N = 6 value.
+
+A 2026-11-13 append adds DISC-0240 (THEOREM; Theorem EA, second-order term of the corner deficit, rho^N delta_N eventually strictly decreasing) from informational-flux-identity 0a46e2094140. File: [mathematics/DISC-0240-theorem-EA-corner-deficit-second-order-term.md](mathematics/DISC-0240-theorem-EA-corner-deficit-second-order-term.md).
+
+- DISC-0153 → DISC-0240. Label: mathematical. BJ's open monotonicity item proved; BJ.6's limit re-derived without AT.1.
+- DISC-0238 → DISC-0240. Label: mathematical. DZ.2-DZ.3's C_delta formula combined with EA.1-EA.2 gives the rate in N.
+- DISC-0240 → DISC-0239. Label: computational. EA.4's C_delta(0.8, N) brackets meet DZ.4's, 33-41x narrower.

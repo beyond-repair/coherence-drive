@@ -92,3 +92,5 @@ git -C informational-flux-identity checkout 815003f22507fa34258d8b917a0e3a776340
 ## Change History
 
 - 2026-10-23. Initial archive entry.
+
+- 2026-11-13 (dated note, history above kept): BJ's open item "whether rho^N delta_N is eventually monotone" is PROVED by Theorem EA.2 (informational-flux-identity 0a46e2094140; DISC-0240): eventually strictly decreasing for every alpha in (gamma, 1), for every N >= 0 at alpha = 0.8. BJ.6's derived limit c_corner is re-derived from BS.1 and CB.3 without AT.1 (EA.1). No status change to DISC-0153.
