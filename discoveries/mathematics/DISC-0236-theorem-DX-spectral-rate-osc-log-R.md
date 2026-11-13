@@ -75,3 +75,6 @@ Clone informational-flux-identity at 3b72f8e0bc10; `pip install python-flint mpm
 
 ## Change History
 - 2026-11-13: created.
+
+## Dated note (2026-11-13, ~7:05 AM EST)
+DX's open item "push m_0 below 5" is answered by Theorem DY (informational-flux-identity 91838c872b39; DISC-0237): with lambda_4 split off and inner circle |z| = 1/20000, the two-sided bound holds from m >= 4, and for m >= 5 the constants tighten to [0.111129, 0.112319] (nested inside DX's [0.104411, 0.119038], still containing Omega). DX.4's "not at k = 9" is superseded: B_Y beats DV.1's k = 9 row; k = 8 stays. The original text above is preserved unchanged.

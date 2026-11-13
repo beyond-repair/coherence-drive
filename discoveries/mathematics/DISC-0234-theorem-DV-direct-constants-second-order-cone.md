@@ -75,3 +75,6 @@ Clone informational-flux-identity at 8ec657a289ec; `pip install python-flint num
 ## Change History
 - 2026-11-13: created.
 - note 2026-11-13 ~4:10 AM EST: open item 'direct constants for m >= 8' answered by IFI 49f0fa0349fc (Theorem DW, rows m = 8..12). DV.3' stays rejected for B_V; its strict form holds for the new B_W. See DISC-0235.
+
+## Dated note (2026-11-13, ~7:05 AM EST)
+Theorem DY (informational-flux-identity 91838c872b39; DISC-0237) beats this record's k = 9 direct row with a spectral level-sum bound (1.71790e-5 < 1.7204e-5, ratio 1.0014584); the k = 8 row stays the best bound. The original text above is preserved unchanged.

@@ -744,3 +744,11 @@ A 2026-11-13 append adds DISC-0236 (THEOREM; Theorem DX, exact spectral rate 0.1
 - DISC-0229 → DISC-0236. Label: mathematical. DQ's spectral 0.1725 is the proved orbit rate.
 - DISC-0201 / DISC-0200 / DISC-0191 → DISC-0236. Label: computational. CO.3/CO.4 projections, CN.2 circles and CG.3 eigenvalue count re-run as inputs.
 - DISC-0205 → DISC-0236. Label: mathematical. DX.5: every CF.3-form bound stays >= 8.07x CS.2's D_4|q|^k.
+
+A 2026-11-13 append adds DISC-0237 (THEOREM; Theorem DY, two-sided spectral rate of osc log R_m from m >= 4, m >= 5 constants within 1.07%) from informational-flux-identity 91838c872b39. File: [mathematics/DISC-0237-theorem-DY-spectral-inner-m0-4.md](mathematics/DISC-0237-theorem-DY-spectral-inner-m0-4.md).
+
+- DISC-0236 → DISC-0237. Label: mathematical. DX's open item (m_0 below 5) answered; constants nested inside DX's and still contain Omega.
+- DISC-0203 → DISC-0237. Label: computational. CQ's lambda_4 and circle G_4 re-run as inputs.
+- DISC-0234 → DISC-0237. Label: mathematical. DV.1's k = 9 row superseded (B_X/B_Y = 1.0014584); k = 8 row kept.
+- DISC-0237 → DISC-0204. Label: mathematical (open). DY.6: m_0 = 3 needs lambda_5 split off or a smaller circle.
+- DISC-0205 → DISC-0237. Label: mathematical. DY.5: CF.3-form floor >= 8.59x CS.2 from k = 9.
