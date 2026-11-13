@@ -87,3 +87,6 @@ As DISC-0127.
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+
+## Dated note (2026-11-13, ~8:15 AM EST)
+Theorem DZ.3 (informational-flux-identity 6630f9bcfbfaa421c133ec52339a3a0c41fbe7e3; DISC-0238) extends the sign flip recorded here to every alpha in (gamma, 1): C_alpha < 0, so rho^n ||F(n, alpha)|| approaches K_alpha from above on the whole range, not only at 0.75 and 0.8. Status stays REJECTED for the original claim. The original text above is preserved unchanged.

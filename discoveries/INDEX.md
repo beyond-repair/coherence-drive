@@ -752,3 +752,13 @@ A 2026-11-13 append adds DISC-0237 (THEOREM; Theorem DY, two-sided spectral rate
 - DISC-0234 → DISC-0237. Label: mathematical. DV.1's k = 9 row superseded (B_X/B_Y = 1.0014584); k = 8 row kept.
 - DISC-0237 → DISC-0204. Label: mathematical (open). DY.6: m_0 = 3 needs lambda_5 split off or a smaller circle.
 - DISC-0205 → DISC-0237. Label: mathematical. DY.5: CF.3-form floor >= 8.59x CS.2 from k = 9.
+
+A 2026-11-13 append adds DISC-0238 (THEOREM; Theorem DZ, limit of the renormalised corner deficit identified as -nu_alpha (1 - delta_N), C_alpha < 0 on all of (gamma, 1)) and DISC-0239 (REJECTED; Kept Failure DZ.4, the limit depends on N) from informational-flux-identity 6630f9bcfbfa. Files: [mathematics/DISC-0238-theorem-DZ-corner-deficit-limit-identified-C-alpha-negative.md](mathematics/DISC-0238-theorem-DZ-corner-deficit-limit-identified-C-alpha-negative.md), [failed-hypotheses/DISC-0239-kept-failure-DZ4-corner-limit-depends-on-N.md](failed-hypotheses/DISC-0239-kept-failure-DZ4-corner-limit-depends-on-N.md).
+
+- DISC-0159 → DISC-0238. Label: mathematical. BL.6's limit part proved, limit identified as -nu_alpha (1 - delta_N).
+- DISC-0159 → DISC-0239. Label: failed hypothesis. BL.6's "independent of N" rejected (certified at 0.8).
+- DISC-0238 → DISC-0239. Label: mathematical. DZ.2/DZ.3 imply the N-dependence.
+- DISC-0127 → DISC-0238. Label: mathematical. AZ (1)/(3) used as inputs; AZ's open sign item answered (C_alpha < 0 on (gamma, 1)).
+- DISC-0238 → DISC-0128. Label: mathematical. AZ.1's sign flip extended to the whole range.
+- DISC-0155 / DISC-0161 / DISC-0153 / DISC-0151 → DISC-0238. Label: mathematical. BK.1 transfer, BN.4 floor, BJ (6) and BI.4's G used as stated.
+- DISC-0160 → DISC-0239. Label: computational. BM's 0.3643 at 0.9 is the N = 6 value.

@@ -97,3 +97,6 @@ Certify C_α on a grid in (γ,1) to test the sign question; certify the (ρ/3)^m
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+
+## Dated note (2026-11-13, ~8:15 AM EST)
+The open item "whether C_alpha < 0 on all of (gamma, 1)" listed above is proved by Theorem DZ.3 (informational-flux-identity 6630f9bcfbfaa421c133ec52339a3a0c41fbe7e3; DISC-0238): BN.4 floor c_N > 0 and DZ.2 give -nu_alpha (1 - delta_N) >= c_N, so nu_alpha < 0 and C_alpha < 0 for every alpha in (gamma, 1), conditional on AZ (1), BN.4 and BJ (6) as stated. Archive independent numpy quadrature reproduces A_0.8 = 2.3964097040, C_0.8 = -1.74325718, nu_0.8 = -0.727445386. No status change to this record. The original text above is preserved unchanged.
