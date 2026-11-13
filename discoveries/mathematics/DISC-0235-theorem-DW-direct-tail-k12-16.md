@@ -75,3 +75,7 @@ Clone informational-flux-identity at 49f0fa0349fc; `pip install python-flint num
 
 ## Change History
 - 2026-11-13: created.
+
+
+## Dated note (2026-11-13, ~5:10 AM EST)
+The observation above (consecutive row ratios ~0.1725, not a proved rate) is superseded for the orbit F_m by Theorem DX (informational-flux-identity 3b72f8e0bc10; DISC-0236): two-sided L_5|q|^m <= osc log R_m <= U_5|q|^m for every m >= 5 with |q| = 0.1725476. DX's spectral intervals meet DW.1's rows m = 6..12. The original text above is preserved unchanged; the cone rate 0.2380 stays as stated.

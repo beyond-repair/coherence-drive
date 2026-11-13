@@ -737,3 +737,10 @@ A 2026-11-13 append adds DISC-0235 (THEOREM; Theorem DW, direct rows m = 8..12, 
 
 - DISC-0234 → DISC-0235. Label: mathematical. DV's open item (m ≥ 8) answered; DV.3' strict form holds for B_W.
 - DISC-0229 → DISC-0235. Label: computational. Row ratios ~0.1725 match DQ's spectral value (observation only).
+
+A 2026-11-13 append adds DISC-0236 (THEOREM; Theorem DX, exact spectral rate 0.1725476 of osc log R_m for every m >= 5) from informational-flux-identity 3b72f8e0bc10. File: [mathematics/DISC-0236-theorem-DX-spectral-rate-osc-log-R.md](mathematics/DISC-0236-theorem-DX-spectral-rate-osc-log-R.md).
+
+- DISC-0235 → DISC-0236. Label: mathematical. DW's observed ratio ~0.1725 proved as a two-sided rate; DW.1 rows m = 6..12 cross-checked by an independent method.
+- DISC-0229 → DISC-0236. Label: mathematical. DQ's spectral 0.1725 is the proved orbit rate.
+- DISC-0201 / DISC-0200 / DISC-0191 → DISC-0236. Label: computational. CO.3/CO.4 projections, CN.2 circles and CG.3 eigenvalue count re-run as inputs.
+- DISC-0205 → DISC-0236. Label: mathematical. DX.5: every CF.3-form bound stays >= 8.07x CS.2's D_4|q|^k.
