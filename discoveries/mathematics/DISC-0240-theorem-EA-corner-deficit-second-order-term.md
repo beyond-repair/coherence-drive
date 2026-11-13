@@ -78,3 +78,4 @@ Clone informational-flux-identity at 0a46e2094140f32db5bc36921e521454b06274ef; `
 
 ## Change History
 - 2026-11-13: created.
+- 2026-11-13 (dated note): Theorem EB (IFI f0c35377564e, DISC-0241) answers this record's open item 'DZ's second-order term in n (not N)': coefficient nu_alpha^2 (1 - delta_N). No status change.

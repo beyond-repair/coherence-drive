@@ -768,3 +768,9 @@ A 2026-11-13 append adds DISC-0240 (THEOREM; Theorem EA, second-order term of th
 - DISC-0153 → DISC-0240. Label: mathematical. BJ's open monotonicity item proved; BJ.6's limit re-derived without AT.1.
 - DISC-0238 → DISC-0240. Label: mathematical. DZ.2-DZ.3's C_delta formula combined with EA.1-EA.2 gives the rate in N.
 - DISC-0240 → DISC-0239. Label: computational. EA.4's C_delta(0.8, N) brackets meet DZ.4's, 33-41x narrower.
+
+A 2026-11-13 append adds DISC-0241 (THEOREM; Theorem EB, level-n corner deficit is Möbius in rho^-n, second-order coefficient nu^2 (1 - delta_N) > 0) from informational-flux-identity f0c35377564e. File: [mathematics/DISC-0241-theorem-EB-level-n-corner-deficit-mobius-second-order.md](mathematics/DISC-0241-theorem-EB-level-n-corner-deficit-mobius-second-order.md).
+
+- DISC-0238 → DISC-0241. Label: mathematical. DZ.2's exact X_k rewritten as a Möbius form; DZ's kept second-order limit answered.
+- DISC-0240 → DISC-0241. Label: mathematical. EA's open item (second-order term in n) answered; EA.4's C_delta(0.8, N) brackets give Y_oo.
+- DISC-0127 → DISC-0241. Label: mathematical. AZ (1)'s 5^-0.65n eps rate bounds the remainder.
