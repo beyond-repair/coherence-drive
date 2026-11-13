@@ -74,3 +74,4 @@ Clone informational-flux-identity at 84cb64b224d9; `pip install python-flint sym
 
 ## Change History
 - 2026-11-12: created.
+- note 2026-11-13 ~2:05 AM EST: kept failure DT.4 resolved by Theorem DV (IFI 8ec657a289ec, DISC-0234): the direct bound osc log R_(k-4) beats DO.3 at k = 4..10. DT.4 stays true as a statement about DT.3-form bounds; original text above preserved.

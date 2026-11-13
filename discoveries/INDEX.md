@@ -727,3 +727,8 @@ A 2026-11-12 append adds DISC-0233 (THEOREM; Theorem DU, sharper certified D_7, 
 - DISC-0232 → DISC-0233. Label: mathematical. DT's open item "sharper D_7, D_8" answered; DT.3 re-derived with the new factors.
 - DISC-0230 → DISC-0233. Label: mathematical. DR.1/DR.2 lemmas reused; DR.3 is the single-reference case.
 - DISC-0231 → DISC-0233. Label: mathematical. DS.3's D_4 sets the uniform n ≥ 5 bound (attained at n = 9).
+
+A 2026-11-13 append adds DISC-0234 (THEOREM; Theorem DV, direct constants to m = 7, DT.4 resolved) from informational-flux-identity 8ec657a289ec. File: [mathematics/DISC-0234-theorem-DV-direct-constants-second-order-cone.md](mathematics/DISC-0234-theorem-DV-direct-constants-second-order-cone.md).
+
+- DISC-0232 → DISC-0234. Label: mathematical. Kept failure DT.4 resolved by the direct bound at k = 4..10.
+- DISC-0233 → DISC-0234. Label: mathematical. DU.3's θ_n factors used in B_V; DU placeholders filled.

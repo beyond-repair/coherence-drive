@@ -74,3 +74,4 @@ Clone informational-flux-identity at 95fbcc0b3ddf; `pip install python-flint num
 
 ## Change History
 - 2026-11-12: created.
+- note 2026-11-13 ~2:05 AM EST: GASKET placeholder nit closed by IFI 8ec657a289ec (DU_FULL 16032 s, default ~75 s now filled). See DISC-0234.
