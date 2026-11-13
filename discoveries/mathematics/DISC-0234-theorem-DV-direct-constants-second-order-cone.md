@@ -74,3 +74,4 @@ Clone informational-flux-identity at 8ec657a289ec; `pip install python-flint num
 
 ## Change History
 - 2026-11-13: created.
+- note 2026-11-13 ~4:10 AM EST: open item 'direct constants for m >= 8' answered by IFI 49f0fa0349fc (Theorem DW, rows m = 8..12). DV.3' stays rejected for B_V; its strict form holds for the new B_W. See DISC-0235.

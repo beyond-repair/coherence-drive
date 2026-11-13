@@ -732,3 +732,8 @@ A 2026-11-13 append adds DISC-0234 (THEOREM; Theorem DV, direct constants to m =
 
 - DISC-0232 → DISC-0234. Label: mathematical. Kept failure DT.4 resolved by the direct bound at k = 4..10.
 - DISC-0233 → DISC-0234. Label: mathematical. DU.3's θ_n factors used in B_V; DU placeholders filled.
+
+A 2026-11-13 append adds DISC-0235 (THEOREM; Theorem DW, direct rows m = 8..12, strict B_W improvement for every k ≥ 4) from informational-flux-identity 49f0fa0349fc. File: [mathematics/DISC-0235-theorem-DW-direct-tail-k12-16.md](mathematics/DISC-0235-theorem-DW-direct-tail-k12-16.md).
+
+- DISC-0234 → DISC-0235. Label: mathematical. DV's open item (m ≥ 8) answered; DV.3' strict form holds for B_W.
+- DISC-0229 → DISC-0235. Label: computational. Row ratios ~0.1725 match DQ's spectral value (observation only).
