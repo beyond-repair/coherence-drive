@@ -721,3 +721,9 @@ A 2026-11-12 append adds DISC-0232 (THEOREM; Theorem DT, level-sum bound on K_(2
 - DISC-0231 → DISC-0232. Label: mathematical. DS.3's n = 4 contraction factor used in the level-sum bound.
 - DISC-0230 → DISC-0232. Label: mathematical. DR.3's factors n = 3, 5..8 used; DR's kept limit closed.
 - DISC-0229 → DISC-0232. Label: mathematical. Rate measured against DQ.4's spectral limit 0.1725.
+
+A 2026-11-12 append adds DISC-0233 (THEOREM; Theorem DU, sharper certified D_7, D_8 on K_(2,6), per-level rate 0.2380) from informational-flux-identity 95fbcc0b3ddf. File: [mathematics/DISC-0233-theorem-DU-sharper-D7-D8-second-order-cone.md](mathematics/DISC-0233-theorem-DU-sharper-D7-D8-second-order-cone.md).
+
+- DISC-0232 → DISC-0233. Label: mathematical. DT's open item "sharper D_7, D_8" answered; DT.3 re-derived with the new factors.
+- DISC-0230 → DISC-0233. Label: mathematical. DR.1/DR.2 lemmas reused; DR.3 is the single-reference case.
+- DISC-0231 → DISC-0233. Label: mathematical. DS.3's D_4 sets the uniform n ≥ 5 bound (attained at n = 9).
