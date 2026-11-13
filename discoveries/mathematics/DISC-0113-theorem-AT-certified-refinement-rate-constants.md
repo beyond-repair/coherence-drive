@@ -91,3 +91,4 @@ Prove the 3^(−m) correction from r_∞≍s^(γ−1); independent interval re-c
 ## Change History
 
 - 2026-10-22. Initial archive entry.
+- 2026-11-13 (dated note): Theorem EC (IFI ebaa8c8629b4, DISC-0242) proves the upper half of the open sharp correction exponent for alpha in (gamma, 1): O(3^-m) (observed rate), via BI.4's ceiling; a lower bound and alpha <= gamma stay open. No status change.

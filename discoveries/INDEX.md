@@ -774,3 +774,9 @@ A 2026-11-13 append adds DISC-0241 (THEOREM; Theorem EB, level-n corner deficit 
 - DISC-0238 → DISC-0241. Label: mathematical. DZ.2's exact X_k rewritten as a Möbius form; DZ's kept second-order limit answered.
 - DISC-0240 → DISC-0241. Label: mathematical. EA's open item (second-order term in n) answered; EA.4's C_delta(0.8, N) brackets give Y_oo.
 - DISC-0127 → DISC-0241. Label: mathematical. AZ (1)'s 5^-0.65n eps rate bounds the remainder.
+
+A 2026-11-13 append adds DISC-0242 (THEOREM; Theorem EC, the corner-deficit remainder is O(3^-n) on (gamma, 1), third-order sign to 4 gamma/3) from informational-flux-identity ebaa8c8629b4. File: [mathematics/DISC-0242-theorem-EC-sharp-remainder-exponent-3-to-minus-n.md](mathematics/DISC-0242-theorem-EC-sharp-remainder-exponent-3-to-minus-n.md).
+
+- DISC-0241 → DISC-0242. Label: mathematical. EB's kept limit (remainder exponent 0.65) sharpened to 3^-n; EB.3's windows removed.
+- DISC-0151 → DISC-0242. Label: mathematical. BI.4's certified ceiling G = 0.6031 is the new input to AT's weight.
+- DISC-0113 → DISC-0242. Label: mathematical. AT's open sharp correction exponent: upper bound O(3^-n) proved above gamma.
