@@ -798,3 +798,10 @@ A 2026-11-15 append adds DISC-0245 (THEOREM; Theorem EF, the second correction S
 - DISC-0244 → DISC-0245. Label: mathematical. EE's reduced sign criterion -nu^3(1 - delta_N) - varrho_N decided (< 0) at 4 gamma/3.
 - DISC-0243 → DISC-0245. Label: mathematical. The sharp threshold 4 gamma/3 (rho^3 = 3) now has its three-term asymptotic with negative S_N.
 - DISC-0238 → DISC-0245. Label: mathematical. nu_alpha (DZ's limit) written as integrals and certified off 0.8.
+
+A 2026-11-15 append adds DISC-0246 (THEOREM; Theorem EG, explicit threshold n_0 = N for Y_n < Y_oo at alpha = 4 gamma/3) from informational-flux-identity b819534ca2ef. File: [mathematics/DISC-0246-theorem-EG-explicit-threshold-at-4gamma-over-3.md](mathematics/DISC-0246-theorem-EG-explicit-threshold-at-4gamma-over-3.md).
+
+- DISC-0245 → DISC-0246. Label: mathematical. EF's 'for all large n' made explicit (every n >= N) via every-n lower bounds.
+- DISC-0244 → DISC-0246. Label: mathematical. One-sided rate for EE's limits; L(k0) -> e*.
+- DISC-0243 → DISC-0246. Label: mathematical. ED's non-explicit thresholds made explicit at 4 gamma/3 and 0.95.
+- DISC-0241 → DISC-0246. Label: mathematical. EB.1's exact identity is the vehicle for EG.2.
