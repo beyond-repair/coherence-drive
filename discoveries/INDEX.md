@@ -805,3 +805,9 @@ A 2026-11-15 append adds DISC-0246 (THEOREM; Theorem EG, explicit threshold n_0 
 - DISC-0244 → DISC-0246. Label: mathematical. One-sided rate for EE's limits; L(k0) -> e*.
 - DISC-0243 → DISC-0246. Label: mathematical. ED's non-explicit thresholds made explicit at 4 gamma/3 and 0.95.
 - DISC-0241 → DISC-0246. Label: mathematical. EB.1's exact identity is the vehicle for EG.2.
+
+A 2026-11-15 append adds DISC-0247 (THEOREM; Theorem EH, explicit threshold on all of [4 gamma/3, 1)) from informational-flux-identity 4e198bae1a55. File: [mathematics/DISC-0247-theorem-EH-explicit-threshold-on-4gamma-over-3-to-1.md](mathematics/DISC-0247-theorem-EH-explicit-threshold-on-4gamma-over-3-to-1.md). Repair note: DISC-0243/0244/0245 files restored (truncated by 8f20c86).
+
+- DISC-0246 → DISC-0247. Label: mathematical. n_0 = N extended from 4 gamma/3 and 0.95 to all of [4 gamma/3, 1) by cell enclosures.
+- DISC-0245 → DISC-0247. Label: mathematical. nu_alpha and D'_oo certified as functions on [4 gamma/3, 1).
+- DISC-0243 → DISC-0247. Label: mathematical. Sign change in n below 4 gamma/3 vs every-n above.
