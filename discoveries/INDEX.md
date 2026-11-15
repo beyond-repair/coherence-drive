@@ -786,3 +786,9 @@ A 2026-11-13 append adds DISC-0243 (THEOREM; Theorem ED, the corner-deficit rema
 - DISC-0242 → DISC-0243. Label: mathematical. EC's upper bound O(3^-n) matched by a lower bound; EC.3's threshold made iff.
 - DISC-0127 → DISC-0243. Label: mathematical. AZ (1)'s defect eps_n proved positive with exact order (rho/3)^n.
 - DISC-0241 → DISC-0243. Label: mathematical. EB's third term exact on (gamma, 4 gamma/3), fails above.
+
+A 2026-11-15 append adds DISC-0244 (THEOREM; Theorem EE, the 3^-n coefficient of the corner-deficit remainder has a limit on (gamma, 1)) from informational-flux-identity d3104a646884. File: [mathematics/DISC-0244-theorem-EE-limit-of-3-to-minus-n-coefficient.md](mathematics/DISC-0244-theorem-EE-limit-of-3-to-minus-n-coefficient.md).
+
+- DISC-0243 → DISC-0244. Label: mathematical. ED's two-sided Theta(3^-n) brackets sharpened to a limit with explicit integral formula.
+- DISC-0242 → DISC-0244. Label: mathematical. EC.5's observed ratio w_(k+1)/w_k -> 1/3 proved.
+- DISC-0241 → DISC-0244. Label: mathematical. EB.4's observed error ratio rho/3 proved.

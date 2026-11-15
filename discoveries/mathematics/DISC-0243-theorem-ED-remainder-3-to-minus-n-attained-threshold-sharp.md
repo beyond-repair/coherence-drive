@@ -76,3 +76,4 @@ Clone informational-flux-identity at 417b34c6129847a0abd28f85eb5d91b8db106059; `
 
 ## Change History
 - 2026-11-13: created.
+- 2026-11-15 (dated note): Theorem EE (IFI d3104a646884, DISC-0244) answers ED's kept limit and open item: (3/rho)^n eps_n -> e* (0.8: [0.7409667, 0.7410025], inside ED.2's bracket) and 3^n R_n -> varrho_N > 0, with explicit integral formulas. The entry above is unchanged.

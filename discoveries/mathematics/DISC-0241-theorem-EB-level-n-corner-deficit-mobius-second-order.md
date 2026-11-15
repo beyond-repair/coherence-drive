@@ -77,3 +77,4 @@ Clone informational-flux-identity at f0c35377564e1eb18fabcaceba7bf6278be7a950; `
 - 2026-11-13: created.
 - 2026-11-13 (dated note): Theorem EC (IFI ebaa8c8629b4, DISC-0242) answers EB's kept limit: R_n = O(3^-n) (upper bound), third-order sign for alpha < 4 gamma/3 = 0.910142, and EB.3's windows at 0.8 become every k >= 60. No status change.
 - 2026-11-13 (dated note): Theorem ED (IFI 417b34c61298, DISC-0243) proves R_n = Theta(3^-n): EB's third term holds exactly on (gamma, 4 gamma/3) and fails above; EB.4's rho/3 ratio still needs a limit and stays observed. No status change.
+- 2026-11-15 (dated note): Theorem EE (IFI d3104a646884, DISC-0244) proves EB.4's observed error ratio rho/3 (R_(n+1)/R_n -> 1/3). The entry above is unchanged.
