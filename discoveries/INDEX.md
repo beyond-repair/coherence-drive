@@ -817,3 +817,9 @@ A 2026-11-15 append adds DISC-0248 (THEOREM; Theorem EI, explicit onset level of
 - DISC-0247 → DISC-0248. Label: mathematical. EH.4's finite windows of Y_n < Y_oo closed off by an explicit level; last negative level bracketed at 0.9, 0.905, 0.91.
 - DISC-0246 → DISC-0248. Label: mathematical. Explicit n_0 below 4 gamma/3 on the upper-bound side without a two-sided rate.
 - DISC-0242 → DISC-0248. Label: mathematical. EC.2's B_alpha is the upper-side input; EC.4's k >= 60 at 0.8 improved to 13 for the sign.
+
+A 2026-11-15 append adds DISC-0249 (THEOREM; Theorem EJ, two-sided every-level rate and exact sign-change level) from informational-flux-identity 344496c145e9. File: [mathematics/DISC-0249-theorem-EJ-two-sided-rate-and-exact-sign-change-level.md](mathematics/DISC-0249-theorem-EJ-two-sided-rate-and-exact-sign-change-level.md).
+
+- DISC-0248 → DISC-0249. Label: mathematical. EI's crude B_alpha replaced by an every-level upper bound U(k0); onset levels sharpened to the exact level at 0.9/0.905.
+- DISC-0247 → DISC-0249. Label: mathematical. EH.4's sign change located exactly (one change) at 0.9 and 0.905.
+- DISC-0246 → DISC-0249. Label: mathematical. EG.1's lower bound L(k0) gets a matching upper bound (two-sided rate).

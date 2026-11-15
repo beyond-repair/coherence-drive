@@ -76,3 +76,4 @@ Clone informational-flux-identity at 74dea9103351afce7275aaeae60d22cf1ccdd14d; `
 
 ## Change History
 - 2026-11-15: created.
+- 2026-11-15 (dated note): Theorem EJ (IFI 344496c145e9, DISC-0249) gives the two-sided every-level rate this entry left open ((3/rho)^n eps_n in [0.728801, 0.740579] for every n >= 14 at 0.9, per the repo's --full run) and decides the sign-change level at 0.9 and 0.905. The onset levels drop to 33 at 0.9 and 68 at 0.905 (N = 1), and to 2616 at 0.91. Each is <= this entry's n1, so there is no contradiction. No status change.
