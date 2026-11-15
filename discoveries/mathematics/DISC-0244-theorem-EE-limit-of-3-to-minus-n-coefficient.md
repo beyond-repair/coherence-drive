@@ -77,3 +77,4 @@ Clone informational-flux-identity at d3104a6468849683afa9b4f7b919aae885f95c35; `
 
 ## Change History
 - 2026-11-15: created.
+- 2026-11-15 (dated note): Theorem EF (IFI 9ab32c906761, DISC-0245) decides the open sign: at alpha = 4 gamma/3, -nu^3(1 - delta_N) - varrho_N = S_N < 0 for every N >= 1 (|nu|^3 in [0.06235, 0.06243] < e*/D'_oo in [0.12316, 0.12320]). The rate of the EE limits stays open. No status change.

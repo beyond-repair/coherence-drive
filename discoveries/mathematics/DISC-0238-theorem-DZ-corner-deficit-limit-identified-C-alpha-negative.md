@@ -85,3 +85,4 @@ Clone informational-flux-identity at 6630f9bcfbfaa421c133ec52339a3a0c41fbe7e3; `
 - 2026-11-13: created.
 - 2026-11-13 (dated note): Theorem EA (IFI 0a46e2094140, DISC-0240) gives the rate in N: -nu_alpha - C_delta(alpha, N) = -nu_alpha rho^-N (c_corner + E_N), E_N of exact order (rho/5)^N. DZ's own open item (second-order term of X_k - C_delta in k) stays open. No status change.
 - 2026-11-13 (dated note): Theorem EB (IFI f0c35377564e, DISC-0241) answers DZ's kept limit: rho^n (X_n - C_delta) -> nu_alpha^2 (1 - delta_N) > 0, approached from above. No status change.
+- 2026-11-15 (dated note): Theorem EF (IFI 9ab32c906761, DISC-0245) answers DZ's open item 'a certified nu_alpha at other alpha': nu_0.7 [-0.962092, -0.961514], nu_0.9 [-0.432534, -0.432350], nu_(4gamma/3) [-0.396698, -0.396533], nu_0.95 [-0.240608, -0.240516]. No status change.

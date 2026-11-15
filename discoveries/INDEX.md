@@ -792,3 +792,9 @@ A 2026-11-15 append adds DISC-0244 (THEOREM; Theorem EE, the 3^-n coefficient of
 - DISC-0243 → DISC-0244. Label: mathematical. ED's two-sided Theta(3^-n) brackets sharpened to a limit with explicit integral formula.
 - DISC-0242 → DISC-0244. Label: mathematical. EC.5's observed ratio w_(k+1)/w_k -> 1/3 proved.
 - DISC-0241 → DISC-0244. Label: mathematical. EB.4's observed error ratio rho/3 proved.
+
+A 2026-11-15 append adds DISC-0245 (THEOREM; Theorem EF, the second correction S_N at alpha = 4 gamma/3 is negative for every N) from informational-flux-identity 9ab32c906761. File: [mathematics/DISC-0245-theorem-EF-sign-at-4gamma-over-3-negative-every-N.md](mathematics/DISC-0245-theorem-EF-sign-at-4gamma-over-3-negative-every-N.md).
+
+- DISC-0244 → DISC-0245. Label: mathematical. EE's reduced sign criterion -nu^3(1 - delta_N) - varrho_N decided (< 0) at 4 gamma/3.
+- DISC-0243 → DISC-0245. Label: mathematical. The sharp threshold 4 gamma/3 (rho^3 = 3) now has its three-term asymptotic with negative S_N.
+- DISC-0238 → DISC-0245. Label: mathematical. nu_alpha (DZ's limit) written as integrals and certified off 0.8.
