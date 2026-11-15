@@ -77,3 +77,5 @@ Clone informational-flux-identity at d2a34ff395c5; pip install python-flint symp
 
 ## Change History
 - 2026-11-15: created.
+
+- 2026-11-15 ~4:10 PM EST note (append; history above unchanged): open item "decide level 103 at (0.905, N = 3)" answered by DISC-0251 (Theorem EL, informational-flux-identity 7ba5c961c4a4): Y_n > Y_oo for every n >= 103, so exactly one sign change 102 -> 103. The gap was on the upper side (EJ's two-ended cell routine), not the lower side. Status of DISC-0250 unchanged.

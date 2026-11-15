@@ -827,3 +827,8 @@ A 2026-11-15 append adds DISC-0249 (THEOREM; Theorem EJ, two-sided every-level r
 A 2026-11-15 append adds DISC-0250 (THEOREM; Theorem EK, exact sign-change level at alpha = 0.905 for N = 2) from informational-flux-identity d2a34ff395c5. File: [mathematics/DISC-0250-theorem-EK-exact-sign-change-level-at-0905-N2.md](mathematics/DISC-0250-theorem-EK-exact-sign-change-level-at-0905-N2.md).
 
 - DISC-0249 → DISC-0250. Label: mathematical/computational. EJ.1-EJ.2 rerun on finer grids; EJ.3's [82,83] at (0.905, N = 2) closed to 83 -> 84, [101,103] at N = 3 narrowed to [102,103].
+
+A 2026-11-15 append adds DISC-0251 (THEOREM; Theorem EL, exact sign-change level at alpha = 0.905 for N = 3) from informational-flux-identity 7ba5c961c4a4. File: [mathematics/DISC-0251-theorem-EL-exact-sign-change-level-at-0905-N3.md](mathematics/DISC-0251-theorem-EL-exact-sign-change-level-at-0905-N3.md).
+
+- DISC-0250 → DISC-0251. Label: mathematical/computational. EK's undecided level 103 at (0.905, N = 3) decided on the upper side by EL.1's left-node cell bound; sign change 102 -> 103.
+- DISC-0249 → DISC-0251. Label: mathematical. EJ.1's upper cell routine sharpened (O(1/n) vs n^(-1/2) excess, observed); EJ.4's 0.91 onset 2616 -> 2587.
