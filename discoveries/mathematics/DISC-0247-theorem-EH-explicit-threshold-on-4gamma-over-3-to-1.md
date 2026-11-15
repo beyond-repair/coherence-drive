@@ -75,3 +75,4 @@ Clone informational-flux-identity at 4e198bae1a55dafe42996fd67a9ffb85f2244dbb; `
 
 ## Change History
 - 2026-11-15: created.
+- 2026-11-15 (dated note): Theorem EI (IFI 74dea9103351, DISC-0248) answers this entry's open item 'onset level below 4 gamma/3' with an explicit upper bound on it: a criterion Phi_N(k) strictly increasing in k (g = 3/rho^3 > 1) gives Y_n > Y_oo for every n >= n1, arb n1 (N = 1) = 159 at 0.9, 316 at 0.905, 11584 at 0.91; with EH.4's windows the last level with Y_n < Y_oo lies in [8, 158], [21, 315], [926, 11583]. Every n1 exceeds the EH.4 window ends 8 / 21 / 926 (no contradiction). The exact sign-change position and the number of sign changes stay open. No status change.

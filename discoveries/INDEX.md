@@ -811,3 +811,9 @@ A 2026-11-15 append adds DISC-0247 (THEOREM; Theorem EH, explicit threshold on a
 - DISC-0246 → DISC-0247. Label: mathematical. n_0 = N extended from 4 gamma/3 and 0.95 to all of [4 gamma/3, 1) by cell enclosures.
 - DISC-0245 → DISC-0247. Label: mathematical. nu_alpha and D'_oo certified as functions on [4 gamma/3, 1).
 - DISC-0243 → DISC-0247. Label: mathematical. Sign change in n below 4 gamma/3 vs every-n above.
+
+A 2026-11-15 append adds DISC-0248 (THEOREM; Theorem EI, explicit onset level of Y_n > Y_oo below 4 gamma/3) from informational-flux-identity 74dea9103351. File: [mathematics/DISC-0248-theorem-EI-explicit-onset-level-below-4gamma-over-3.md](mathematics/DISC-0248-theorem-EI-explicit-onset-level-below-4gamma-over-3.md).
+
+- DISC-0247 → DISC-0248. Label: mathematical. EH.4's finite windows of Y_n < Y_oo closed off by an explicit level; last negative level bracketed at 0.9, 0.905, 0.91.
+- DISC-0246 → DISC-0248. Label: mathematical. Explicit n_0 below 4 gamma/3 on the upper-bound side without a two-sided rate.
+- DISC-0242 → DISC-0248. Label: mathematical. EC.2's B_alpha is the upper-side input; EC.4's k >= 60 at 0.8 improved to 13 for the sign.

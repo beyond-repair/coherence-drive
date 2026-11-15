@@ -80,3 +80,4 @@ Clone informational-flux-identity at b819534ca2ef04f2a1791423f7fe0f07ea2f24df; `
 ## Change History
 - 2026-11-15: created.
 - 2026-11-15 (dated note): Theorem EH (IFI 4e198bae1a55, DISC-0247) answers this entry's open item 'explicit n_0 on all of [4 gamma/3, 1)': L(2) - f^2 |nu|^3 D'_oo >= 0.09058 on 36 certified cells, so Y_n < Y_oo for every alpha in [4 gamma/3, 1), N >= 1, n >= N (n = 1 by the eta route below alpha = 0.9225, else L(1)). Below 4 gamma/3 the finite-n sign changes (EH.4). No status change.
+- 2026-11-15 (dated note): Theorem EI (IFI 74dea9103351, DISC-0248) answers this entry's kept limit 'no explicit n_0 below 4 gamma/3 under EC.4's 60' on the upper side, without a two-sided rate: EC.2's crude B_alpha and DZ.1's etabar suffice below 4 gamma/3, giving Y_n > Y_oo for every n >= n1, n1 = 13 at 0.8 (N = 1, 2, 3; 14 for N = 6, 18 for N = 10). A two-sided rate for c_k is still open. No status change.
