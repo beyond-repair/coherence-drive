@@ -823,3 +823,7 @@ A 2026-11-15 append adds DISC-0249 (THEOREM; Theorem EJ, two-sided every-level r
 - DISC-0248 → DISC-0249. Label: mathematical. EI's crude B_alpha replaced by an every-level upper bound U(k0); onset levels sharpened to the exact level at 0.9/0.905.
 - DISC-0247 → DISC-0249. Label: mathematical. EH.4's sign change located exactly (one change) at 0.9 and 0.905.
 - DISC-0246 → DISC-0249. Label: mathematical. EG.1's lower bound L(k0) gets a matching upper bound (two-sided rate).
+
+A 2026-11-15 append adds DISC-0250 (THEOREM; Theorem EK, exact sign-change level at alpha = 0.905 for N = 2) from informational-flux-identity d2a34ff395c5. File: [mathematics/DISC-0250-theorem-EK-exact-sign-change-level-at-0905-N2.md](mathematics/DISC-0250-theorem-EK-exact-sign-change-level-at-0905-N2.md).
+
+- DISC-0249 → DISC-0250. Label: mathematical/computational. EJ.1-EJ.2 rerun on finer grids; EJ.3's [82,83] at (0.905, N = 2) closed to 83 -> 84, [101,103] at N = 3 narrowed to [102,103].

@@ -65,6 +65,8 @@ DISC-0248 (EI), DISC-0247 (EH), DISC-0246 (EG), DISC-0244 (EE), DISC-0243 (ED), 
 ## Open Questions
 A proved rate for U(k0) - L(k0) -> 0; alpha-cells instead of points; exact levels for N >= 2 at 0.905 and at 0.88, 0.89, 0.91; initial windows below 0.88; signs at n < 6.
 
+- 2026-11-15 ~3:15 PM EST note: DISC-0250 (Theorem EK, informational-flux-identity d2a34ff395c5) closes the 0.905, N = 2 level to exactly 83 -> 84 and narrows N = 3 to [102,103]; original item kept above.
+
 ## Next Experiments
 Run --full on an unloaded box and confirm 32 -> 33, 40 -> 41, 50 -> 51, 67 -> 68; cell version of EJ.2 on (gamma, 4 gamma/3).
 
@@ -76,5 +78,6 @@ Clone informational-flux-identity at 344496c145e9077c42cd1da2f4279b6c358e2882; p
 - 2026-11-15 ~2:12 PM EST: --full EXIT 0 (586.4 s wall, informational-flux-identity @ 344496c145e9, python3 + python-flint); exact levels 32->33, 40->41, 50->51, 67->68 reproduced.
 
 ## Change History
+- 2026-11-15 ~3:15 PM EST: dated note linking DISC-0250 (Open Questions); no status change.
 - 2026-11-15 ~2:15 PM EST: --full reproduction recorded (Falsification Attempts, Evidence Log); no status change.
 - 2026-11-15: created.
