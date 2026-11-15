@@ -48,6 +48,7 @@ Method KNOWN; constants and sign-change levels new to the corpus; external novel
 - tests/test_flux_identity.py: 12 passed.
 - Consistency: every EJ onset is <= EI's n1 (DISC-0248); 0.9's last negative level 32 lies in EI.3's [8,158], 0.905's 67 in [21,315], 0.91's [2564,2615] in [926,11583]; every EJ negative window contains EH.4's (DISC-0247); [L(12),U(14)] contains EG.4's e*(0.9) [0.73737,0.73802]; EI.4's float crossings 33, 41, 51 (0.9, N = 1, 2, 3) coincide with EJ.3's exact onsets. No contradiction found.
 - Scope: exact level only at 0.9 (N <= 3) and 0.905 (N = 1); points, not alpha-cells; signs at n < 6 and windows at 0.7-0.85 undecided; no proved rate for U - L -> 0. KEPT FAILURE: none.
+- 2026-11-15 ~2:12 PM EST follow-up (supersedes the 'NOT run' line above, which is kept as history): --full run on an unloaded box (586.4 s, EXIT 0, 'all EJ checks passed'). Reproduced: k0 = 14 U <= 0.740579, L(12) >= 0.728801, kappa_1 in [0.075853, 0.077086]; 0.9 N = 1 'Y_n < Y_oo for n = 1..32 and Y_n > Y_oo for every n >= 33: exactly one sign change'; N = 2 'last level with Y_n < Y_oo is EXACTLY n = 40'; N = 3 'EXACTLY n = 50'; 0.905 N = 1 window [1,67], onset 68; 0.905 N = 2 / 3 brackets [82,83] / [101,103]; EJ.4 onsets 6,6,6,10,16,33,68,2616, windows [2,8], [2,14], [1,2564] -> [2564,2615] at 0.88/0.89/0.91. Every EJ.3-EJ.4 number in the commit is reproduced. No defect found; status unchanged.
 
 ## Experimental Validation
 None applicable (pure mathematics). Functions on a graph, not a flux; not thrust; Stage 2 still blocked.
@@ -72,6 +73,8 @@ Clone informational-flux-identity at 344496c145e9077c42cd1da2f4279b6c358e2882; p
 
 ## Evidence Log
 - 2026-11-15 ~1:10 PM EST: default EXIT 0 (207.4 s); pytest test_flux_identity.py 12 passed; exact-rational telescoping check 0 mismatches; --full not run (memory).
+- 2026-11-15 ~2:12 PM EST: --full EXIT 0 (586.4 s wall, informational-flux-identity @ 344496c145e9, python3 + python-flint); exact levels 32->33, 40->41, 50->51, 67->68 reproduced.
 
 ## Change History
+- 2026-11-15 ~2:15 PM EST: --full reproduction recorded (Falsification Attempts, Evidence Log); no status change.
 - 2026-11-15: created.
