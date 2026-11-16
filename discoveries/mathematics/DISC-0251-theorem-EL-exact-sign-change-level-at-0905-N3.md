@@ -77,3 +77,5 @@ Clone informational-flux-identity at 7ba5c961c4a4; pip install python-flint symp
 
 ## Change History
 - 2026-11-15: created.
+
+- 2026-11-16 ~7:40 AM EST note (append; history above unchanged): EL.3's 0.91 bracket [2564, 2586] (open item "exact level at 0.91") is closed by DISC-0252 (Theorem EM, informational-flux-identity 4e72d34b6ed3): EM.2 (--full) gives Y_n < Y_oo for n <= 2585 and Y_n > Y_oo for every n >= 2586, so exactly one sign change 2585 -> 2586 (inside EL.3's bracket; onset one below EL.3's 2587). EM.1 is the mirror of EL.1 on the lower side (open item "EL.1 on the lower side" answered). DISC-0252 also decides 0.89 (14 -> 15). Status of DISC-0251 unchanged.

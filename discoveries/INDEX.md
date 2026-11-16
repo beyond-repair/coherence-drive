@@ -832,3 +832,14 @@ A 2026-11-15 append adds DISC-0251 (THEOREM; Theorem EL, exact sign-change level
 
 - DISC-0250 → DISC-0251. Label: mathematical/computational. EK's undecided level 103 at (0.905, N = 3) decided on the upper side by EL.1's left-node cell bound; sign change 102 -> 103.
 - DISC-0249 → DISC-0251. Label: mathematical. EJ.1's upper cell routine sharpened (O(1/n) vs n^(-1/2) excess, observed); EJ.4's 0.91 onset 2616 -> 2587.
+
+A 2026-11-16 append adds DISC-0252 (THEOREM; Theorem EM, exact sign-change levels at alpha = 0.91 and 0.89 for N = 1) from informational-flux-identity 4e72d34b6ed3. File: [mathematics/DISC-0252-theorem-EM-exact-sign-change-level-at-091-and-089-N1.md](mathematics/DISC-0252-theorem-EM-exact-sign-change-level-at-091-and-089-N1.md).
+
+- DISC-0251 → DISC-0252. Label: mathematical/computational. EL.1's left-node upper bound mirrored as a right-node lower bound (EM.1); EL.3's 0.91 bracket [2564,2586] closed to 2585 -> 2586.
+- DISC-0249 → DISC-0252. Label: mathematical. EJ.4's 0.89 bracket [14,15] closed to 14 -> 15.
+- DISC-0246 → DISC-0252. Label: mathematical. EG.1's lower cell routine sharpened (single right node instead of mixed ends).
+
+A 2026-11-16 append adds DISC-0253 (THEOREM; Theorem EN, exact sign-change level at alpha = 0.88 for N = 1) from informational-flux-identity ceb654d12046. File: [mathematics/DISC-0253-theorem-EN-exact-sign-change-level-at-088-N1.md](mathematics/DISC-0253-theorem-EN-exact-sign-change-level-at-088-N1.md).
+
+- DISC-0252 → DISC-0253. Label: mathematical/computational. EM.4's undecided level 9 at 0.88 decided on the lower side by EN.1's two-sided D'_n; sign change 9 -> 10. EN.4 corrects EM's script docstring.
+- DISC-0249 → DISC-0253. Label: mathematical. EJ.2 (b)'s denominator D'_n <= D'_oo replaced by the exact first-order correction (ED.1 / AZ (1)).
