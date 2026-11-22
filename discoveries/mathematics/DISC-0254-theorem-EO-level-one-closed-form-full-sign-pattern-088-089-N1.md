@@ -76,3 +76,5 @@ Clone informational-flux-identity at a5a95218e714. Run pip install python-flint 
 
 ## Change History
 - 2026-11-22: created.
+
+- 2026-11-22 ~8:20 AM EST note (appended; the history above is unchanged): DISC-0255 (Theorem EP, informational-flux-identity 1a5d6a76e74d) closes the open item 'levels 2..5 and the number of sign changes at 0.85' (and the 0.7/0.8 levels 2..5). Exact residue sums for n = 1..6 give exactly one sign change at (0.85, N = 1), 3 -> 4, and no sign change at 0.7 or 0.8. The 'closed form for n >= 2' item is also addressed for n <= 6. EP.1's level-1 residue sum equals EO.1's closed form (om_1 = 0.0907457636 at 0.85, confirmed independently here to 2.6e-11).

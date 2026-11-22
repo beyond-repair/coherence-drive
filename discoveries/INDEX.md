@@ -849,3 +849,9 @@ A 2026-11-22 append adds DISC-0254 (THEOREM; Theorem EO, level 1 in closed form 
 - DISC-0253 → DISC-0254. Label: mathematical. EN's undecided level 1 at 0.88 decided by the exact six-vertex G_1 computation (the tail route stays undecided at k0 = 1); full pattern 9 -> 10 for n >= 1.
 - DISC-0252 → DISC-0254. Label: mathematical. EM.3's 0.89 pattern (n >= 2) extended to n >= 1, 14 -> 15.
 - DISC-0249 → DISC-0254. Label: mathematical/computational. EJ.4's level-1 signs at 0.9/0.905/0.91 reproduced independently of EJ.1/EG.1; new level-1 signs at 0.7, 0.8, 0.85.
+
+A 2026-11-22 ~8:20 AM EST append adds DISC-0255 (THEOREM; Theorem EP, levels 1..6 as exact residue sums and the full N = 1 sign pattern at alpha = 0.85, 0.8, 0.7) from informational-flux-identity 1a5d6a76e74d. File: [mathematics/DISC-0255-theorem-EP-exact-levels-2-6-residue-sums-full-sign-pattern-07-08-085-N1.md](mathematics/DISC-0255-theorem-EP-exact-levels-2-6-residue-sums-full-sign-pattern-07-08-085-N1.md).
+
+- DISC-0254 → DISC-0255. Label: mathematical. EO.1's level-1 partial-fraction route extended to levels 2..6 (exact r_n in Z[s]); EO's open item 'levels 2..5 at 0.7-0.85 and the number of sign changes' closed: 0.85 exactly one change 3 -> 4, 0.7/0.8 none.
+- DISC-0249 → DISC-0255. Label: mathematical/computational. EJ.4's undecided levels n < 6 at 0.7/0.8/0.85 decided; EJ.2 (a) onset improved to 5 there (EL.1 at k0 = 5).
+- DISC-0253 → DISC-0255. Label: computational. Exact D'_n (n = 1..5) lies inside EN.1's certified brackets (break test passed).
