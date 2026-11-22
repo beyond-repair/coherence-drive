@@ -75,3 +75,5 @@ Clone informational-flux-identity at 1a5d6a76e74d and run pip install python-fli
 
 ## Change History
 - 2026-11-22: created.
+
+- 2026-11-22 ~10:15 AM EST note (appended; the history above is unchanged): DISC-0256 (Theorem EQ, informational-flux-identity 8966f3127ec0) closes the kept limit 'pole structure n <= 6 only' and the open item 'pole structure for all n'. A proof by induction for every n gives deg A_n = 2^n, simple real negative poles and positive residues. It also confirms the 'H_n denominator not independently checked' limit structurally: the reduced denominator is 2 A_n. EP's signs are unchanged.
