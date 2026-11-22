@@ -82,3 +82,5 @@ Clone informational-flux-identity at 8966f3127ec0. Run pip install python-flint 
 
 ## Change History
 - 2026-11-22: created.
+
+- 2026-11-22 ~1:30 PM EST note (appended; the history above is unchanged): DISC-0257 (Theorem ER, informational-flux-identity c02dafc238e5) closes the kept limit that H_n's residues have mixed sign with no sign claimed: exactly 2^(n-2) are negative for n >= 2 (one for n = 1), one in each interval of {p^(n-1) < -5}. EQ's statements are unchanged.

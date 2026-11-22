@@ -860,3 +860,8 @@ A 2026-11-22 ~10:15 AM EST append adds DISC-0256 (THEOREM; Theorem EQ, EP.1's po
 
 - DISC-0255 → DISC-0256. Label: mathematical. EP.1's degrees 2^n and simple real negative poles, certified for n <= 6, proved for every n; EP's residue formulas valid at every level.
 - DISC-0254 → DISC-0256. Label: mathematical. EO.1's r_1 and eta_1 are the n = 1 case of EQ.1 and of H_n's reduced integrand.
+
+A 2026-11-22 ~1:30 PM EST append adds DISC-0257 (THEOREM; Theorem ER, signs of H_n's residues at every level) from informational-flux-identity c02dafc238e5. File: [mathematics/DISC-0257-theorem-ER-H-residue-signs-every-level.md](mathematics/DISC-0257-theorem-ER-H-residue-signs-every-level.md).
+
+- DISC-0256 → DISC-0257. Label: mathematical. EQ.1's B_n = prod q_k and EQ.2's interlacing-ready Stieltjes form give the sign of every residue of H_n's reduced integrand; EQ's kept limit 'residues of mixed sign, not claimed' closed.
+- DISC-0254 → DISC-0257. Label: mathematical. EO.1's n = 1 case: the pole -(7+sqrt13)/2 < -5 is the single negative residue.
