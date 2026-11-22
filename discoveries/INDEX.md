@@ -865,3 +865,9 @@ A 2026-11-22 ~1:30 PM EST append adds DISC-0257 (THEOREM; Theorem ER, signs of H
 
 - DISC-0256 → DISC-0257. Label: mathematical. EQ.1's B_n = prod q_k and EQ.2's interlacing-ready Stieltjes form give the sign of every residue of H_n's reduced integrand; EQ's kept limit 'residues of mixed sign, not claimed' closed.
 - DISC-0254 → DISC-0257. Label: mathematical. EO.1's n = 1 case: the pole -(7+sqrt13)/2 < -5 is the single negative residue.
+
+A 2026-11-22 ~5:50 PM EST append adds DISC-0258 (THEOREM; Theorem ES, sum, low moments and magnitude floor of H_n's residues at every level) from informational-flux-identity 361b25c217af. File: [mathematics/DISC-0258-theorem-ES-H-residue-sums-moments-floor.md](mathematics/DISC-0258-theorem-ES-H-residue-sums-moments-floor.md).
+
+- DISC-0257 → DISC-0258. Label: mathematical. ER.1's count of 2^(n-2) negative residues, one per interval of {p^(n-1) < -5}, is the index set of S_n^- and C_n^-; ER's kept limit 'signs and counts only: no magnitude, no sum' closed.
+- DISC-0256 → DISC-0258. Label: mathematical. EQ.1's degrees (deg A_n = 2^n, deg Q_n = 2^(n-1) - 1) and A_n(0) = 3^(n+1) give the degree gap, the vanishing moments and h_n(0).
+- DISC-0254 → DISC-0258. Label: mathematical. EO.1's h_1 = 1/(2(s^2+7s+9)) gives S_1^- = 1/(2 sqrt13).

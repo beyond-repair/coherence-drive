@@ -83,3 +83,5 @@ None. A counting statement about a rational function on the combinatorial gasket
 ## Change History
 - 2026-11-22: created.
 
+
+- 2026-11-22 ~5:50 PM EST note (appended; the history above is unchanged): DISC-0258 (Theorem ES, informational-flux-identity 361b25c217af) closes the kept limit "counting only, no magnitude or sum": sum_j h_j = 0 (so S_n^- = S_n^+), the first 2^(n-1) residue moments are fixed, and S_n^- >= (2/5) C_n^- for n >= 2 (S_1^- = 1/(2 sqrt13)). ER's statements are unchanged.
