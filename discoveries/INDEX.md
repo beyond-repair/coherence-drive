@@ -843,3 +843,9 @@ A 2026-11-16 append adds DISC-0253 (THEOREM; Theorem EN, exact sign-change level
 
 - DISC-0252 → DISC-0253. Label: mathematical/computational. EM.4's undecided level 9 at 0.88 decided on the lower side by EN.1's two-sided D'_n; sign change 9 -> 10. EN.4 corrects EM's script docstring.
 - DISC-0249 → DISC-0253. Label: mathematical. EJ.2 (b)'s denominator D'_n <= D'_oo replaced by the exact first-order correction (ED.1 / AZ (1)).
+
+A 2026-11-22 append adds DISC-0254 (THEOREM; Theorem EO, level 1 in closed form and the full N = 1 sign pattern at alpha = 0.88 and 0.89) from informational-flux-identity a5a95218e714. File: [mathematics/DISC-0254-theorem-EO-level-one-closed-form-full-sign-pattern-088-089-N1.md](mathematics/DISC-0254-theorem-EO-level-one-closed-form-full-sign-pattern-088-089-N1.md).
+
+- DISC-0253 → DISC-0254. Label: mathematical. EN's undecided level 1 at 0.88 decided by the exact six-vertex G_1 computation (the tail route stays undecided at k0 = 1); full pattern 9 -> 10 for n >= 1.
+- DISC-0252 → DISC-0254. Label: mathematical. EM.3's 0.89 pattern (n >= 2) extended to n >= 1, 14 -> 15.
+- DISC-0249 → DISC-0254. Label: mathematical/computational. EJ.4's level-1 signs at 0.9/0.905/0.91 reproduced independently of EJ.1/EG.1; new level-1 signs at 0.7, 0.8, 0.85.

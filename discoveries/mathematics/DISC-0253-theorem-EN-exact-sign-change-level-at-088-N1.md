@@ -75,3 +75,5 @@ Clone informational-flux-identity at ceb654d12046; pip install python-flint symp
 
 ## Change History
 - 2026-11-16: created.
+
+- 2026-11-22 ~7:30 AM EST note (append; history above unchanged): the kept limit and open item 'level 1 at 0.88 undecided' are closed by DISC-0254 (Theorem EO, informational-flux-identity a5a95218e714): the exact level-1 closed form gives Y_1 - Y_oo in [-1.707624e-02, -1.703396e-02] < 0, so at (0.88, N = 1) Y_n - Y_oo changes sign exactly once for all n >= 1, 9 -> 10. EN.1 at k0 = n = 1 remains undecided (+8.635e-05 with the exact D'_1), as EO records.
