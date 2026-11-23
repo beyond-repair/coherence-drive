@@ -78,3 +78,4 @@ Finer Arb bisection on (−13/20, −3/8) with D_1-style derivative bound (FE.3)
 
 ## Change History
 - 2026-11-23 ~8:00 AM EST: created.
+- 2026-11-23 ~9:20 AM EST: status note. FF.3 (sign of G_2 - G_1 on (-13/20,-3/8), OPEN) is settled by Theorem FG (informational-flux-identity 0a6f9431aee9; DISC-0272): exactly one simple zero beta_c in (-0.5679,-0.5677); G_2 > G_1 iff alpha > beta_c. The text above is kept as first written.

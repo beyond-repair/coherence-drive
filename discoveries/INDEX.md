@@ -944,3 +944,9 @@ A 2026-11-23 ~8:00 AM EST append adds DISC-0271 (THEOREM; Theorem FF, monotonici
 - DISC-0268 → DISC-0271. Label: mathematical. FC.4 observed monotonicity certified for 2 <= n <= 10; FC.1/FC.2 reused.
 - DISC-0269 → DISC-0271. Label: mathematical. alpha_c bounds FF.2's failure range.
 - DISC-0267 → DISC-0271. Label: mathematical. FB.4 closes the chain at G_11 < W/2.
+
+A 2026-11-23 ~9:20 AM EST append adds DISC-0272 (THEOREM; Theorem FG, the n = 1 monotonicity crossing beta_c) from informational-flux-identity 0a6f9431aee9. File: [mathematics/DISC-0272-theorem-FG-n1-monotone-crossing.md](mathematics/DISC-0272-theorem-FG-n1-monotone-crossing.md).
+
+- DISC-0271 → DISC-0272. Label: mathematical. FF.3 open sign settled; FF.2 excludes zeros on (-1,-13/20].
+- DISC-0270 → DISC-0272. Label: mathematical. FE.3 justifies the derivative under the integral.
+- DISC-0269 → DISC-0272. Label: mathematical. Parallel n = 1 threshold alpha_c, distinct from beta_c.
