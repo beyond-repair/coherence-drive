@@ -897,3 +897,9 @@ A 2026-11-22 ~11:55 PM EST append adds DISC-0263 (THEOREM; Theorem EX, W on the 
 - DISC-0261 → DISC-0263. Label: computational. EX.3 reuses EV's evaluator and tail bound.
 - DISC-0260 → DISC-0263. Label: mathematical. EU.1/EU.3 dominator R_n <= 1/3; ln5 reference level.
 - DISC-0258 → DISC-0263. Label: mathematical. ES.1 degree gap.
+
+A 2026-11-23 ~1:00 AM EST append adds DISC-0264 (THEOREM; Theorem EY, geometric rate for EX's limit) from informational-flux-identity 9adc08ff3a1d. File: [mathematics/DISC-0264-theorem-EY-geometric-rate.md](mathematics/DISC-0264-theorem-EY-geometric-rate.md).
+
+- DISC-0263 → DISC-0264. Label: mathematical. EY puts a (2/5)^n rate on EX.1's limit.
+- DISC-0260 → DISC-0264. Label: mathematical. EU.1/EU.3/EU.4 closed form, dominator, product.
+- DISC-0262 → DISC-0264. Label: mathematical. EW.1 finiteness of W(alpha - 1).

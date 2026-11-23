@@ -77,3 +77,4 @@ In informational-flux-identity @ 165a8ed0eded: `python scripts/gasket_fractional
 
 ## Change History
 - 2026-11-22 ~11:55 PM EST: created (THEOREM EX.1–EX.3, OBSERVED EX.4; method KNOWN, statement UNRESOLVED).
+- 2026-11-23 ~1:00 AM EST: the open item "rate for alpha != 0" was partly closed by Theorem EY (informational-flux-identity 9adc08ff3a1d; DISC-0264): rate (2/5)^n on -1 <= Re alpha <= 9/10, n >= 11; the observed 3^-n rate is not proved. The text above is kept as first written.
