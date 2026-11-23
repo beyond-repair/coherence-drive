@@ -73,3 +73,4 @@ In informational-flux-identity @ 084cb3bba7ca: `python scripts/gasket_fractional
 
 ## Change History
 - 2026-11-22 ~11:00 PM EST: created (THEOREM EW.1–EW.4, OBSERVED EW.5; method KNOWN, statement UNRESOLVED).
+- 2026-11-22 ~11:55 PM EST: the open item "W on real alpha" was closed by Theorem EX (informational-flux-identity 165a8ed0eded; DISC-0263). The text above is kept as first written.

@@ -890,3 +890,10 @@ A 2026-11-22 ~11:00 PM EST append adds DISC-0261 (THEOREM; Theorem EV, certified
 - DISC-0261 → DISC-0262. Label: computational. EW.4 reuses EV's evaluator and EV.3's tail bound.
 - DISC-0260 → DISC-0262. Label: mathematical. EU.4's partition of unity sum_j F(5^j tau) = 1 forces W(i omega_k) = 0.
 - DISC-0259 → DISC-0262. Label: mathematical. ET.1/ET.2 scaling and dominator reused in EW.3.
+
+A 2026-11-22 ~11:55 PM EST append adds DISC-0263 (THEOREM; Theorem EX, W on the half-plane and real axis) from informational-flux-identity 165a8ed0eded. File: [mathematics/DISC-0263-theorem-EX-alpha-limit-real-shape.md](mathematics/DISC-0263-theorem-EX-alpha-limit-real-shape.md).
+
+- DISC-0262 → DISC-0263. Label: mathematical. EX closes EW's real-alpha open item.
+- DISC-0261 → DISC-0263. Label: computational. EX.3 reuses EV's evaluator and tail bound.
+- DISC-0260 → DISC-0263. Label: mathematical. EU.1/EU.3 dominator R_n <= 1/3; ln5 reference level.
+- DISC-0258 → DISC-0263. Label: mathematical. ES.1 degree gap.
