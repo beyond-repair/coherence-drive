@@ -83,3 +83,4 @@ A rate for 3^n D_n → V(α) sharp enough to give m > C/3 beyond n = 11.
 
 ## Change History
 - 2026-11-23 ~9:20 AM EST: created.
+- 2026-11-23 ~10:15 AM EST: status note. The kept limit "monotonicity for n >= 11 OPEN" is settled by Theorem FH (informational-flux-identity 193d366ba0b3; DISC-0273): 3^n(G_(n+1) - G_n) >= 0.048434 > 0 for every n >= 11 on real alpha in [-1,1). The text above is kept as first written.

@@ -950,3 +950,9 @@ A 2026-11-23 ~9:20 AM EST append adds DISC-0272 (THEOREM; Theorem FG, the n = 1 
 - DISC-0271 → DISC-0272. Label: mathematical. FF.3 open sign settled; FF.2 excludes zeros on (-1,-13/20].
 - DISC-0270 → DISC-0272. Label: mathematical. FE.3 justifies the derivative under the integral.
 - DISC-0269 → DISC-0272. Label: mathematical. Parallel n = 1 threshold alpha_c, distinct from beta_c.
+
+A 2026-11-23 ~10:15 AM EST append adds DISC-0273 (THEOREM; Theorem FH, monotonicity in n for every n >= 11) from informational-flux-identity 193d366ba0b3. File: [mathematics/DISC-0273-theorem-FH-monotone-large-n.md](mathematics/DISC-0273-theorem-FH-monotone-large-n.md).
+
+- DISC-0271 → DISC-0273. Label: mathematical. FF.1 (2 <= n <= 10) composed with FH.3; n >= 11 kept limit closed.
+- DISC-0272 → DISC-0273. Label: mathematical. FG.4 (n = 1) composed; n >= 11 kept limit closed.
+- DISC-0267 → DISC-0273. Label: mathematical. FB.2 C <= 1095.75 sharpened to U <= 306.99; FB.4 lower bound reused.
