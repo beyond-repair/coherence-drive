@@ -877,3 +877,9 @@ A 2026-11-22 ~7:05 PM EST append adds DISC-0259 (THEOREM for ET.1-ET.3, CONJECTU
 - DISC-0258 → DISC-0259. Label: mathematical. ES.2's H_n(0) = int_0^oo h_n is the quantity whose limit ET.2 proves; ES's kept limit 'no statement as n -> oo' closed.
 - DISC-0256 → DISC-0259. Label: mathematical. EQ.1's h_n = Q_n/(2A_n) = r_n/(2q_(n-1)) gives ET.1's scaling form.
 - DISC-0254 → DISC-0259. Label: mathematical. EO.1's h_1 gives the n = 1 closed form 3H_1(0) = (3/(2 sqrt13)) ln((7+sqrt13)/(7-sqrt13)).
+
+A 2026-11-22 ~9:05 PM EST append adds DISC-0260 (THEOREM; Theorem EU, value of ET's limit, W(0) = ln5) from informational-flux-identity 1e03cae997ed. File: [mathematics/DISC-0260-theorem-EU-H-zero-value-ln5.md](mathematics/DISC-0260-theorem-EU-H-zero-value-ln5.md).
+
+- DISC-0259 → DISC-0260. Label: mathematical. EU.3 proves ET.5 (K = ln5/2), and EU.4 supplies ET's missing rate.
+- DISC-0258 → DISC-0260. Label: mathematical. ES.2's H_n(0) = int h_n is the quantity evaluated.
+- DISC-0256 → DISC-0260. Label: mathematical. EQ.1's r_n = B_n/A_n; EU.1 gives 2A_n = sB_n + (s+6) prod (p^k+3).

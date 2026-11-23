@@ -93,3 +93,4 @@ None. A limit of integrals of rational functions on the combinatorial gasket. No
 
 ## Change History
 - 2026-11-22: created.
+- 2026-11-22 ~9:05 PM EST: ET.5 status changed from CONJECTURE to THEOREM. It was proved by Theorem EU (informational-flux-identity 1e03cae997ed; DISC-0260): K = ln5/2, W(0) = ln5, rate c 3^-n with c ≈ 2.6718228. The text above is kept as first written.
