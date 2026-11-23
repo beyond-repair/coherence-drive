@@ -89,3 +89,5 @@ None. Identities and a floor for the residues of a rational function on the comb
 
 ## Change History
 - 2026-11-22: created.
+
+- 2026-11-22 ~7:05 PM EST note (appended; the history above is unchanged): DISC-0259 (Theorem ET, informational-flux-identity 87936a0d4338) closes the kept limit "H_n(0) for n <= 8 only, no statement as n -> oo": 3^n H_n(0) -> K in a certified bracket [0.19029, 1.93464], conjecturally K = ln5/2. ES's statements are unchanged; ES's open upper bound/limit/rate for S_n^- stays open.

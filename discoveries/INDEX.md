@@ -871,3 +871,9 @@ A 2026-11-22 ~5:50 PM EST append adds DISC-0258 (THEOREM; Theorem ES, sum, low m
 - DISC-0257 → DISC-0258. Label: mathematical. ER.1's count of 2^(n-2) negative residues, one per interval of {p^(n-1) < -5}, is the index set of S_n^- and C_n^-; ER's kept limit 'signs and counts only: no magnitude, no sum' closed.
 - DISC-0256 → DISC-0258. Label: mathematical. EQ.1's degrees (deg A_n = 2^n, deg Q_n = 2^(n-1) - 1) and A_n(0) = 3^(n+1) give the degree gap, the vanishing moments and h_n(0).
 - DISC-0254 → DISC-0258. Label: mathematical. EO.1's h_1 = 1/(2(s^2+7s+9)) gives S_1^- = 1/(2 sqrt13).
+
+A 2026-11-22 ~7:05 PM EST append adds DISC-0259 (THEOREM for ET.1-ET.3, CONJECTURE for ET.5 K = ln5/2; Theorem ET, refinement limit of H_n(0)) from informational-flux-identity 87936a0d4338. File: [mathematics/DISC-0259-theorem-ET-H-zero-refinement-limit.md](mathematics/DISC-0259-theorem-ET-H-zero-refinement-limit.md).
+
+- DISC-0258 → DISC-0259. Label: mathematical. ES.2's H_n(0) = int_0^oo h_n is the quantity whose limit ET.2 proves; ES's kept limit 'no statement as n -> oo' closed.
+- DISC-0256 → DISC-0259. Label: mathematical. EQ.1's h_n = Q_n/(2A_n) = r_n/(2q_(n-1)) gives ET.1's scaling form.
+- DISC-0254 → DISC-0259. Label: mathematical. EO.1's h_1 gives the n = 1 closed form 3H_1(0) = (3/(2 sqrt13)) ln((7+sqrt13)/(7-sqrt13)).
