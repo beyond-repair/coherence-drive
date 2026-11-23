@@ -86,3 +86,4 @@ None. This is an identity for rational functions on the combinatorial gasket. It
 
 ## Change History
 - 2026-11-22: created.
+- 2026-11-22 ~11:00 PM EST: EU.4's value of c moved from OBSERVED to a certified Arb enclosure [2.6718228119692690732957669002, 2.6718228119692690732957669003] by Theorem EV (informational-flux-identity 3b810e829dd0; DISC-0261). The text above is kept as first written.

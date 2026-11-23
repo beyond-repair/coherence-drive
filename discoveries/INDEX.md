@@ -883,3 +883,10 @@ A 2026-11-22 ~9:05 PM EST append adds DISC-0260 (THEOREM; Theorem EU, value of E
 - DISC-0259 → DISC-0260. Label: mathematical. EU.3 proves ET.5 (K = ln5/2), and EU.4 supplies ET's missing rate.
 - DISC-0258 → DISC-0260. Label: mathematical. ES.2's H_n(0) = int h_n is the quantity evaluated.
 - DISC-0256 → DISC-0260. Label: mathematical. EQ.1's r_n = B_n/A_n; EU.1 gives 2A_n = sB_n + (s+6) prod (p^k+3).
+
+A 2026-11-22 ~11:00 PM EST append adds DISC-0261 (THEOREM; Theorem EV, certified enclosure of c) from informational-flux-identity 3b810e829dd0 and DISC-0262 (THEOREM; Theorem EW, imaginary zeros of W) from 084cb3bba7ca. Files: [mathematics/DISC-0261-theorem-EV-rate-constant-certified.md](mathematics/DISC-0261-theorem-EV-rate-constant-certified.md), [mathematics/DISC-0262-theorem-EW-mellin-zeros.md](mathematics/DISC-0262-theorem-EW-mellin-zeros.md).
+
+- DISC-0260 → DISC-0261. Label: mathematical/computational. EV certifies EU.4's observed c.
+- DISC-0261 → DISC-0262. Label: computational. EW.4 reuses EV's evaluator and EV.3's tail bound.
+- DISC-0260 → DISC-0262. Label: mathematical. EU.4's partition of unity sum_j F(5^j tau) = 1 forces W(i omega_k) = 0.
+- DISC-0259 → DISC-0262. Label: mathematical. ET.1/ET.2 scaling and dominator reused in EW.3.
