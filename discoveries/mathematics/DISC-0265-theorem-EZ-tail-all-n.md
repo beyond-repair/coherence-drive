@@ -85,3 +85,4 @@ In informational-flux-identity @ 3a6c5e27648d: `python3 scripts/gasket_fractiona
 
 ## Change History
 - 2026-11-23 ~2:00 AM EST: created (THEOREM EZ.0–EZ.2, Arb EZ.3, KEPT FAILURE n = 10; method KNOWN, constants UNRESOLVED).
+- 2026-11-23 ~3:00 AM EST: status note. The open item "certify EY.2's constants and W(Re alpha − 1)" is closed by Theorem FA (informational-flux-identity 3aa8369c57c8; DISC-0266). The text above is kept as first written.

@@ -908,3 +908,10 @@ A 2026-11-23 ~2:00 AM EST append adds DISC-0265 (THEOREM; Theorem EZ, EY.3's tai
 
 - DISC-0264 → DISC-0265. Label: mathematical. EZ proves EY.3's tail inequality for every n >= 11.
 - DISC-0263 → DISC-0265. Label: mathematical. EX.1's psi lower-bound chain.
+
+A 2026-11-23 ~3:00 AM EST append adds DISC-0266 (THEOREM; Theorem FA, EY's constants certified end to end; KEPT FAILURE: EY.2's 0.127 false by a hair) from informational-flux-identity 3aa8369c57c8. File: [mathematics/DISC-0266-theorem-FA-EY-constants-certified.md](mathematics/DISC-0266-theorem-FA-EY-constants-certified.md).
+
+- DISC-0264 → DISC-0266. Label: mathematical. FA certifies EY.2/EY.3's constants and corrects 0.127 to 4 − √15.
+- DISC-0265 → DISC-0266. Label: mathematical. FA closes EZ's remaining open item.
+- DISC-0261 → DISC-0266. Label: mathematical. EV.1's coefficient bounds give FA.2.
+- DISC-0263 → DISC-0266. Label: mathematical. EX.2/EX.3 monotonicity gives W(Re α − 1) ≤ W(−2).
