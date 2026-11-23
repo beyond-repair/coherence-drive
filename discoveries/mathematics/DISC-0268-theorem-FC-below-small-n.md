@@ -79,3 +79,4 @@ Arb bisection of D_1 on (−3/4, −73/100); certified monotonicity in n.
 ## Change History
 - 2026-11-23 ~5:05 AM EST: created.
 - 2026-11-23 ~6:05 AM EST: status note. The open item "α_c ≈ −0.7407 and uniqueness uncertified" is closed by Theorem FD (informational-flux-identity 2f21233357a9; DISC-0269): exactly one zero α_c ∈ (−0.7408, −0.7406). The text above is kept as first written.
+- 2026-11-23 ~8:00 AM EST: status note. FC.4 (monotonicity in n, OBSERVED) is certified for 2 <= n <= 10 and real alpha in [-1,1) by Theorem FF (informational-flux-identity 192340ee69ca; DISC-0271); at n = 1 it fails on (-1,-13/20] (certified kept failure); n >= 11 stays OPEN. The text above is kept as first written.

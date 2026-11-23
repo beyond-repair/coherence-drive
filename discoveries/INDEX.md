@@ -938,3 +938,9 @@ A 2026-11-23 ~7:00 AM EST append adds DISC-0270 (THEOREM; Theorem FE, analyticit
 
 - DISC-0269 → DISC-0270. Label: mathematical. FD's differentiation-under-integral assumption discharged.
 - DISC-0263 → DISC-0270. Label: mathematical. EX.1 integrability used as the dominator.
+
+A 2026-11-23 ~8:00 AM EST append adds DISC-0271 (THEOREM; Theorem FF, monotonicity in n) from informational-flux-identity 192340ee69ca. File: [mathematics/DISC-0271-theorem-FF-monotone-n.md](mathematics/DISC-0271-theorem-FF-monotone-n.md).
+
+- DISC-0268 → DISC-0271. Label: mathematical. FC.4 observed monotonicity certified for 2 <= n <= 10; FC.1/FC.2 reused.
+- DISC-0269 → DISC-0271. Label: mathematical. alpha_c bounds FF.2's failure range.
+- DISC-0267 → DISC-0271. Label: mathematical. FB.4 closes the chain at G_11 < W/2.
