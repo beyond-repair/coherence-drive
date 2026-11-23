@@ -928,3 +928,8 @@ A 2026-11-23 ~5:05 AM EST append adds DISC-0268 (THEOREM; Theorem FC, approach f
 - DISC-0267 → DISC-0268. Label: mathematical. FB's kept limit "n ≤ 10 from below OBSERVED only": closed for n ≥ 2, false at n = 1.
 - DISC-0263 → DISC-0268. Label: mathematical. EX.4's observed approach from below proved for n ≥ 2.
 - DISC-0261 → DISC-0268. Label: computational. EV.1/EV.2 evaluator reused.
+
+A 2026-11-23 ~6:05 AM EST append adds DISC-0269 (THEOREM; Theorem FD, unique n = 1 crossing) from informational-flux-identity 2f21233357a9. File: [mathematics/DISC-0269-theorem-FD-n1-crossing.md](mathematics/DISC-0269-theorem-FD-n1-crossing.md).
+
+- DISC-0268 → DISC-0269. Label: mathematical. FC's open item "certify α_c and uniqueness" closed.
+- DISC-0267 → DISC-0269. Label: mathematical. n = 1 boundary of FB's kept limit made sharp.
