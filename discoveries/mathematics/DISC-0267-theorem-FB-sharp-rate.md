@@ -81,3 +81,4 @@ In informational-flux-identity @ 7d8d12e: python scripts/gasket_fractional_corne
 
 ## Change History
 - 2026-11-23 ~4:15 AM EST: created.
+- 2026-11-23 ~5:05 AM EST: status note. The kept limit "n ≤ 10 from below is OBSERVED only" is closed for 2 ≤ n ≤ 10 by Theorem FC (informational-flux-identity 0f0ca3bd3e5d; DISC-0268) and is false at n = 1 for α ∈ (−1, −3/4] (kept failure FC.3). The text above is kept as first written.

@@ -922,3 +922,9 @@ A 2026-11-23 ~4:15 AM EST append adds DISC-0267 (THEOREM; Theorem FB, sharp 3^-n
 - DISC-0266 → DISC-0267. Label: mathematical. FA's constants feed FB; FA's "q = 2/5 not sharp" closed.
 - DISC-0261 → DISC-0267. Label: mathematical. V(0) = EV's c.
 - DISC-0263 → DISC-0267. Label: mathematical. EX.4's observed side proved (FB.4).
+
+A 2026-11-23 ~5:05 AM EST append adds DISC-0268 (THEOREM; Theorem FC, approach from below for 2 ≤ n ≤ 10, kept failure at n = 1) from informational-flux-identity 0f0ca3bd3e5d. File: [mathematics/DISC-0268-theorem-FC-below-small-n.md](mathematics/DISC-0268-theorem-FC-below-small-n.md).
+
+- DISC-0267 → DISC-0268. Label: mathematical. FB's kept limit "n ≤ 10 from below OBSERVED only": closed for n ≥ 2, false at n = 1.
+- DISC-0263 → DISC-0268. Label: mathematical. EX.4's observed approach from below proved for n ≥ 2.
+- DISC-0261 → DISC-0268. Label: computational. EV.1/EV.2 evaluator reused.
