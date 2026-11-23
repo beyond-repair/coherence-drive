@@ -83,3 +83,4 @@ In informational-flux-identity @ 3aa8369c57c8: `python3 scripts/gasket_fractiona
 
 ## Change History
 - 2026-11-23 ~3:00 AM EST: created (THEOREM FA.1–FA.3, FA.5; Arb FA.4; KEPT FAILURE EY.2's 0.127; method KNOWN, constants UNRESOLVED).
+- 2026-11-23 ~4:15 AM EST: status note. The open item "prove 3^-n rate (EY.4)" is closed by Theorem FB (informational-flux-identity 7d8d12e5ed36; DISC-0267), with C ≤ 1095.7499·3^-n for n ≥ 11. The text above is kept as first written.

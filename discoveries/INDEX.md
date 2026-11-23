@@ -915,3 +915,10 @@ A 2026-11-23 ~3:00 AM EST append adds DISC-0266 (THEOREM; Theorem FA, EY's const
 - DISC-0265 → DISC-0266. Label: mathematical. FA closes EZ's remaining open item.
 - DISC-0261 → DISC-0266. Label: mathematical. EV.1's coefficient bounds give FA.2.
 - DISC-0263 → DISC-0266. Label: mathematical. EX.2/EX.3 monotonicity gives W(Re α − 1) ≤ W(−2).
+
+A 2026-11-23 ~4:15 AM EST append adds DISC-0267 (THEOREM; Theorem FB, sharp 3^-n rate, leading coefficient V(α), approach from below) from informational-flux-identity 7d8d12e5ed36. File: [mathematics/DISC-0267-theorem-FB-sharp-rate.md](mathematics/DISC-0267-theorem-FB-sharp-rate.md).
+
+- DISC-0264 → DISC-0267. Label: mathematical. EY.4 OBSERVED → THEOREM.
+- DISC-0266 → DISC-0267. Label: mathematical. FA's constants feed FB; FA's "q = 2/5 not sharp" closed.
+- DISC-0261 → DISC-0267. Label: mathematical. V(0) = EV's c.
+- DISC-0263 → DISC-0267. Label: mathematical. EX.4's observed side proved (FB.4).
