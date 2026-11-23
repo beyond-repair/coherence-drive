@@ -933,3 +933,8 @@ A 2026-11-23 ~6:05 AM EST append adds DISC-0269 (THEOREM; Theorem FD, unique n =
 
 - DISC-0268 → DISC-0269. Label: mathematical. FC's open item "certify α_c and uniqueness" closed.
 - DISC-0267 → DISC-0269. Label: mathematical. n = 1 boundary of FB's kept limit made sharp.
+
+A 2026-11-23 ~7:00 AM EST append adds DISC-0270 (THEOREM; Theorem FE, analyticity of D_n) from informational-flux-identity 0279889e2465. File: [mathematics/DISC-0270-theorem-FE-analyticity.md](mathematics/DISC-0270-theorem-FE-analyticity.md).
+
+- DISC-0269 → DISC-0270. Label: mathematical. FD's differentiation-under-integral assumption discharged.
+- DISC-0263 → DISC-0270. Label: mathematical. EX.1 integrability used as the dominator.

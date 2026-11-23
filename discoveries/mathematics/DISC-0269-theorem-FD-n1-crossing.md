@@ -76,3 +76,4 @@ Certified monotonicity in n; extend sign analysis below α = −1.
 
 ## Change History
 - 2026-11-23 ~6:05 AM EST: created.
+- 2026-11-23 ~7:00 AM EST: status note. The ASSUMPTION "differentiation under the integral" is discharged by Theorem FE (informational-flux-identity 0279889e2465; DISC-0270); FD.2/FD.3 hold unconditionally relative to FD's proved inputs. The text above is kept as first written.
