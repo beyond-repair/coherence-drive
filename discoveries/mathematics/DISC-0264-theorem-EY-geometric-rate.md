@@ -86,3 +86,4 @@ In informational-flux-identity @ 9adc08ff3a1d: `python scripts/gasket_fractional
 
 ## Change History
 - 2026-11-23 ~1:00 AM EST: created (THEOREM EY.1–EY.3, OBSERVED EY.4; method KNOWN, constants UNRESOLVED).
+- 2026-11-23 ~2:00 AM EST: correction and status note. In 9adc08ff3a1d, EY.3's tail inequality was only grid-checked for n < 40 (the repository says so in 3a6c5e27648d); this record did not say that. Theorem EZ (informational-flux-identity 3a6c5e27648d; DISC-0265) now proves the tail for every n >= 11. EY.2's float constants and W(Re alpha − 1) remain uncertified. The text above is kept as first written.

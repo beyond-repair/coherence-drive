@@ -903,3 +903,8 @@ A 2026-11-23 ~1:00 AM EST append adds DISC-0264 (THEOREM; Theorem EY, geometric 
 - DISC-0263 → DISC-0264. Label: mathematical. EY puts a (2/5)^n rate on EX.1's limit.
 - DISC-0260 → DISC-0264. Label: mathematical. EU.1/EU.3/EU.4 closed form, dominator, product.
 - DISC-0262 → DISC-0264. Label: mathematical. EW.1 finiteness of W(alpha - 1).
+
+A 2026-11-23 ~2:00 AM EST append adds DISC-0265 (THEOREM; Theorem EZ, EY.3's tail for all n >= 11) from informational-flux-identity 3a6c5e27648d. File: [mathematics/DISC-0265-theorem-EZ-tail-all-n.md](mathematics/DISC-0265-theorem-EZ-tail-all-n.md).
+
+- DISC-0264 → DISC-0265. Label: mathematical. EZ proves EY.3's tail inequality for every n >= 11.
+- DISC-0263 → DISC-0265. Label: mathematical. EX.1's psi lower-bound chain.
